@@ -1,0 +1,377 @@
+<!-- prettier-ignore -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+<style>
+h6 {
+color: #38b2ac;
+}
+	  
+thead tr th {
+color: #2c7a7b;
+}
+
+:root {
+  --input-alt-cizgi: #285e61;
+  --site-arkaplan: #f9f9f9;
+  --yayin-tarihi-renk: #fc8181;
+  --link-renk: #285e61;
+  --konu-renk: #285e61;
+  --no-renk: #fc8181;
+  --kategori-renk: #319795;
+  --dropdown-arkaplan: #ffffff;
+  --dropdown-yazi-renk:#319795;
+  --yukleniyor-arkaplan: dodgerblue;
+--anasayfa-ikon-renk: #fff;
+--anasayfa-buton-renk: #38b2ac;  
+}
+
+.container {
+position: relative;
+}
+
+header {
+display: flex;
+justify-content: flex-start;
+padding: 10px;
+align-items: center;
+}
+
+.anasayfa-btn {
+display: flex;
+align-items: center;
+justify-content: center;
+background: var(--anasayfa-buton-renk);
+padding: 0 13px;
+margin-right: 10px;
+}
+
+.anasayfa-btn svg {
+width: 15px;
+fill: var(--anasayfa-ikon-renk);
+}
+
+.site-title {
+text-align: center;
+flex:1;
+}
+
+tr td:nth-child(1),
+tr th:nth-child(1),
+tr td:nth-child(3),
+tr th:nth-child(3),
+tr td:nth-child(4),
+tr th:nth-child(4) {
+  text-align: center;
+}
+
+* {
+  box-sizing:border-box;
+}
+
+html, body {
+  -webkit-tap-highlight-color: transparent; /* for removing the highlight */
+  min-height: 100vh;
+}
+body{
+  background-color: var(--site-arkaplan); 
+}
+
+.sticky {
+        position: sticky;
+        top: 0;
+        background: var(--site-arkaplan);
+      }
+
+tr td:nth-child(1) {
+  color: var(--no-renk);
+}
+tr td:nth-child(2) {
+  color: var(--konu-renk);
+}
+tr td:nth-child(3) {
+  color: var(--kategori-renk);
+}
+tr td:nth-child(4) {
+  color: var(--yayin-tarihi-renk);
+}
+
+.input-field input[type='search']:focus:not(.browser-default) {
+background: transparent;
+box-shadow: 0 1px 0 0 var(--input-alt-cizgi);
+}
+
+.select-wrapper input.select-dropdown:focus {
+border-bottom: 1px solid var(--input-alt-cizgi);
+}
+
+.dropdown-content li > a,
+.dropdown-content li > span {
+color: var(--dropdown-yazi-renk);
+}
+
+.dropdown-content {
+background: var(--dropdown-arkaplan);
+}
+
+#scroll {
+position: fixed;
+right: 10px;
+bottom: 10px;
+cursor: pointer;
+width: 50px;
+height: 50px;
+background-color: #38b2ac;
+text-indent: -9999px;
+display: none;
+-webkit-border-radius: 60px;
+-moz-border-radius: 60px;
+border-radius: 60px;
+}
+#scroll svg {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 20px;
+}
+#scroll:hover {
+background-color: #e74c3c;
+opacity: 1;
+filter: 'alpha(opacity=100)';
+-ms-filter: 'alpha(opacity=100)';
+}
+
+option {
+white-space: normal;
+}
+
+@media screen and (max-width: 480px) {
+.container {
+width: 100%;
+}
+.input-field input[type='search'],
+.select-wrapper input.select-dropdown {
+font-size: 12px;
+}
+.row {
+margin-bottom: 0;
+}
+.input-field {
+margin-top: 0;
+margin-bottom: 0;
+}
+td,
+th {
+padding: 10px 8px;
+}
+th {
+font-size: 12px;
+}
+.order-table {
+font-size: 12px;
+}
+.dropdown-content li > a,
+.dropdown-content li > span {
+font-size: 13px;
+line-height: 16px;
+padding: 8px 10px;
+}
+.dropdown-content li {
+min-height: unset;
+}
+}
+
+</style>
+</head>
+
+<body>
+<div class="container">
+<header>
+<a href="https://mfs79.github.io/A/AnaSayfa.html" class="anasayfa-btn waves-effect waves-light btn">
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 491.398 491.398" style="enable-background:new 0 0 491.398 491.398;" xml:space="preserve">
+<g id="Icons_19_">
+<path d="M481.765,220.422L276.474,15.123c-16.967-16.918-44.557-16.942-61.559,0.023L9.626,220.422
+c-12.835,12.833-12.835,33.65,0,46.483c12.843,12.842,33.646,12.842,46.487,0l27.828-27.832v214.872
+c0,19.343,15.682,35.024,35.027,35.024h74.826v-97.62c0-7.584,6.146-13.741,13.743-13.741h76.352
+c7.59,0,13.739,6.157,13.739,13.741v97.621h74.813c19.346,0,35.027-15.681,35.027-35.024V239.091l27.812,27.815
+c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,254.072,494.609,233.256,481.765,220.422z"/>
+</g>
+</svg>
+</a>
+<h6 class="site-title">{ Dergilerdeki Tüm Faziletli Ameller }</h6>
+</header>
+
+<div class="row sticky">
+<div class="input-field col m6 s12">
+<input type="search" class="light-table-filter" data-table="order-table" placeholder="Aramak için enter'a basın..."/>
+</div>
+<div class="input-field col m6 s12">
+<select class="select-table-filter" type="search" data-table="order-table">
+        <option value="">Kategori Seçin</option>
+        <option value="(-)">(-)</option>
+<option value="(Ezber)">(Ezber)</option>
+<option value="(Hacet)">(Hacet)</option>
+<option value="(İsm-i Şerifler)">(İsm-i Şerifler)</option>
+<option value="(İstiğfar)">(İstiğfar)</option>
+<option value="(İstihare)">(İstihare)</option>
+<option value="(Kabristan)">(Kabristan)</option>
+<option value="(Koruma)">(Koruma)</option>
+<option value="(Namaz)">(Namaz)</option>
+<option value="(Rızık)">(Rızık)</option>
+<option value="(Salevat)">(Salevat)</option>
+<option value="(Sevap)">(Sevap)</option>
+<option value="(Sihir Bozma)">(Sihir Bozma)</option>
+<option value="(Sureler)">(Sureler)</option>
+<option value="(Şifa)">(Şifa)</option>
+      </select>
+    </div>
+  </div>
+  <table class="order-table">
+  <thead>
+  <tr>
+  <th style="width: 7%;">No</th>
+  <th>Konu</th>
+  <th style="width: 10%;">Kategori</th>
+  <th style="width: 30%">Yayın Tarihi</th>
+  </tr>
+  </thead>
+    <tbody>
+    </tbody>
+  </table>
+</div>
+<a href="#" id="scroll" style="display: none">
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 50.454 50.454" style="enable-background:new 0 0 50.454 50.454;" xml:space="preserve">
+
+<path style="fill:#ffffff;" d="M42.359,25.479L27.122,1.25c-1.048-1.667-2.747-1.667-3.795,0L8.095,25.479
+          c-1.048,1.667-0.316,2.801,1.635,2.532l5.43-0.885c1.95-0.269,3.531,1.11,3.531,3.079v16.683c0,1.969,1.596,3.566,3.565,3.566
+          h5.935c1.97,0,3.566-1.596,3.566-3.566V30.206c0-1.969,1.582-3.348,3.531-3.079l5.436,0.885
+          C42.674,28.28,43.407,27.146,42.359,25.479z"/>
+</svg>
+</a>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+<script>
+;(function (document) {
+'use strict'
+
+let htmlStr = ''
+
+fetch(
+'https://raw.githubusercontent.com/mfs79/A/master/DergiAmeller.json'
+)
+.then((response) => response.json())
+.then((data) => {
+data.forEach((p) => {
+htmlStr += `<tr style="display:none;">
+<td>${p['No']}</td>
+${p["Link"] != null ? '<td><a href="' + p["Link"] + '" target="_blank">' + p["Konu"] + '</a></td>' : '<td>' + p["Konu"] + '</td>'}
+<td>${p['Kategori']}</td>
+<td>${p['Yayın Tarihi']}</td>
+</tr>`
+})
+})
+.then(() => {
+document.querySelector('.order-table > tbody').innerHTML = htmlStr
+})
+
+var LightTableFilter = (function (Arr) {
+var _input
+var _select
+
+function _onInputEvent(e) {
+_input = e.target
+var tables = document.getElementsByClassName(
+_input.getAttribute('data-table')
+)
+if (_input.value == '') {
+document
+.querySelectorAll('.order-table tbody tr')
+.forEach((p) => {
+p.style.display = 'none'
+})
+} else if (e.key === 'Enter' || e.keyCode === 13) {
+Arr.forEach.call(tables, function (table) {
+Arr.forEach.call(table.tBodies, function (tbody) {
+Arr.forEach.call(tbody.rows, _filter)
+})
+})
+}
+}
+
+function _onSelectEvent(e) {
+_select = e.target
+var tables = document.getElementsByClassName(
+_select.getAttribute('data-table')
+)
+Arr.forEach.call(tables, function (table) {
+Arr.forEach.call(table.tBodies, function (tbody) {
+Arr.forEach.call(tbody.rows, _filterSelect)
+})
+})
+}
+
+function _filter(row) {
+var text = row.textContent.toLocaleLowerCase('tr'),
+val = _input.value.toLocaleLowerCase('tr')
+row.style.display = text.indexOf(val) === -1 ? 'none' : 'table-row'
+}
+
+function _filterSelect(row) {
+var text_select = row.textContent.toLocaleLowerCase('tr'),
+val_select = _select.options[
+_select.selectedIndex
+].value.toLocaleLowerCase('tr')
+row.style.display =
+text_select.indexOf(val_select) === -1 ? 'none' : 'table-row'
+}
+
+return {
+init: function () {
+var inputs = document.getElementsByClassName('light-table-filter')
+var selects = document.getElementsByClassName(
+'select-table-filter'
+)
+Arr.forEach.call(inputs, function (input) {
+input.onkeyup = _onInputEvent
+})
+Arr.forEach.call(selects, function (select) {
+select.onchange = _onSelectEvent
+})
+},
+}
+})(Array.prototype)
+
+document.addEventListener('readystatechange', function () {
+if (document.readyState === 'complete') {
+LightTableFilter.init()
+}
+})
+})(document)
+$(document).ready(function () {
+$('select').formSelect()
+$(window).scroll(function () {
+if ($(this).scrollTop() > 100) {
+$('#scroll').fadeIn()
+} else {
+$('#scroll').fadeOut()
+}
+})
+$('#scroll').click(function () {
+$('html, body').animate({ scrollTop: 0 }, 600)
+return false
+})
+})
+</script>
+</body>
+</html>
