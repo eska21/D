@@ -26,7 +26,7 @@
         --stok-tanımı-renk: #38b2ac;
         --stok-kodu-renk: #fc8181;
         --link-renk: #039be5;
-        --adet-renk: #fc8181;
+        --toplam-renk: #fc8181;
         --depo-renk: #319795;
         --dropdown-arkaplan: #ffffff;
         --dropdown-yazi-renk: #319795;
@@ -103,7 +103,7 @@
         color: var(--depo-renk);
       }
       tr td:nth-child(4) {
-        color: var(--adet-renk);
+        color: var(--toplam-renk);
       }
 
       td a {
@@ -202,7 +202,7 @@
     <div class="container">
       <header>
         <a
-          href="https://mfs79.github.io/A/Depo.html"
+          href="https://mfs79.github.io/D/DepoAnaSayfa.html"
           class="anasayfa-btn waves-effect waves-light btn"
         >
           <svg
@@ -246,8 +246,9 @@ c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,25
             data-table="order-table"
           >
             <option value="">Depo Seçin</option>
-            <option value="( - )">( - )</option>
-            
+            <option value="MERKEZ DEPO">MERKEZ DEPO</option>
+            <option value="MAMUL DEPO (Ürün Çıkış Depo)">MAMUL DEPO (Ürün Çıkış Depo)</option>
+			<option value="YARI MAMÜL (HAZIR OLMAYAN)">YARI MAMÜL (HAZIR OLMAYAN)</option>
           </select>
         </div>
       </div>
@@ -257,7 +258,7 @@ c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,25
             <th style="width: 15%">Stok Kodu</th>
             <th style="width: 35%">Stok Tanımı</th>
             <th style="width: 10%">Depo</th>
-            <th style="width: 10%">Adet</th>
+            <th style="width: 10%">Toplam</th>
            </tr>
         </thead>
         <tbody></tbody>
@@ -301,8 +302,6 @@ c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,25
               htmlStr += `<tr style="display:none;">
 <td>${p['Stok Kodu']}</td>
 <td>${p['Stok Tanımı']}</td>
-<td>${p['Depo']}</td>
-<td>${p['Adet']}</td>
 ${
   p['Link'] != null
     ? '<td><a href="' +
@@ -312,7 +311,7 @@ ${
       '</a></td>'
     : '<td>' + p['Depo'] + '</td>'
 }
-<td>${p['Durumu']}</td>
+<td>${p['Toplam']}</td>
 </tr>`
             })
           })
