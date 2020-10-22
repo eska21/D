@@ -1,767 +1,807 @@
-<!-- prettier-ignore -->
 <!DOCTYPE html>
 <html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
-<style>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <style>
+      h6 {
+        color: #38b2ac;
+      }
 
-h6 {color: #38b2ac;
-}
-	  
-thead tr th {
-color: #2c7a7b;
-}
+      thead tr th {
+        color: #2c7a7b;
+      }
 
-:root {
-  --input-alt-cizgi: #285e61;
-  --site-arkaplan: #f9f9f9;
-  --stok-tanımı-renk: #38b2ac;
-  --stok-kodu-renk: #fc8181;
-  --link-renk: #039be5;
-  --kategori-renk: #319795;
-  --adres-renk: #fc8181;
-  --adet-renk: #fc8181;
-  --durumu-renk: #319795;
-  --dropdown-arkaplan: #ffffff;
-  --dropdown-yazi-renk:#319795;
-  --yukleniyor-arkaplan: dodgerblue;
---anasayfa-ikon-renk: #fff;
---anasayfa-buton-renk: #38b2ac;
-}
+      :root {
+        --input-alt-cizgi: #285e61;
+        --site-arkaplan: #f9f9f9;
+        --stok-tanımı-renk: #38b2ac;
+        --stok-kodu-renk: #fc8181;
+        --link-renk: #039be5;
+        --kategori-renk: #319795;
+        --adres-renk: #fc8181;
+        --adet-renk: #fc8181;
+        --durumu-renk: #319795;
+        --dropdown-arkaplan: #ffffff;
+        --dropdown-yazi-renk: #319795;
+        --yukleniyor-arkaplan: dodgerblue;
+        --anasayfa-ikon-renk: #fff;
+        --anasayfa-buton-renk: #38b2ac;
+      }
 
-.container {
-position: relative;
-}
+      .container {
+        position: relative;
+      }
 
-header {
-display: flex;
-justify-content: flex-start;
-padding: 10px;
-align-items: center;
-}
+      header {
+        display: flex;
+        justify-content: flex-start;
+        padding: 10px;
+        align-items: center;
+      }
 
-.anasayfa-btn {
-display: flex;
-align-items: center;
-justify-content: center;
-background: var(--anasayfa-buton-renk);
-padding: 0 13px;
-margin-right: 10px;
-}
+      .anasayfa-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--anasayfa-buton-renk);
+        padding: 0 13px;
+        margin-right: 10px;
+      }
 
-.anasayfa-btn svg {
-width: 15px;
-fill: var(--anasayfa-ikon-renk);
-}
+      .anasayfa-btn svg {
+        width: 15px;
+        fill: var(--anasayfa-ikon-renk);
+      }
 
-.site-title {
-text-align: center;
-flex:1;
-}
+      .site-title {
+        text-align: center;
+        flex: 1;
+      }
 
-tr td:nth-child(1),
-tr th:nth-child(1),
-tr td:nth-child(3),
-tr th:nth-child(3),
-tr td:nth-child(4),
-tr th:nth-child(4),
-tr td:nth-child(5),
-tr th:nth-child(5),
-tr td:nth-child(6),
-tr th:nth-child(6) {
-  text-align: center;
-}
+      tr td:nth-child(1),
+      tr th:nth-child(1),
+      tr td:nth-child(3),
+      tr th:nth-child(3),
+      tr td:nth-child(4),
+      tr th:nth-child(4),
+      tr td:nth-child(5),
+      tr th:nth-child(5),
+      tr td:nth-child(6),
+      tr th:nth-child(6) {
+        text-align: center;
+      }
 
-* {
-  box-sizing:border-box;
-}
+      * {
+        box-sizing: border-box;
+      }
 
-html, body {
-  -webkit-tap-highlight-color: transparent; /* for removing the highlight */
-  min-height: 100vh;
-}
-body{
-  background-color: var(--site-arkaplan); 
-}
+      html,
+      body {
+        -webkit-tap-highlight-color: transparent; /* for removing the highlight */
+        min-height: 100vh;
+      }
+      body {
+        background-color: var(--site-arkaplan);
+      }
 
-.sticky {
+      .sticky {
         position: sticky;
         top: 0;
         background: var(--site-arkaplan);
       }
 
-tr td:nth-child(1) {
-  color: var(--stok-kodu-renk);
-}
-tr td:nth-child(2) {
-  color: var(--stok-tanimi-renk);
-}
-tr td:nth-child(3) {
-  color: var(--adet-renk);
-}
-tr td:nth-child(4) {
-  color: var(--kategori-renk);
-}
-tr td:nth-child(5) {
-  color: var(--adres-renk);
-}
-tr td:nth-child(6) {
-  color: var(--durumu-renk);
-}
+      tr td:nth-child(1) {
+        color: var(--stok-kodu-renk);
+      }
+      tr td:nth-child(2) {
+        color: var(--stok-tanimi-renk);
+      }
+      tr td:nth-child(3) {
+        color: var(--adet-renk);
+      }
+      tr td:nth-child(4) {
+        color: var(--kategori-renk);
+      }
+      tr td:nth-child(5) {
+        color: var(--adres-renk);
+      }
+      tr td:nth-child(6) {
+        color: var(--durumu-renk);
+      }
 
-td a {
-  color: var(--link-renk);
-}
+      td a {
+        color: var(--link-renk);
+      }
 
-.input-field input[type='search']:focus:not(.browser-default) {
-background: transparent;
-box-shadow: 0 1px 0 0 var(--input-alt-cizgi);
-}
+      .input-field input[type='search']:focus:not(.browser-default) {
+        background: transparent;
+        box-shadow: 0 1px 0 0 var(--input-alt-cizgi);
+      }
 
-.select-wrapper input.select-dropdown:focus {
-border-bottom: 1px solid var(--input-alt-cizgi);
-}
+      .select-wrapper input.select-dropdown:focus {
+        border-bottom: 1px solid var(--input-alt-cizgi);
+      }
 
-.dropdown-content li > a,
-.dropdown-content li > span {
-color: var(--dropdown-yazi-renk);
-}
+      .dropdown-content li > a,
+      .dropdown-content li > span {
+        color: var(--dropdown-yazi-renk);
+      }
 
-.dropdown-content {
-background: var(--dropdown-arkaplan);
-}
+      .dropdown-content {
+        background: var(--dropdown-arkaplan);
+      }
 
-#scroll {
-position: fixed;
-right: 10px;
-bottom: 10px;
-cursor: pointer;
-width: 50px;
-height: 50px;
-background-color: #38b2ac;
-text-indent: -9999px;
-display: none;
--webkit-border-radius: 60px;
--moz-border-radius: 60px;
-border-radius: 60px;
-}
-#scroll svg {
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-width: 20px;
-}
-#scroll:hover {
-background-color: #e74c3c;
-opacity: 1;
-filter: 'alpha(opacity=100)';
--ms-filter: 'alpha(opacity=100)';
-}
+      #scroll {
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        cursor: pointer;
+        width: 50px;
+        height: 50px;
+        background-color: #38b2ac;
+        text-indent: -9999px;
+        display: none;
+        -webkit-border-radius: 60px;
+        -moz-border-radius: 60px;
+        border-radius: 60px;
+      }
+      #scroll svg {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 20px;
+      }
+      #scroll:hover {
+        background-color: #e74c3c;
+        opacity: 1;
+        filter: 'alpha(opacity=100)';
+        -ms-filter: 'alpha(opacity=100)';
+      }
 
-option {
-white-space: normal;
-}
+      option {
+        white-space: normal;
+      }
 
-@media screen and (max-width: 480px) {
-.container {
-width: 100%;
-}
-.input-field input[type='search'],
-.select-wrapper input.select-dropdown {
-font-size: 12px;
-}
-.row {
-margin-bottom: 0;
-}
-.input-field {
-margin-top: 0;
-margin-bottom: 0;
-}
-td,
-th {
-padding: 10px 8px;
-}
-th {
-font-size: 12px;
-}
-.order-table {
-font-size: 12px;
-}
-.dropdown-content li > a,
-.dropdown-content li > span {
-font-size: 13px;
-line-height: 16px;
-padding: 8px 10px;
-}
-.dropdown-content li {
-min-height: unset;
-}
-}
+      @media screen and (max-width: 480px) {
+        .container {
+          width: 100%;
+        }
+        .input-field input[type='search'],
+        .select-wrapper input.select-dropdown {
+          font-size: 12px;
+        }
+        .row {
+          margin-bottom: 0;
+        }
+        .input-field {
+          margin-top: 0;
+          margin-bottom: 0;
+        }
+        td,
+        th {
+          padding: 10px 8px;
+        }
+        th {
+          font-size: 12px;
+        }
+        .order-table {
+          font-size: 12px;
+        }
+        .dropdown-content li > a,
+        .dropdown-content li > span {
+          font-size: 13px;
+          line-height: 16px;
+          padding: 8px 10px;
+        }
+        .dropdown-content li {
+          min-height: unset;
+        }
+      }
+    </style>
+  </head>
 
-</style>
-</head>
-
-<body>
-<div class="container">
-<header>
-<a href="https://mfs79.github.io/D/Depo.html" class="anasayfa-btn waves-effect waves-light btn">
-<?xml version="1.0" encoding="iso-8859-1"?>
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-viewBox="0 0 491.398 491.398" style="enable-background:new 0 0 491.398 491.398;" xml:space="preserve">
-<g id="Icons_19_">
-<path d="M481.765,220.422L276.474,15.123c-16.967-16.918-44.557-16.942-61.559,0.023L9.626,220.422
+  <body>
+    <div class="container">
+      <header>
+        <a
+          href="https://truvatruva.github.io/A/Depo.html"
+          class="anasayfa-btn waves-effect waves-light btn"
+        >
+          <svg
+            version="1.1"
+            id="Capa_1"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px"
+            y="0px"
+            viewBox="0 0 491.398 491.398"
+            style="enable-background: new 0 0 491.398 491.398"
+            xml:space="preserve"
+          >
+            <g id="Icons_19_">
+              <path
+                d="M481.765,220.422L276.474,15.123c-16.967-16.918-44.557-16.942-61.559,0.023L9.626,220.422
 c-12.835,12.833-12.835,33.65,0,46.483c12.843,12.842,33.646,12.842,46.487,0l27.828-27.832v214.872
 c0,19.343,15.682,35.024,35.027,35.024h74.826v-97.62c0-7.584,6.146-13.741,13.743-13.741h76.352
 c7.59,0,13.739,6.157,13.739,13.741v97.621h74.813c19.346,0,35.027-15.681,35.027-35.024V239.091l27.812,27.815
-c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,254.072,494.609,233.256,481.765,220.422z"/>
-</g>
-</svg>
-</a>
-<h6 class="site-title">{ Depo Adresleme Sistemi }</h6>
-</header>
+c6.425,6.421,14.833,9.63,23.243,9.63c8.408,0,16.819-3.209,23.242-9.63C494.609,254.072,494.609,233.256,481.765,220.422z"
+              />
+            </g>
+          </svg>
+        </a>
+        <h6 class="site-title">{ Depo Adresleme Sistemi }</h6>
+      </header>
 
-<div class="row sticky">
-<div class="input-field col m6 s12">
-<input type="search" class="light-table-filter" data-table="order-table" placeholder="Aramak için enter'a basın..."/>
-</div>
-<div class="input-field col m6 s12">
-<select class="select-table-filter" type="search" data-table="order-table">
-        <option value="">Adres Seçin</option>
-		<option value="( - )">( - )</option>
-<option value="( A 1 )">( A 1 )</option>
-<option value="( A 2 )">( A 2 )</option>
-<option value="( A 3 )">( A 3 )</option>
-<option value="( A 4 )">( A 4 )</option>
-<option value="( A 5 )">( A 5 )</option>
-<option value="( A 6 )">( A 6 )</option>
-<option value="( A 7 )">( A 7 )</option>
-<option value="( A 8 )">( A 8 )</option>
-<option value="( A 9 )">( A 9 )</option>
-<option value="( A 10 )">( A 10 )</option>
-<option value="( A 11 )">( A 11 )</option>
-<option value="( A 12 )">( A 12 )</option>
-<option value="( A 13 )">( A 13 )</option>
-<option value="( A 14 )">( A 14 )</option>
-<option value="( A 15 )">( A 15 )</option>
-<option value="( A 16 )">( A 16 )</option>
-<option value="( A 17 )">( A 17 )</option>
-<option value="( A 18 )">( A 18 )</option>
-<option value="( A 19 )">( A 19 )</option>
-<option value="( A 20 )">( A 20 )</option>
-<option value="( A 21 )">( A 21 )</option>
-<option value="( A 22 )">( A 22 )</option>
-<option value="( A 23 )">( A 23 )</option>
-<option value="( A 24 )">( A 24 )</option>
-<option value="( A 25 )">( A 25 )</option>
-<option value="( A 26 )">( A 26 )</option>
-<option value="( A 27 )">( A 27 )</option>
-<option value="( A 28 )">( A 28 )</option>
-<option value="( A 29 )">( A 29 )</option>
-<option value="( A 30 )">( A 30 )</option>
-<option value="( A 31 )">( A 31 )</option>
-<option value="( A 32 )">( A 32 )</option>
-<option value="( A 33 )">( A 33 )</option>
-<option value="( A 34 )">( A 34 )</option>
-<option value="( A 35 )">( A 35 )</option>
-<option value="( A 36 )">( A 36 )</option>
-<option value="( A 37 )">( A 37 )</option>
-<option value="( A 38 )">( A 38 )</option>
-<option value="( A 39 )">( A 39 )</option>
-<option value="( A 40 )">( A 40 )</option>
-<option value="( A 41 )">( A 41 )</option>
-<option value="( A 42 )">( A 42 )</option>
-<option value="( A 43 )">( A 43 )</option>
-<option value="( A 44 )">( A 44 )</option>
-<option value="( A 45 )">( A 45 )</option>
-<option value="( B 1 )">( B 1 )</option>
-<option value="( B 2 )">( B 2 )</option>
-<option value="( B 3 )">( B 3 )</option>
-<option value="( B 4 )">( B 4 )</option>
-<option value="( B 5 )">( B 5 )</option>
-<option value="( B 6 )">( B 6 )</option>
-<option value="( B 7 )">( B 7 )</option>
-<option value="( B 8 )">( B 8 )</option>
-<option value="( B 9 )">( B 9 )</option>
-<option value="( B 10 )">( B 10 )</option>
-<option value="( B 11 )">( B 11 )</option>
-<option value="( B 12 )">( B 12 )</option>
-<option value="( B 13 )">( B 13 )</option>
-<option value="( B 14 )">( B 14 )</option>
-<option value="( B 15 )">( B 15 )</option>
-<option value="( B 16 )">( B 16 )</option>
-<option value="( B 17 )">( B 17 )</option>
-<option value="( B 18 )">( B 18 )</option>
-<option value="( B 19 )">( B 19 )</option>
-<option value="( B 20 )">( B 20 )</option>
-<option value="( B 21 )">( B 21 )</option>
-<option value="( E 1 )">( E 1 )</option>
-<option value="( E 2 )">( E 2 )</option>
-<option value="( E 3 )">( E 3 )</option>
-<option value="( E 4 )">( E 4 )</option>
-<option value="( E 5 )">( E 5 )</option>
-<option value="( E 6 )">( E 6 )</option>
-<option value="( E 7 )">( E 7 )</option>
-<option value="( E 8 )">( E 8 )</option>
-<option value="( E 9 )">( E 9 )</option>
-<option value="( E 10 )">( E 10 )</option>
-<option value="( E 11 )">( E 11 )</option>
-<option value="( E 12 )">( E 12 )</option>
-<option value="( E 13 )">( E 13 )</option>
-<option value="( E 14 )">( E 14 )</option>
-<option value="( E 15 )">( E 15 )</option>
-<option value="( E 16 )">( E 16 )</option>
-<option value="( E 17 )">( E 17 )</option>
-<option value="( E 18 )">( E 18 )</option>
-<option value="( E 19 )">( E 19 )</option>
-<option value="( E 20 )">( E 20 )</option>
-<option value="( E 21 )">( E 21 )</option>
-<option value="( E 22 )">( E 22 )</option>
-<option value="( E 23 )">( E 23 )</option>
-<option value="( E 24 )">( E 24 )</option>
-<option value="( E 25 )">( E 25 )</option>
-<option value="( E 26 )">( E 26 )</option>
-<option value="( E 27 )">( E 27 )</option>
-<option value="( E 28 )">( E 28 )</option>
-<option value="( E 29 )">( E 29 )</option>
-<option value="( E 30 )">( E 30 )</option>
-<option value="( E 31 )">( E 31 )</option>
-<option value="( E 32 )">( E 32 )</option>
-<option value="( E 33 )">( E 33 )</option>
-<option value="( E 34 )">( E 34 )</option>
-<option value="( E 35 )">( E 35 )</option>
-<option value="( E 36 )">( E 36 )</option>
-<option value="( F 1 )">( F 1 )</option>
-<option value="( F 2 )">( F 2 )</option>
-<option value="( F 3 )">( F 3 )</option>
-<option value="( F 4 )">( F 4 )</option>
-<option value="( F 5 )">( F 5 )</option>
-<option value="( F 6 )">( F 6 )</option>
-<option value="( F 7 )">( F 7 )</option>
-<option value="( F 8 )">( F 8 )</option>
-<option value="( F 9 )">( F 9 )</option>
-<option value="( F 10 )">( F 10 )</option>
-<option value="( F 11 )">( F 11 )</option>
-<option value="( F 12 )">( F 12 )</option>
-<option value="( F 13 )">( F 13 )</option>
-<option value="( F 14 )">( F 14 )</option>
-<option value="( F 15 )">( F 15 )</option>
-<option value="( F 16 )">( F 16 )</option>
-<option value="( F 17 )">( F 17 )</option>
-<option value="( F 18 )">( F 18 )</option>
-<option value="( F 19 )">( F 19 )</option>
-<option value="( F 20 )">( F 20 )</option>
-<option value="( F 21 )">( F 21 )</option>
-<option value="( F 22 )">( F 22 )</option>
-<option value="( F 23 )">( F 23 )</option>
-<option value="( F 24 )">( F 24 )</option>
-<option value="( F 25 )">( F 25 )</option>
-<option value="( F 26 )">( F 26 )</option>
-<option value="( F 27 )">( F 27 )</option>
-<option value="( F 28 )">( F 28 )</option>
-<option value="( F 29 )">( F 29 )</option>
-<option value="( F 30 )">( F 30 )</option>
-<option value="( F 31 )">( F 31 )</option>
-<option value="( F 32 )">( F 32 )</option>
-<option value="( F 33 )">( F 33 )</option>
-<option value="( F 34 )">( F 34 )</option>
-<option value="( F 35 )">( F 35 )</option>
-<option value="( F 36 )">( F 36 )</option>
-<option value="( F 37 )">( F 37 )</option>
-<option value="( F 38 )">( F 38 )</option>
-<option value="( F 39 )">( F 39 )</option>
-<option value="( F 40 )">( F 40 )</option>
-<option value="( F 41 )">( F 41 )</option>
-<option value="( F 42 )">( F 42 )</option>
-<option value="( F 43 )">( F 43 )</option>
-<option value="( F 44 )">( F 44 )</option>
-<option value="( F 45 )">( F 45 )</option>
-<option value="( F 46 )">( F 46 )</option>
-<option value="( F 47 )">( F 47 )</option>
-<option value="( F 48 )">( F 48 )</option>
-<option value="( F 49 )">( F 49 )</option>
-<option value="( G 1 )">( G 1 )</option>
-<option value="( G 2 )">( G 2 )</option>
-<option value="( G 3 )">( G 3 )</option>
-<option value="( G 4 )">( G 4 )</option>
-<option value="( G 5 )">( G 5 )</option>
-<option value="( G 6 )">( G 6 )</option>
-<option value="( G 7 )">( G 7 )</option>
-<option value="( G 8 )">( G 8 )</option>
-<option value="( G 9 )">( G 9 )</option>
-<option value="( G 10 )">( G 10 )</option>
-<option value="( G 11 )">( G 11 )</option>
-<option value="( G 12 )">( G 12 )</option>
-<option value="( G 13 )">( G 13 )</option>
-<option value="( G 14 )">( G 14 )</option>
-<option value="( G 15 )">( G 15 )</option>
-<option value="( G 16 )">( G 16 )</option>
-<option value="( G 17 )">( G 17 )</option>
-<option value="( G 18 )">( G 18 )</option>
-<option value="( G 19 )">( G 19 )</option>
-<option value="( G 20 )">( G 20 )</option>
-<option value="( G 21 )">( G 21 )</option>
-<option value="( G 22 )">( G 22 )</option>
-<option value="( G 23 )">( G 23 )</option>
-<option value="( G 24 )">( G 24 )</option>
-<option value="( G 25 )">( G 25 )</option>
-<option value="( G 26 )">( G 26 )</option>
-<option value="( G 27 )">( G 27 )</option>
-<option value="( G 28 )">( G 28 )</option>
-<option value="( G 29 )">( G 29 )</option>
-<option value="( G 30 )">( G 30 )</option>
-<option value="( G 31 )">( G 31 )</option>
-<option value="( G 32 )">( G 32 )</option>
-<option value="( G 33 )">( G 33 )</option>
-<option value="( G 34 )">( G 34 )</option>
-<option value="( G 35 )">( G 35 )</option>
-<option value="( G 36 )">( G 36 )</option>
-<option value="( G 37 )">( G 37 )</option>
-<option value="( G 38 )">( G 38 )</option>
-<option value="( G 39 )">( G 39 )</option>
-<option value="( G 40 )">( G 40 )</option>
-<option value="( G 41 )">( G 41 )</option>
-<option value="( G 42 )">( G 42 )</option>
-<option value="( G 43 )">( G 43 )</option>
-<option value="( G 44 )">( G 44 )</option>
-<option value="( G 45 )">( G 45 )</option>
-<option value="( G 46 )">( G 46 )</option>
-<option value="( G 47 )">( G 47 )</option>
-<option value="( G 48 )">( G 48 )</option>
-<option value="( G 49 )">( G 49 )</option>
-<option value="( H 1 )">( H 1 )</option>
-<option value="( H 2 )">( H 2 )</option>
-<option value="( H 3 )">( H 3 )</option>
-<option value="( H 4 )">( H 4 )</option>
-<option value="( H 5 )">( H 5 )</option>
-<option value="( H 6 )">( H 6 )</option>
-<option value="( H 7 )">( H 7 )</option>
-<option value="( H 8 )">( H 8 )</option>
-<option value="( H 9 )">( H 9 )</option>
-<option value="( H 10 )">( H 10 )</option>
-<option value="( H 11 )">( H 11 )</option>
-<option value="( H 12 )">( H 12 )</option>
-<option value="( H 13 )">( H 13 )</option>
-<option value="( H 14 )">( H 14 )</option>
-<option value="( H 15 )">( H 15 )</option>
-<option value="( H 16 )">( H 16 )</option>
-<option value="( H 17 )">( H 17 )</option>
-<option value="( H 18 )">( H 18 )</option>
-<option value="( H 19 )">( H 19 )</option>
-<option value="( H 20 )">( H 20 )</option>
-<option value="( H 21 )">( H 21 )</option>
-<option value="( H 22 )">( H 22 )</option>
-<option value="( H 23 )">( H 23 )</option>
-<option value="( H 24 )">( H 24 )</option>
-<option value="( H 25 )">( H 25 )</option>
-<option value="( H 26 )">( H 26 )</option>
-<option value="( H 27 )">( H 27 )</option>
-<option value="( H 28 )">( H 28 )</option>
-<option value="( H 29 )">( H 29 )</option>
-<option value="( H 30 )">( H 30 )</option>
-<option value="( H 31 )">( H 31 )</option>
-<option value="( H 32 )">( H 32 )</option>
-<option value="( H 33 )">( H 33 )</option>
-<option value="( H 34 )">( H 34 )</option>
-<option value="( H 35 )">( H 35 )</option>
-<option value="( H 36 )">( H 36 )</option>
-<option value="( H 37 )">( H 37 )</option>
-<option value="( H 38 )">( H 38 )</option>
-<option value="( H 39 )">( H 39 )</option>
-<option value="( H 40 )">( H 40 )</option>
-<option value="( H 41 )">( H 41 )</option>
-<option value="( H 42 )">( H 42 )</option>
-<option value="( H 43 )">( H 43 )</option>
-<option value="( H 44 )">( H 44 )</option>
-<option value="( H 45 )">( H 45 )</option>
-<option value="( H 46 )">( H 46 )</option>
-<option value="( H 47 )">( H 47 )</option>
-<option value="( H 48 )">( H 48 )</option>
-<option value="( H 49 )">( H 49 )</option>
-<option value="( J 1 )">( J 1 )</option>
-<option value="( J 2 )">( J 2 )</option>
-<option value="( J 3 )">( J 3 )</option>
-<option value="( J 4 )">( J 4 )</option>
-<option value="( J 5 )">( J 5 )</option>
-<option value="( J 6 )">( J 6 )</option>
-<option value="( J 7 )">( J 7 )</option>
-<option value="( J 8 )">( J 8 )</option>
-<option value="( J 9 )">( J 9 )</option>
-<option value="( J 10 )">( J 10 )</option>
-<option value="( J 11 )">( J 11 )</option>
-<option value="( J 12 )">( J 12 )</option>
-<option value="( J 13 )">( J 13 )</option>
-<option value="( J 14 )">( J 14 )</option>
-<option value="( J 15 )">( J 15 )</option>
-<option value="( J 16 )">( J 16 )</option>
-<option value="( J 17 )">( J 17 )</option>
-<option value="( J 18 )">( J 18 )</option>
-<option value="( J 19 )">( J 19 )</option>
-<option value="( J 20 )">( J 20 )</option>
-<option value="( J 21 )">( J 21 )</option>
-<option value="( J 22 )">( J 22 )</option>
-<option value="( J 23 )">( J 23 )</option>
-<option value="( J 24 )">( J 24 )</option>
-<option value="( J 25 )">( J 25 )</option>
-<option value="( J 26 )">( J 26 )</option>
-<option value="( J 27 )">( J 27 )</option>
-<option value="( J 28 )">( J 28 )</option>
-<option value="( J 29 )">( J 29 )</option>
-<option value="( J 30 )">( J 30 )</option>
-<option value="( J 31 )">( J 31 )</option>
-<option value="( J 32 )">( J 32 )</option>
-<option value="( J 33 )">( J 33 )</option>
-<option value="( J 34 )">( J 34 )</option>
-<option value="( J 35 )">( J 35 )</option>
-<option value="( J 36 )">( J 36 )</option>
-<option value="( J 37 )">( J 37 )</option>
-<option value="( J 38 )">( J 38 )</option>
-<option value="( J 39 )">( J 39 )</option>
-<option value="( J 40 )">( J 40 )</option>
-<option value="( J 41 )">( J 41 )</option>
-<option value="( J 42 )">( J 42 )</option>
-<option value="( J 43 )">( J 43 )</option>
-<option value="( J 44 )">( J 44 )</option>
-<option value="( J 45 )">( J 45 )</option>
-<option value="( J 46 )">( J 46 )</option>
-<option value="( J 47 )">( J 47 )</option>
-<option value="( J 48 )">( J 48 )</option>
-<option value="( J 49 )">( J 49 )</option>
-<option value="( K 1 )">( K 1 )</option>
-<option value="( K 2 )">( K 2 )</option>
-<option value="( K 3 )">( K 3 )</option>
-<option value="( K 4 )">( K 4 )</option>
-<option value="( K 5 )">( K 5 )</option>
-<option value="( K 6 )">( K 6 )</option>
-<option value="( K 7 )">( K 7 )</option>
-<option value="( K 8 )">( K 8 )</option>
-<option value="( K 9 )">( K 9 )</option>
-<option value="( K 10 )">( K 10 )</option>
-<option value="( K 11 )">( K 11 )</option>
-<option value="( K 12 )">( K 12 )</option>
-<option value="( K 13 )">( K 13 )</option>
-<option value="( K 14 )">( K 14 )</option>
-<option value="( K 15 )">( K 15 )</option>
-<option value="( K 16 )">( K 16 )</option>
-<option value="( K 17 )">( K 17 )</option>
-<option value="( K 18 )">( K 18 )</option>
-<option value="( K 19 )">( K 19 )</option>
-<option value="( K 20 )">( K 20 )</option>
-<option value="( K 21 )">( K 21 )</option>
-<option value="( K 22 )">( K 22 )</option>
-<option value="( K 23 )">( K 23 )</option>
-<option value="( K 24 )">( K 24 )</option>
-<option value="( K 25 )">( K 25 )</option>
-<option value="( K 26 )">( K 26 )</option>
-<option value="( K 27 )">( K 27 )</option>
-<option value="( K 28 )">( K 28 )</option>
-<option value="( K 29 )">( K 29 )</option>
-<option value="( K 30 )">( K 30 )</option>
-<option value="( K 31 )">( K 31 )</option>
-<option value="( K 32 )">( K 32 )</option>
-<option value="( K 33 )">( K 33 )</option>
-<option value="( K 34 )">( K 34 )</option>
-<option value="( K 35 )">( K 35 )</option>
-<option value="( K 36 )">( K 36 )</option>
-<option value="( K 37 )">( K 37 )</option>
-<option value="( K 38 )">( K 38 )</option>
-<option value="( K 39 )">( K 39 )</option>
-<option value="( K 40 )">( K 40 )</option>
-<option value="( K 41 )">( K 41 )</option>
-<option value="( K 42 )">( K 42 )</option>
-<option value="( K 43 )">( K 43 )</option>
-<option value="( K 44 )">( K 44 )</option>
-<option value="( K 45 )">( K 45 )</option>
-<option value="( K 46 )">( K 46 )</option>
-<option value="( K 47 )">( K 47 )</option>
-<option value="( K 48 )">( K 48 )</option>
-<option value="( K 49 )">( K 49 )</option>
-<option value="( L 1 )">( L 1 )</option>
-<option value="( L 2 )">( L 2 )</option>
-<option value="( L 3 )">( L 3 )</option>
-<option value="( L 4 )">( L 4 )</option>
-<option value="( L 5 )">( L 5 )</option>
-<option value="( L 6 )">( L 6 )</option>
-<option value="( L 7 )">( L 7 )</option>
-<option value="( L 8 )">( L 8 )</option>
-<option value="( L 9 )">( L 9 )</option>
-<option value="( L 10 )">( L 10 )</option>
-<option value="( L 11 )">( L 11 )</option>
-<option value="( L 12 )">( L 12 )</option>
-<option value="( L 13 )">( L 13 )</option>
-<option value="( L 14 )">( L 14 )</option>
-<option value="( L 15 )">( L 15 )</option>
-<option value="( L 16 )">( L 16 )</option>
-<option value="( L 17 )">( L 17 )</option>
-<option value="( L 18 )">( L 18 )</option>
-<option value="( L 19 )">( L 19 )</option>
-<option value="( L 20 )">( L 20 )</option>
-<option value="( L 21 )">( L 21 )</option>
-<option value="( L 22 )">( L 22 )</option>
-<option value="( L 23 )">( L 23 )</option>
-<option value="( L 24 )">( L 24 )</option>
-<option value="( L 25 )">( L 25 )</option>
-<option value="( L 26 )">( L 26 )</option>
-<option value="( L 27 )">( L 27 )</option>
-<option value="( L 28 )">( L 28 )</option>
-<option value="( L 29 )">( L 29 )</option>
-<option value="( L 30 )">( L 30 )</option>
-<option value="( L 31 )">( L 31 )</option>
-<option value="( L 32 )">( L 32 )</option>
-<option value="( L 33 )">( L 33 )</option>
-<option value="( L 34 )">( L 34 )</option>
-<option value="( L 35 )">( L 35 )</option>
-
-      </select>
+      <div class="row sticky">
+        <div class="input-field col m6 s12">
+          <input
+            type="search"
+            class="light-table-filter"
+            data-table="order-table"
+            placeholder="Aramak için enter'a basın..."
+          />
+        </div>
+        <div class="input-field col m6 s12">
+          <select
+            class="select-table-filter"
+            type="search"
+            data-table="order-table"
+          >
+            <option value="">Adres Seçin</option>
+            <option value="( - )">( - )</option>
+            <option value="( A 1 )">( A 1 )</option>
+            <option value="( A 2 )">( A 2 )</option>
+            <option value="( A 3 )">( A 3 )</option>
+            <option value="( A 4 )">( A 4 )</option>
+            <option value="( A 5 )">( A 5 )</option>
+            <option value="( A 6 )">( A 6 )</option>
+            <option value="( A 7 )">( A 7 )</option>
+            <option value="( A 8 )">( A 8 )</option>
+            <option value="( A 9 )">( A 9 )</option>
+            <option value="( A 10 )">( A 10 )</option>
+            <option value="( A 11 )">( A 11 )</option>
+            <option value="( A 12 )">( A 12 )</option>
+            <option value="( A 13 )">( A 13 )</option>
+            <option value="( A 14 )">( A 14 )</option>
+            <option value="( A 15 )">( A 15 )</option>
+            <option value="( A 16 )">( A 16 )</option>
+            <option value="( A 17 )">( A 17 )</option>
+            <option value="( A 18 )">( A 18 )</option>
+            <option value="( A 19 )">( A 19 )</option>
+            <option value="( A 20 )">( A 20 )</option>
+            <option value="( A 21 )">( A 21 )</option>
+            <option value="( A 22 )">( A 22 )</option>
+            <option value="( A 23 )">( A 23 )</option>
+            <option value="( A 24 )">( A 24 )</option>
+            <option value="( A 25 )">( A 25 )</option>
+            <option value="( A 26 )">( A 26 )</option>
+            <option value="( A 27 )">( A 27 )</option>
+            <option value="( A 28 )">( A 28 )</option>
+            <option value="( A 29 )">( A 29 )</option>
+            <option value="( A 30 )">( A 30 )</option>
+            <option value="( A 31 )">( A 31 )</option>
+            <option value="( A 32 )">( A 32 )</option>
+            <option value="( A 33 )">( A 33 )</option>
+            <option value="( A 34 )">( A 34 )</option>
+            <option value="( A 35 )">( A 35 )</option>
+            <option value="( A 36 )">( A 36 )</option>
+            <option value="( A 37 )">( A 37 )</option>
+            <option value="( A 38 )">( A 38 )</option>
+            <option value="( A 39 )">( A 39 )</option>
+            <option value="( A 40 )">( A 40 )</option>
+            <option value="( A 41 )">( A 41 )</option>
+            <option value="( A 42 )">( A 42 )</option>
+            <option value="( A 43 )">( A 43 )</option>
+            <option value="( A 44 )">( A 44 )</option>
+            <option value="( A 45 )">( A 45 )</option>
+            <option value="( B 1 )">( B 1 )</option>
+            <option value="( B 2 )">( B 2 )</option>
+            <option value="( B 3 )">( B 3 )</option>
+            <option value="( B 4 )">( B 4 )</option>
+            <option value="( B 5 )">( B 5 )</option>
+            <option value="( B 6 )">( B 6 )</option>
+            <option value="( B 7 )">( B 7 )</option>
+            <option value="( B 8 )">( B 8 )</option>
+            <option value="( B 9 )">( B 9 )</option>
+            <option value="( B 10 )">( B 10 )</option>
+            <option value="( B 11 )">( B 11 )</option>
+            <option value="( B 12 )">( B 12 )</option>
+            <option value="( B 13 )">( B 13 )</option>
+            <option value="( B 14 )">( B 14 )</option>
+            <option value="( B 15 )">( B 15 )</option>
+            <option value="( B 16 )">( B 16 )</option>
+            <option value="( B 17 )">( B 17 )</option>
+            <option value="( B 18 )">( B 18 )</option>
+            <option value="( B 19 )">( B 19 )</option>
+            <option value="( B 20 )">( B 20 )</option>
+            <option value="( B 21 )">( B 21 )</option>
+            <option value="( E 1 )">( E 1 )</option>
+            <option value="( E 2 )">( E 2 )</option>
+            <option value="( E 3 )">( E 3 )</option>
+            <option value="( E 4 )">( E 4 )</option>
+            <option value="( E 5 )">( E 5 )</option>
+            <option value="( E 6 )">( E 6 )</option>
+            <option value="( E 7 )">( E 7 )</option>
+            <option value="( E 8 )">( E 8 )</option>
+            <option value="( E 9 )">( E 9 )</option>
+            <option value="( E 10 )">( E 10 )</option>
+            <option value="( E 11 )">( E 11 )</option>
+            <option value="( E 12 )">( E 12 )</option>
+            <option value="( E 13 )">( E 13 )</option>
+            <option value="( E 14 )">( E 14 )</option>
+            <option value="( E 15 )">( E 15 )</option>
+            <option value="( E 16 )">( E 16 )</option>
+            <option value="( E 17 )">( E 17 )</option>
+            <option value="( E 18 )">( E 18 )</option>
+            <option value="( E 19 )">( E 19 )</option>
+            <option value="( E 20 )">( E 20 )</option>
+            <option value="( E 21 )">( E 21 )</option>
+            <option value="( E 22 )">( E 22 )</option>
+            <option value="( E 23 )">( E 23 )</option>
+            <option value="( E 24 )">( E 24 )</option>
+            <option value="( E 25 )">( E 25 )</option>
+            <option value="( E 26 )">( E 26 )</option>
+            <option value="( E 27 )">( E 27 )</option>
+            <option value="( E 28 )">( E 28 )</option>
+            <option value="( E 29 )">( E 29 )</option>
+            <option value="( E 30 )">( E 30 )</option>
+            <option value="( E 31 )">( E 31 )</option>
+            <option value="( E 32 )">( E 32 )</option>
+            <option value="( E 33 )">( E 33 )</option>
+            <option value="( E 34 )">( E 34 )</option>
+            <option value="( E 35 )">( E 35 )</option>
+            <option value="( E 36 )">( E 36 )</option>
+            <option value="( F 1 )">( F 1 )</option>
+            <option value="( F 2 )">( F 2 )</option>
+            <option value="( F 3 )">( F 3 )</option>
+            <option value="( F 4 )">( F 4 )</option>
+            <option value="( F 5 )">( F 5 )</option>
+            <option value="( F 6 )">( F 6 )</option>
+            <option value="( F 7 )">( F 7 )</option>
+            <option value="( F 8 )">( F 8 )</option>
+            <option value="( F 9 )">( F 9 )</option>
+            <option value="( F 10 )">( F 10 )</option>
+            <option value="( F 11 )">( F 11 )</option>
+            <option value="( F 12 )">( F 12 )</option>
+            <option value="( F 13 )">( F 13 )</option>
+            <option value="( F 14 )">( F 14 )</option>
+            <option value="( F 15 )">( F 15 )</option>
+            <option value="( F 16 )">( F 16 )</option>
+            <option value="( F 17 )">( F 17 )</option>
+            <option value="( F 18 )">( F 18 )</option>
+            <option value="( F 19 )">( F 19 )</option>
+            <option value="( F 20 )">( F 20 )</option>
+            <option value="( F 21 )">( F 21 )</option>
+            <option value="( F 22 )">( F 22 )</option>
+            <option value="( F 23 )">( F 23 )</option>
+            <option value="( F 24 )">( F 24 )</option>
+            <option value="( F 25 )">( F 25 )</option>
+            <option value="( F 26 )">( F 26 )</option>
+            <option value="( F 27 )">( F 27 )</option>
+            <option value="( F 28 )">( F 28 )</option>
+            <option value="( F 29 )">( F 29 )</option>
+            <option value="( F 30 )">( F 30 )</option>
+            <option value="( F 31 )">( F 31 )</option>
+            <option value="( F 32 )">( F 32 )</option>
+            <option value="( F 33 )">( F 33 )</option>
+            <option value="( F 34 )">( F 34 )</option>
+            <option value="( F 35 )">( F 35 )</option>
+            <option value="( F 36 )">( F 36 )</option>
+            <option value="( F 37 )">( F 37 )</option>
+            <option value="( F 38 )">( F 38 )</option>
+            <option value="( F 39 )">( F 39 )</option>
+            <option value="( F 40 )">( F 40 )</option>
+            <option value="( F 41 )">( F 41 )</option>
+            <option value="( F 42 )">( F 42 )</option>
+            <option value="( F 43 )">( F 43 )</option>
+            <option value="( F 44 )">( F 44 )</option>
+            <option value="( F 45 )">( F 45 )</option>
+            <option value="( F 46 )">( F 46 )</option>
+            <option value="( F 47 )">( F 47 )</option>
+            <option value="( F 48 )">( F 48 )</option>
+            <option value="( F 49 )">( F 49 )</option>
+            <option value="( G 1 )">( G 1 )</option>
+            <option value="( G 2 )">( G 2 )</option>
+            <option value="( G 3 )">( G 3 )</option>
+            <option value="( G 4 )">( G 4 )</option>
+            <option value="( G 5 )">( G 5 )</option>
+            <option value="( G 6 )">( G 6 )</option>
+            <option value="( G 7 )">( G 7 )</option>
+            <option value="( G 8 )">( G 8 )</option>
+            <option value="( G 9 )">( G 9 )</option>
+            <option value="( G 10 )">( G 10 )</option>
+            <option value="( G 11 )">( G 11 )</option>
+            <option value="( G 12 )">( G 12 )</option>
+            <option value="( G 13 )">( G 13 )</option>
+            <option value="( G 14 )">( G 14 )</option>
+            <option value="( G 15 )">( G 15 )</option>
+            <option value="( G 16 )">( G 16 )</option>
+            <option value="( G 17 )">( G 17 )</option>
+            <option value="( G 18 )">( G 18 )</option>
+            <option value="( G 19 )">( G 19 )</option>
+            <option value="( G 20 )">( G 20 )</option>
+            <option value="( G 21 )">( G 21 )</option>
+            <option value="( G 22 )">( G 22 )</option>
+            <option value="( G 23 )">( G 23 )</option>
+            <option value="( G 24 )">( G 24 )</option>
+            <option value="( G 25 )">( G 25 )</option>
+            <option value="( G 26 )">( G 26 )</option>
+            <option value="( G 27 )">( G 27 )</option>
+            <option value="( G 28 )">( G 28 )</option>
+            <option value="( G 29 )">( G 29 )</option>
+            <option value="( G 30 )">( G 30 )</option>
+            <option value="( G 31 )">( G 31 )</option>
+            <option value="( G 32 )">( G 32 )</option>
+            <option value="( G 33 )">( G 33 )</option>
+            <option value="( G 34 )">( G 34 )</option>
+            <option value="( G 35 )">( G 35 )</option>
+            <option value="( G 36 )">( G 36 )</option>
+            <option value="( G 37 )">( G 37 )</option>
+            <option value="( G 38 )">( G 38 )</option>
+            <option value="( G 39 )">( G 39 )</option>
+            <option value="( G 40 )">( G 40 )</option>
+            <option value="( G 41 )">( G 41 )</option>
+            <option value="( G 42 )">( G 42 )</option>
+            <option value="( G 43 )">( G 43 )</option>
+            <option value="( G 44 )">( G 44 )</option>
+            <option value="( G 45 )">( G 45 )</option>
+            <option value="( G 46 )">( G 46 )</option>
+            <option value="( G 47 )">( G 47 )</option>
+            <option value="( G 48 )">( G 48 )</option>
+            <option value="( G 49 )">( G 49 )</option>
+            <option value="( H 1 )">( H 1 )</option>
+            <option value="( H 2 )">( H 2 )</option>
+            <option value="( H 3 )">( H 3 )</option>
+            <option value="( H 4 )">( H 4 )</option>
+            <option value="( H 5 )">( H 5 )</option>
+            <option value="( H 6 )">( H 6 )</option>
+            <option value="( H 7 )">( H 7 )</option>
+            <option value="( H 8 )">( H 8 )</option>
+            <option value="( H 9 )">( H 9 )</option>
+            <option value="( H 10 )">( H 10 )</option>
+            <option value="( H 11 )">( H 11 )</option>
+            <option value="( H 12 )">( H 12 )</option>
+            <option value="( H 13 )">( H 13 )</option>
+            <option value="( H 14 )">( H 14 )</option>
+            <option value="( H 15 )">( H 15 )</option>
+            <option value="( H 16 )">( H 16 )</option>
+            <option value="( H 17 )">( H 17 )</option>
+            <option value="( H 18 )">( H 18 )</option>
+            <option value="( H 19 )">( H 19 )</option>
+            <option value="( H 20 )">( H 20 )</option>
+            <option value="( H 21 )">( H 21 )</option>
+            <option value="( H 22 )">( H 22 )</option>
+            <option value="( H 23 )">( H 23 )</option>
+            <option value="( H 24 )">( H 24 )</option>
+            <option value="( H 25 )">( H 25 )</option>
+            <option value="( H 26 )">( H 26 )</option>
+            <option value="( H 27 )">( H 27 )</option>
+            <option value="( H 28 )">( H 28 )</option>
+            <option value="( H 29 )">( H 29 )</option>
+            <option value="( H 30 )">( H 30 )</option>
+            <option value="( H 31 )">( H 31 )</option>
+            <option value="( H 32 )">( H 32 )</option>
+            <option value="( H 33 )">( H 33 )</option>
+            <option value="( H 34 )">( H 34 )</option>
+            <option value="( H 35 )">( H 35 )</option>
+            <option value="( H 36 )">( H 36 )</option>
+            <option value="( H 37 )">( H 37 )</option>
+            <option value="( H 38 )">( H 38 )</option>
+            <option value="( H 39 )">( H 39 )</option>
+            <option value="( H 40 )">( H 40 )</option>
+            <option value="( H 41 )">( H 41 )</option>
+            <option value="( H 42 )">( H 42 )</option>
+            <option value="( H 43 )">( H 43 )</option>
+            <option value="( H 44 )">( H 44 )</option>
+            <option value="( H 45 )">( H 45 )</option>
+            <option value="( H 46 )">( H 46 )</option>
+            <option value="( H 47 )">( H 47 )</option>
+            <option value="( H 48 )">( H 48 )</option>
+            <option value="( H 49 )">( H 49 )</option>
+            <option value="( J 1 )">( J 1 )</option>
+            <option value="( J 2 )">( J 2 )</option>
+            <option value="( J 3 )">( J 3 )</option>
+            <option value="( J 4 )">( J 4 )</option>
+            <option value="( J 5 )">( J 5 )</option>
+            <option value="( J 6 )">( J 6 )</option>
+            <option value="( J 7 )">( J 7 )</option>
+            <option value="( J 8 )">( J 8 )</option>
+            <option value="( J 9 )">( J 9 )</option>
+            <option value="( J 10 )">( J 10 )</option>
+            <option value="( J 11 )">( J 11 )</option>
+            <option value="( J 12 )">( J 12 )</option>
+            <option value="( J 13 )">( J 13 )</option>
+            <option value="( J 14 )">( J 14 )</option>
+            <option value="( J 15 )">( J 15 )</option>
+            <option value="( J 16 )">( J 16 )</option>
+            <option value="( J 17 )">( J 17 )</option>
+            <option value="( J 18 )">( J 18 )</option>
+            <option value="( J 19 )">( J 19 )</option>
+            <option value="( J 20 )">( J 20 )</option>
+            <option value="( J 21 )">( J 21 )</option>
+            <option value="( J 22 )">( J 22 )</option>
+            <option value="( J 23 )">( J 23 )</option>
+            <option value="( J 24 )">( J 24 )</option>
+            <option value="( J 25 )">( J 25 )</option>
+            <option value="( J 26 )">( J 26 )</option>
+            <option value="( J 27 )">( J 27 )</option>
+            <option value="( J 28 )">( J 28 )</option>
+            <option value="( J 29 )">( J 29 )</option>
+            <option value="( J 30 )">( J 30 )</option>
+            <option value="( J 31 )">( J 31 )</option>
+            <option value="( J 32 )">( J 32 )</option>
+            <option value="( J 33 )">( J 33 )</option>
+            <option value="( J 34 )">( J 34 )</option>
+            <option value="( J 35 )">( J 35 )</option>
+            <option value="( J 36 )">( J 36 )</option>
+            <option value="( J 37 )">( J 37 )</option>
+            <option value="( J 38 )">( J 38 )</option>
+            <option value="( J 39 )">( J 39 )</option>
+            <option value="( J 40 )">( J 40 )</option>
+            <option value="( J 41 )">( J 41 )</option>
+            <option value="( J 42 )">( J 42 )</option>
+            <option value="( J 43 )">( J 43 )</option>
+            <option value="( J 44 )">( J 44 )</option>
+            <option value="( J 45 )">( J 45 )</option>
+            <option value="( J 46 )">( J 46 )</option>
+            <option value="( J 47 )">( J 47 )</option>
+            <option value="( J 48 )">( J 48 )</option>
+            <option value="( J 49 )">( J 49 )</option>
+            <option value="( K 1 )">( K 1 )</option>
+            <option value="( K 2 )">( K 2 )</option>
+            <option value="( K 3 )">( K 3 )</option>
+            <option value="( K 4 )">( K 4 )</option>
+            <option value="( K 5 )">( K 5 )</option>
+            <option value="( K 6 )">( K 6 )</option>
+            <option value="( K 7 )">( K 7 )</option>
+            <option value="( K 8 )">( K 8 )</option>
+            <option value="( K 9 )">( K 9 )</option>
+            <option value="( K 10 )">( K 10 )</option>
+            <option value="( K 11 )">( K 11 )</option>
+            <option value="( K 12 )">( K 12 )</option>
+            <option value="( K 13 )">( K 13 )</option>
+            <option value="( K 14 )">( K 14 )</option>
+            <option value="( K 15 )">( K 15 )</option>
+            <option value="( K 16 )">( K 16 )</option>
+            <option value="( K 17 )">( K 17 )</option>
+            <option value="( K 18 )">( K 18 )</option>
+            <option value="( K 19 )">( K 19 )</option>
+            <option value="( K 20 )">( K 20 )</option>
+            <option value="( K 21 )">( K 21 )</option>
+            <option value="( K 22 )">( K 22 )</option>
+            <option value="( K 23 )">( K 23 )</option>
+            <option value="( K 24 )">( K 24 )</option>
+            <option value="( K 25 )">( K 25 )</option>
+            <option value="( K 26 )">( K 26 )</option>
+            <option value="( K 27 )">( K 27 )</option>
+            <option value="( K 28 )">( K 28 )</option>
+            <option value="( K 29 )">( K 29 )</option>
+            <option value="( K 30 )">( K 30 )</option>
+            <option value="( K 31 )">( K 31 )</option>
+            <option value="( K 32 )">( K 32 )</option>
+            <option value="( K 33 )">( K 33 )</option>
+            <option value="( K 34 )">( K 34 )</option>
+            <option value="( K 35 )">( K 35 )</option>
+            <option value="( K 36 )">( K 36 )</option>
+            <option value="( K 37 )">( K 37 )</option>
+            <option value="( K 38 )">( K 38 )</option>
+            <option value="( K 39 )">( K 39 )</option>
+            <option value="( K 40 )">( K 40 )</option>
+            <option value="( K 41 )">( K 41 )</option>
+            <option value="( K 42 )">( K 42 )</option>
+            <option value="( K 43 )">( K 43 )</option>
+            <option value="( K 44 )">( K 44 )</option>
+            <option value="( K 45 )">( K 45 )</option>
+            <option value="( K 46 )">( K 46 )</option>
+            <option value="( K 47 )">( K 47 )</option>
+            <option value="( K 48 )">( K 48 )</option>
+            <option value="( K 49 )">( K 49 )</option>
+            <option value="( L 1 )">( L 1 )</option>
+            <option value="( L 2 )">( L 2 )</option>
+            <option value="( L 3 )">( L 3 )</option>
+            <option value="( L 4 )">( L 4 )</option>
+            <option value="( L 5 )">( L 5 )</option>
+            <option value="( L 6 )">( L 6 )</option>
+            <option value="( L 7 )">( L 7 )</option>
+            <option value="( L 8 )">( L 8 )</option>
+            <option value="( L 9 )">( L 9 )</option>
+            <option value="( L 10 )">( L 10 )</option>
+            <option value="( L 11 )">( L 11 )</option>
+            <option value="( L 12 )">( L 12 )</option>
+            <option value="( L 13 )">( L 13 )</option>
+            <option value="( L 14 )">( L 14 )</option>
+            <option value="( L 15 )">( L 15 )</option>
+            <option value="( L 16 )">( L 16 )</option>
+            <option value="( L 17 )">( L 17 )</option>
+            <option value="( L 18 )">( L 18 )</option>
+            <option value="( L 19 )">( L 19 )</option>
+            <option value="( L 20 )">( L 20 )</option>
+            <option value="( L 21 )">( L 21 )</option>
+            <option value="( L 22 )">( L 22 )</option>
+            <option value="( L 23 )">( L 23 )</option>
+            <option value="( L 24 )">( L 24 )</option>
+            <option value="( L 25 )">( L 25 )</option>
+            <option value="( L 26 )">( L 26 )</option>
+            <option value="( L 27 )">( L 27 )</option>
+            <option value="( L 28 )">( L 28 )</option>
+            <option value="( L 29 )">( L 29 )</option>
+            <option value="( L 30 )">( L 30 )</option>
+            <option value="( L 31 )">( L 31 )</option>
+            <option value="( L 32 )">( L 32 )</option>
+            <option value="( L 33 )">( L 33 )</option>
+            <option value="( L 34 )">( L 34 )</option>
+            <option value="( L 35 )">( L 35 )</option>
+          </select>
+        </div>
+      </div>
+      <table class="order-table">
+        <thead>
+          <tr>
+            <th style="width: 15%">Stok Kodu</th>
+            <th style="width: 35%">Stok Tanımı</th>
+            <th style="width: 10%">Adet</th>
+            <th style="width: 10%">Kategori</th>
+            <th style="width: 10%">Adres</th>
+            <th style="width: 10%">Durumu</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
     </div>
-  </div>
-  <table class="order-table">
-  <thead>
-  <tr>
-  <th style="width:15%">Stok Kodu</th>
-  <th style="width:35%;">Stok Tanımı</th>
-  <th style="width:10%;">Adet</th>
-  <th style="width:10%">Kategori</th>
-  <th style="width:10%">Adres</th>
-  <th style="width:10%">Durumu</th>
-  </tr>
-  </thead>
-    <tbody>
-    </tbody>
-  </table>
-</div>
 
-<a href="#" id="scroll" style="display: none">
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-viewBox="0 0 50.454 50.454" style="enable-background:new 0 0 50.454 50.454;" xml:space="preserve">
-<g>
-<path style="fill:#ffffff;" d="M42.359,25.479L27.122,1.25c-1.048-1.667-2.747-1.667-3.795,0L8.095,25.479
-          c-1.048,1.667-0.316,2.801,1.635,2.532l5.43-0.885c1.95-0.269,3.531,1.11,3.531,3.079v16.683c0,1.969,1.596,3.566,3.565,3.566
-          h5.935c1.97,0,3.566-1.596,3.566-3.566V30.206c0-1.969,1.582-3.348,3.531-3.079l5.436,0.885
-          C42.674,28.28,43.407,27.146,42.359,25.479z"/>
-</svg>
-</a>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <a href="#" id="scroll" style="display: none">
+      <svg
+        version="1.1"
+        id="Capa_1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px"
+        y="0px"
+        viewBox="0 0 50.454 50.454"
+        style="enable-background: new 0 0 50.454 50.454"
+        xml:space="preserve"
+      >
+        <path
+          style="fill: #ffffff"
+          d="M42.359,25.479L27.122,1.25c-1.048-1.667-2.747-1.667-3.795,0L8.095,25.479
+            c-1.048,1.667-0.316,2.801,1.635,2.532l5.43-0.885c1.95-0.269,3.531,1.11,3.531,3.079v16.683c0,1.969,1.596,3.566,3.565,3.566
+            h5.935c1.97,0,3.566-1.596,3.566-3.566V30.206c0-1.969,1.582-3.348,3.531-3.079l5.436,0.885
+            C42.674,28.28,43.407,27.146,42.359,25.479z"
+        />
+      </svg>
+    </a>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
-<script>
-;(function (document) {
-'use strict'
+    <script>
+      ;(function (document) {
+        'use strict'
 
-let htmlStr = ''
+        let htmlStr = ''
 
-fetch(
-'https://raw.githubusercontent.com/mfs79/D/master/Depo.json'
-)
-.then((response) => response.json())
-.then((data) => {
-data.forEach((p) => {
-htmlStr += `<tr style="display:none;">
-<td>${p["Stok Kodu"]}</td>
-<td>${p["Stok Tanımı"]}</td>
-<td>${p["Adet"]}</td>
-<td>${p["Kategori"]}</td>
-${p["Link"] != null ? '<td><a href="' + p["Link"] + '" target="_blank">' + p["Adres"] + '</a></td>' : '<td>' + p["Adres"] + '</td>'}
-<td>${p["Durumu"]}</td>
+        fetch('https://raw.githubusercontent.com/mfs79/D/master/Depo.json')
+          .then((response) => response.json())
+          .then((data) => {
+            data.forEach((p) => {
+              htmlStr += `<tr style="display:none;">
+<td>${p['Stok Kodu']}</td>
+<td>${p['Stok Tanımı']}</td>
+<td>${p['Adet']}</td>
+<td>${p['Kategori']}</td>
+${
+  p['Link'] != null
+    ? '<td><a href="' +
+      p['Link'] +
+      '" target="_blank">' +
+      p['Adres'] +
+      '</a></td>'
+    : '<td>' + p['Adres'] + '</td>'
+}
+<td>${p['Durumu']}</td>
 </tr>`
-})
-})
-.then(() => {
-document.querySelector('.order-table > tbody').innerHTML = htmlStr
-})
+            })
+          })
+          .then(() => {
+            document.querySelector('.order-table > tbody').innerHTML = htmlStr
+          })
 
-var LightTableFilter = (function (Arr) {
-var _input
-var _select
+        var LightTableFilter = (function (Arr) {
+          var _input
+          var _select
 
-function _onInputEvent(e) {
-_input = e.target
-var tables = document.getElementsByClassName(
-_input.getAttribute('data-table')
-)
-if (_input.value == '') {
-document
-.querySelectorAll('.order-table tbody tr')
-.forEach((p) => {
-p.style.display = 'none'
-})
-} else if (e.key === 'Enter' || e.keyCode === 13) {
-Arr.forEach.call(tables, function (table) {
-Arr.forEach.call(table.tBodies, function (tbody) {
-Arr.forEach.call(tbody.rows, _filter)
-})
-})
-}
-}
+          function _onInputEvent(e) {
+            _input = e.target
+            var tables = document.getElementsByClassName(
+              _input.getAttribute('data-table')
+            )
+            if (_input.value == '') {
+              document
+                .querySelectorAll('.order-table tbody tr')
+                .forEach((p) => {
+                  p.style.display = 'none'
+                })
+            } else if (e.key === 'Enter' || e.keyCode === 13) {
+              Arr.forEach.call(tables, function (table) {
+                Arr.forEach.call(table.tBodies, function (tbody) {
+                  Arr.forEach.call(tbody.rows, _filter)
+                })
+              })
+            }
+          }
 
-function _onSelectEvent(e) {
-_select = e.target
-var tables = document.getElementsByClassName(
-_select.getAttribute('data-table')
-)
-Arr.forEach.call(tables, function (table) {
-Arr.forEach.call(table.tBodies, function (tbody) {
-Arr.forEach.call(tbody.rows, _filterSelect)
-})
-})
-}
+          function _onSelectEvent(e) {
+            _select = e.target
+            var tables = document.getElementsByClassName(
+              _select.getAttribute('data-table')
+            )
+            Arr.forEach.call(tables, function (table) {
+              Arr.forEach.call(table.tBodies, function (tbody) {
+                Arr.forEach.call(tbody.rows, _filterSelect)
+              })
+            })
+          }
 
-function _filter(row) {
-var text = row.textContent.toLocaleLowerCase('tr'),
-val = _input.value.toLocaleLowerCase('tr')
-row.style.display = text.indexOf(val) === -1 ? 'none' : 'table-row'
-}
+          function _filter(row) {
+            var text = row.textContent.toLocaleLowerCase('tr'),
+              val = _input.value.toLocaleLowerCase('tr')
+            row.style.display = text.indexOf(val) === -1 ? 'none' : 'table-row'
+          }
 
-function _filterSelect(row) {
-var text_select = row.textContent.toLocaleLowerCase('tr'),
-val_select = _select.options[
-_select.selectedIndex
-].value.toLocaleLowerCase('tr')
-row.style.display =
-text_select.indexOf(val_select) === -1 ? 'none' : 'table-row'
-}
+          function _filterSelect(row) {
+            var text_select = row.textContent.toLocaleLowerCase('tr'),
+              val_select = _select.options[
+                _select.selectedIndex
+              ].value.toLocaleLowerCase('tr')
+            row.style.display =
+              text_select.indexOf(val_select) === -1 ? 'none' : 'table-row'
+          }
 
-return {
-init: function () {
-var inputs = document.getElementsByClassName('light-table-filter')
-var selects = document.getElementsByClassName(
-'select-table-filter'
-)
-Arr.forEach.call(inputs, function (input) {
-input.onkeyup = _onInputEvent
-})
-Arr.forEach.call(selects, function (select) {
-select.onchange = _onSelectEvent
-})
-},
-}
-})(Array.prototype)
+          return {
+            init: function () {
+              var inputs = document.getElementsByClassName('light-table-filter')
+              var selects = document.getElementsByClassName(
+                'select-table-filter'
+              )
+              Arr.forEach.call(inputs, function (input) {
+                input.onkeyup = _onInputEvent
+              })
+              Arr.forEach.call(selects, function (select) {
+                select.onchange = _onSelectEvent
+              })
+            },
+          }
+        })(Array.prototype)
 
-document.addEventListener('readystatechange', function () {
-if (document.readyState === 'complete') {
-LightTableFilter.init()
-}
-})
-})(document)
-$(document).ready(function () {
-$('select').formSelect()
-$(window).scroll(function () {
-if ($(this).scrollTop() > 100) {
-$('#scroll').fadeIn()
-} else {
-$('#scroll').fadeOut()
-}
-})
-$('#scroll').click(function () {
-$('html, body').animate({ scrollTop: 0 }, 600)
-return false
-})
-})
-</script>
-</body>
+        document.addEventListener('readystatechange', function () {
+          if (document.readyState === 'complete') {
+            LightTableFilter.init()
+          }
+        })
+      })(document)
+      $(document).ready(function () {
+        $('select').formSelect()
+        $(window).scroll(function () {
+          if ($(this).scrollTop() > 100) {
+            $('#scroll').fadeIn()
+          } else {
+            $('#scroll').fadeOut()
+          }
+        })
+        $('#scroll').click(function () {
+          $('html, body').animate({ scrollTop: 0 }, 600)
+          return false
+        })
+      })
+    </script>
+  </body>
 </html>
