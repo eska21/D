@@ -117,7 +117,7 @@
     "Stok Kodu": "H010101005006",
     "Stok Tanımı": "DİYOT SMD MBR0540T1G 40V 0.5A SOD123 ON Semiconduc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1386"
+    "Toplam": "4350"
   },
   {
     "Stok Kodu": "H010101005008",
@@ -207,7 +207,7 @@
     "Stok Kodu": "H010101005029",
     "Stok Tanımı": "DİYOT SMD MM3Z5V1ST1G 5.1V 200MW SOD-323 ON Semico",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3916"
+    "Toplam": "3896"
   },
   {
     "Stok Kodu": "H010101005030",
@@ -225,7 +225,7 @@
     "Stok Kodu": "H010101005032",
     "Stok Tanımı": "DİYOT SMD MM3Z5V6C 5.6V 200MW SOD-323F Fairchild",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4507"
+    "Toplam": "4487"
   },
   {
     "Stok Kodu": "H010101005033",
@@ -285,7 +285,7 @@
     "Stok Kodu": "H010101005047",
     "Stok Tanımı": "DİYOT SMD SS14 1A/40V DO-214AC PANJIT",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "9874"
+    "Toplam": "9824"
   },
   {
     "Stok Kodu": "H010101005048",
@@ -303,7 +303,7 @@
     "Stok Kodu": "H010101005051",
     "Stok Tanımı": "DİYOT SMD SD05T1G 350W 5V TVS SOD323 ON Semiconduc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "29990"
+    "Toplam": "26970"
   },
   {
     "Stok Kodu": "H010101005053",
@@ -321,7 +321,7 @@
     "Stok Kodu": "H010101005055",
     "Stok Tanımı": "DİYOT SMD PESD5V0S5UD,115 5V 6-TSOP NXP Semiconduc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7093"
+    "Toplam": "13093"
   },
   {
     "Stok Kodu": "H010101005056",
@@ -343,7 +343,7 @@
   },
   {
     "Stok Kodu": "H010101005059",
-    "Stok Tanımı": "DİYOT SMD SS310  3A 100V DO-214AB",
+    "Stok Tanımı": "DİYOT SMD SS310 3A 100V DO-214AB",
     "Depo": "MERKEZ DEPO",
     "Toplam": "896"
   },
@@ -474,12 +474,6 @@
     "Toplam": "1309"
   },
   {
-    "Stok Kodu": "H010101005087",
-    "Stok Tanımı": "DİYOT SMD B540C-13-F 40V 5A SMC Diodes Inc",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "2856"
-  },
-  {
     "Stok Kodu": "H010101005088",
     "Stok Tanımı": "DİYOT SMD MM3Z16VC 16V 200MW SOD-323F Fairchild",
     "Depo": "MERKEZ DEPO",
@@ -519,13 +513,13 @@
     "Stok Kodu": "H010101005095",
     "Stok Tanımı": "DİYOT SMD SMBJ33CA 33V 600W DO-214AA %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2246"
+    "Toplam": "2226"
   },
   {
     "Stok Kodu": "H010101005096",
     "Stok Tanımı": "DİYOT SMD 1N4148W-TP 150mA/100V SOD123 MİCRO COMM",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "408"
+    "Toplam": "6738"
   },
   {
     "Stok Kodu": "H010101005098",
@@ -537,7 +531,7 @@
     "Stok Kodu": "H010101005099",
     "Stok Tanımı": "DİYOT SMD ES3DB-13-F 200V 3A SMB Diodes Inc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3537"
+    "Toplam": "537"
   },
   {
     "Stok Kodu": "H010101005100",
@@ -621,7 +615,7 @@
     "Stok Kodu": "H010101005118",
     "Stok Tanımı": "DİYOT SMD ESD9B3.3ST5G 300MW SOD-923 ON Semiconduc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "9023"
+    "Toplam": "7997"
   },
   {
     "Stok Kodu": "H010101005119",
@@ -645,7 +639,7 @@
     "Stok Kodu": "H010101005125",
     "Stok Tanımı": "DİYOT SMD MM3Z36VC 36V 200MW SOD323F Fairchild Sem",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "875"
+    "Toplam": "802"
   },
   {
     "Stok Kodu": "H010101005126",
@@ -759,7 +753,7 @@
     "Stok Kodu": "H010101005163",
     "Stok Tanımı": "DİYOT SMD ESD3V3U4ULC E6327 3,3V TSLP9-1 Infineon",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "29111"
+    "Toplam": "24121"
   },
   {
     "Stok Kodu": "H010101005165",
@@ -783,7 +777,7 @@
     "Stok Kodu": "H010101005171",
     "Stok Tanımı": "DİYOT SMD MBRA160T3G 60V 1A ON Semiconductor",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "12189"
+    "Toplam": "9986"
   },
   {
     "Stok Kodu": "H010101005172",
@@ -825,7 +819,7 @@
     "Stok Kodu": "H010101005182",
     "Stok Tanımı": "DİYOT SMD SMCJ200CA 200VWM 324VC Littelfuse Inc.",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3003"
+    "Toplam": "3"
   },
   {
     "Stok Kodu": "H010101005183",
@@ -855,7 +849,7 @@
     "Stok Kodu": "H010101005193",
     "Stok Tanımı": "DİYOT SMD MM3Z18VC 18V 200MW SOD-323F Fairchild",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6"
+    "Toplam": "1496"
   },
   {
     "Stok Kodu": "H010101005194",
@@ -892,6 +886,12 @@
     "Stok Tanımı": "DİYOT SMD MBR0540-TP 40V 500MA SOD123 Micro Commer",
     "Depo": "MERKEZ DEPO",
     "Toplam": "122"
+  },
+  {
+    "Stok Kodu": "H010101005224",
+    "Stok Tanımı": "DİYOT SMD MBRD835LT4G 35V 8A DPAK ON Semiconductor",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "14"
   },
   {
     "Stok Kodu": "H010101005228",
@@ -951,13 +951,7 @@
     "Stok Kodu": "H010101005251",
     "Stok Tanımı": "DİYOT SMD MM3Z12VB 12V 200MW %2 SOD323F Fairchild",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3000"
-  },
-  {
-    "Stok Kodu": "H010101005252",
-    "Stok Tanımı": "DİYOT SMD MM3Z36VB 36V 200MW %2 SOD323F Fairchild",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "3004"
+    "Toplam": "12"
   },
   {
     "Stok Kodu": "H010101005253",
@@ -976,12 +970,6 @@
     "Stok Tanımı": "DİYOT SMD MMXZ5246B-TP 16V 200mW %5 SOD323 Micro C",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4495"
-  },
-  {
-    "Stok Kodu": "H010101005258",
-    "Stok Tanımı": "DİYOT SMD PESD3V3S5UD,115 3.3V 6-TSOP Nexperia USA",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "2568"
   },
   {
     "Stok Kodu": "H010101005259",
@@ -1017,7 +1005,7 @@
     "Stok Kodu": "H010101009001",
     "Stok Tanımı": "TRANS SMD NPN BC817-40L 0,5A/45V/0,25W ON ROH",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "50954"
+    "Toplam": "47997"
   },
   {
     "Stok Kodu": "H010101009004",
@@ -1077,7 +1065,7 @@
     "Stok Kodu": "H010101009022",
     "Stok Tanımı": "TRANS SMD FMMT634TA 100V SOT23-3 Diodes/Zetex",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1204"
+    "Toplam": "1184"
   },
   {
     "Stok Kodu": "H010101009024",
@@ -1135,9 +1123,9 @@
   },
   {
     "Stok Kodu": "H010101009038",
-    "Stok Tanımı": "TRANS SMD FMMT596TA 200V 300MA  SOT23-3 Diodes/Zet",
+    "Stok Tanımı": "TRANS SMD FMMT596TA 200V 300MA SOT23-3 Diodes/Zet",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5454"
+    "Toplam": "2996"
   },
   {
     "Stok Kodu": "H010101009039",
@@ -1149,7 +1137,7 @@
     "Stok Kodu": "H010101009041",
     "Stok Tanımı": "TRANS SMD MOSFET 2SK3018T106 30V 0,1A SOT-323 Rohm",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3045"
+    "Toplam": "3000"
   },
   {
     "Stok Kodu": "H010101009042",
@@ -1284,22 +1272,28 @@
     "Toplam": "17"
   },
   {
+    "Stok Kodu": "H010101009094",
+    "Stok Tanımı": "TRANS SMD MOSFET SUD09P10-195-GE3 100V 8,8A Vishay",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "91"
+  },
+  {
     "Stok Kodu": "H010101009097",
     "Stok Tanımı": "TRANS SMD MOSF SQJ431EP-T1_GE3 200V 12A SO-8 Visha",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2788"
+    "Toplam": "1607"
   },
   {
     "Stok Kodu": "H010101009098",
     "Stok Tanımı": "TRANS SMD MOSF BSS84-7-F 50V 130mA SOT23-3 Diodes",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1469"
+    "Toplam": "1389"
   },
   {
     "Stok Kodu": "H010101009100",
     "Stok Tanımı": "TRANS SMD MOSFET PMPB15XP,115 12V 8,2A 6DFN Nexper",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "18"
+    "Toplam": "1"
   },
   {
     "Stok Kodu": "H010101009110",
@@ -1317,7 +1311,7 @@
     "Stok Kodu": "H010101009130",
     "Stok Tanımı": "TRANS SMD ULN2003F12FN-7 50V 500MA 10-UF Diodes In",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3707"
+    "Toplam": "707"
   },
   {
     "Stok Kodu": "H010101009131",
@@ -1368,12 +1362,6 @@
     "Toplam": "12"
   },
   {
-    "Stok Kodu": "H010101009171",
-    "Stok Tanımı": "TRANS SMD DMP4013LFG-7 40V 10,3A PWRDI3333 Diodes",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "20"
-  },
-  {
     "Stok Kodu": "H010101010001",
     "Stok Tanımı": "ENT SMD LM555 SOIC-8",
     "Depo": "MERKEZ DEPO",
@@ -1381,7 +1369,7 @@
   },
   {
     "Stok Kodu": "H010101010003",
-    "Stok Tanımı": "ENT SMD MFRC530 SOIC-32  NXP",
+    "Stok Tanımı": "ENT SMD MFRC530 SOIC-32 NXP",
     "Depo": "MERKEZ DEPO",
     "Toplam": "237"
   },
@@ -1467,7 +1455,7 @@
     "Stok Kodu": "H010101010023",
     "Stok Tanımı": "ENT SMD SN75176BDR SOIC-8 TEXAS INSTRUMEN",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4462"
+    "Toplam": "4457"
   },
   {
     "Stok Kodu": "H010101010026",
@@ -1693,13 +1681,13 @@
   },
   {
     "Stok Kodu": "H010101010099",
-    "Stok Tanımı": "ENT SMD VNS1NV04D SOIC-8  ST MICROELECTRONICS",
+    "Stok Tanımı": "ENT SMD VNS1NV04D SOIC-8 ST MICROELECTRONICS",
     "Depo": "MERKEZ DEPO",
     "Toplam": "2412"
   },
   {
     "Stok Kodu": "H010101010102",
-    "Stok Tanımı": "ENT SMD ESDA6V1U1  SOIC-8 ST MICROELECTRONICS",
+    "Stok Tanımı": "ENT SMD ESDA6V1U1 SOIC-8 ST MICROELECTRONICS",
     "Depo": "MERKEZ DEPO",
     "Toplam": "79"
   },
@@ -1749,13 +1737,13 @@
     "Stok Kodu": "H010101010115",
     "Stok Tanımı": "ENT SMD MCP1700T-3302E/TT 3,3V SOT23-3 Microchip",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2799"
+    "Toplam": "2779"
   },
   {
     "Stok Kodu": "H010101010116",
     "Stok Tanımı": "ENT SMD P89LPC936FDH,518 28TSSOP NXP Semiconductor",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "160"
+    "Toplam": "2622"
   },
   {
     "Stok Kodu": "H010101010117",
@@ -1839,7 +1827,7 @@
     "Stok Kodu": "H010101010135",
     "Stok Tanımı": "ENT SMD CD4066BM96 14-SOIC Texas Instruments",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1093"
+    "Toplam": "1073"
   },
   {
     "Stok Kodu": "H010101010137",
@@ -2053,7 +2041,7 @@
   },
   {
     "Stok Kodu": "H010101010205",
-    "Stok Tanımı": "ENT SMD TSC2046IPWR  16TSSOP Texas Instruments",
+    "Stok Tanımı": "ENT SMD TSC2046IPWR 16TSSOP Texas Instruments",
     "Depo": "MERKEZ DEPO",
     "Toplam": "304"
   },
@@ -2175,7 +2163,7 @@
     "Stok Kodu": "H010101010230",
     "Stok Tanımı": "ENT SMD LPC1768 FBD100,551 LQFP100 SOT407-1 NXP",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1627"
+    "Toplam": "1617"
   },
   {
     "Stok Kodu": "H010101010231",
@@ -2421,7 +2409,7 @@
     "Stok Kodu": "H010101010287",
     "Stok Tanımı": "ENT SMD TPD2E001DRLR SOT-5 Texas Instruments",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "31989"
+    "Toplam": "27989"
   },
   {
     "Stok Kodu": "H010101010289",
@@ -2493,7 +2481,7 @@
     "Stok Kodu": "H010101010310",
     "Stok Tanımı": "ENT SMD LTV-814S OPTOISOLATOR 1CH AC-IN Lite-On",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "11146"
+    "Toplam": "11061"
   },
   {
     "Stok Kodu": "H010101010311",
@@ -2557,7 +2545,7 @@
   },
   {
     "Stok Kodu": "H010101010327",
-    "Stok Tanımı": "ENT SMD MT46V32M16P-6T:F TR 512MBIT  66TSOP Micron",
+    "Stok Tanımı": "ENT SMD MT46V32M16P-6T:F TR 512MBIT 66TSOP Micron",
     "Depo": "MERKEZ DEPO",
     "Toplam": "14"
   },
@@ -2715,7 +2703,7 @@
     "Stok Kodu": "H010101010387",
     "Stok Tanımı": "ENT SMD PT7C4311WEX 8SOIC Pericom",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4995"
+    "Toplam": "2501"
   },
   {
     "Stok Kodu": "H010101010391",
@@ -2739,7 +2727,7 @@
     "Stok Kodu": "H010101010402",
     "Stok Tanımı": "ENT SMD SN74LVC1G3157DCKR SC70-6 Texas Instruments",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "12"
+    "Toplam": "3012"
   },
   {
     "Stok Kodu": "H010101010403",
@@ -2757,13 +2745,13 @@
     "Stok Kodu": "H010101010411",
     "Stok Tanımı": "ENT SMD PN5120A0HN1/C2,151 32-HVQFN NXP Semiconduc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "520"
+    "Toplam": "500"
   },
   {
     "Stok Kodu": "H010101010412",
     "Stok Tanımı": "ENT SMD LPC1763FBD100,551 100LQFP NXP",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4100"
+    "Toplam": "4080"
   },
   {
     "Stok Kodu": "H010101010413",
@@ -2793,7 +2781,7 @@
     "Stok Kodu": "H010101010425",
     "Stok Tanımı": "ENT SMD SGTL5000XNAA3 32-QFN Freescale Semiconduct",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2504"
+    "Toplam": "2264"
   },
   {
     "Stok Kodu": "H010101010426",
@@ -2847,7 +2835,7 @@
     "Stok Kodu": "H010101010459",
     "Stok Tanımı": "ENT SMD VND5160JTR-E 12-LSOP STMicroelectronics",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6697"
+    "Toplam": "5002"
   },
   {
     "Stok Kodu": "H010101010468",
@@ -2859,7 +2847,7 @@
     "Stok Kodu": "H010101010470",
     "Stok Tanımı": "ENT SMD IP4252CZ16-8-TTL,1 16HUSON NXP Semiconduct",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "12001"
+    "Toplam": "11981"
   },
   {
     "Stok Kodu": "H010101010471",
@@ -2883,13 +2871,13 @@
     "Stok Kodu": "H010101010477",
     "Stok Tanımı": "ENT SMD SN74LVC1G08DCKR SC-70-5 Texas Instruments",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "19438"
+    "Toplam": "18304"
   },
   {
     "Stok Kodu": "H010101010480",
     "Stok Tanımı": "ENT SMD MB85RC64PNF-G-JNE1 64KBIT 8SOP Fujitsu",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "50"
+    "Toplam": "35"
   },
   {
     "Stok Kodu": "H010101010482",
@@ -2901,7 +2889,7 @@
     "Stok Kodu": "H010101010483",
     "Stok Tanımı": "ENT SMD ST3232CDR 3-5.5V 16-SOIC STMicroelectronic",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "231"
+    "Toplam": "211"
   },
   {
     "Stok Kodu": "H010101010489",
@@ -2925,7 +2913,7 @@
     "Stok Kodu": "H010101010502",
     "Stok Tanımı": "ENT SMD INA196AIDBVR SOT23-5 Texas Instruments",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3881"
+    "Toplam": "3813"
   },
   {
     "Stok Kodu": "H010101010503",
@@ -2973,7 +2961,7 @@
     "Stok Kodu": "H010101010516",
     "Stok Tanımı": "ENT SMD FT5206GE1 QFN40 FOCALTECH",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "544"
+    "Toplam": "494"
   },
   {
     "Stok Kodu": "H010101010517",
@@ -2985,7 +2973,7 @@
     "Stok Kodu": "H010101010519",
     "Stok Tanımı": "ENT SMD CM2020-00TR 38-TSSOP ON Semiconductor",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3352"
+    "Toplam": "4230"
   },
   {
     "Stok Kodu": "H010101010526",
@@ -3024,6 +3012,12 @@
     "Toplam": "40"
   },
   {
+    "Stok Kodu": "H010101010537",
+    "Stok Tanımı": "ENT SMD PCA9535BS,118 24HVQFN NXP Semiconductors",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "6000"
+  },
+  {
     "Stok Kodu": "H010101010538",
     "Stok Tanımı": "ENT SMD MCP6001UT-I/OT SOT23-5 Microchip Technolog",
     "Depo": "MERKEZ DEPO",
@@ -3045,17 +3039,17 @@
     "Stok Kodu": "H010101010550",
     "Stok Tanımı": "ENT SMD ATAES132-MAH-ER-T 8UDFN Atmel",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "179"
+    "Toplam": "78"
   },
   {
     "Stok Kodu": "H010101010551",
     "Stok Tanımı": "ENT SMD ST3232BTR 16-TSSOP STMicroelectronics",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5166"
+    "Toplam": "7741"
   },
   {
     "Stok Kodu": "H010101010552",
-    "Stok Tanımı": "ENT SMD L3GD20 3-Axis GRYO 16-Bit LGA-16  STMicroe",
+    "Stok Tanımı": "ENT SMD L3GD20 3-Axis GRYO 16-Bit LGA-16 STMicroe",
     "Depo": "MERKEZ DEPO",
     "Toplam": "18"
   },
@@ -3090,12 +3084,6 @@
     "Toplam": "97"
   },
   {
-    "Stok Kodu": "H010101010568",
-    "Stok Tanımı": "ENT SMD TPS61161DRVR LED Driver 6-SON Texas Instru",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "98"
-  },
-  {
     "Stok Kodu": "H010101010569",
     "Stok Tanımı": "ENT SMD TPS61165DRVR LED Driver 6-SON Texas Instru",
     "Depo": "MERKEZ DEPO",
@@ -3111,7 +3099,7 @@
     "Stok Kodu": "H010101010576",
     "Stok Tanımı": "ENT SMD 24AA025UIDT-I/OT 2KBIT 400KHZ SOT23-6 Micr",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5990"
+    "Toplam": "2990"
   },
   {
     "Stok Kodu": "H010101010577",
@@ -3171,7 +3159,7 @@
     "Stok Kodu": "H010101010604",
     "Stok Tanımı": "ENT SMD AP2511MP-13 MSOP-8EP Diodes Incorporated",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7479"
+    "Toplam": "14979"
   },
   {
     "Stok Kodu": "H010101010605",
@@ -3375,13 +3363,13 @@
     "Stok Kodu": "H010101010672",
     "Stok Tanımı": "ENT SMD USB2514B-I/M2 36VQFN Microchip Technol",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "566"
+    "Toplam": "2394"
   },
   {
     "Stok Kodu": "H010101010676",
     "Stok Tanımı": "ENT SMD TPS55340RTER 16WQFN Texas Instruments",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1"
+    "Toplam": "446"
   },
   {
     "Stok Kodu": "H010101010678",
@@ -3489,7 +3477,7 @@
     "Stok Kodu": "H010101010720",
     "Stok Tanımı": "ENT SMD TC58BVG2S0HBAI4 63FBGA Toshiba Semiconduct",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1712"
+    "Toplam": "15"
   },
   {
     "Stok Kodu": "H010101010722",
@@ -3561,7 +3549,7 @@
     "Stok Kodu": "H010101010743",
     "Stok Tanımı": "ENT SMD H5TC4G63EFR-RDA FBGA96 HYNIX",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7336"
+    "Toplam": "4765"
   },
   {
     "Stok Kodu": "H010101010751",
@@ -3585,7 +3573,7 @@
     "Stok Kodu": "H010101010771",
     "Stok Tanımı": "ENT SMD ISL83485IBZ-T 3.3V LP 8SOIC Intersil",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "54"
+    "Toplam": "141"
   },
   {
     "Stok Kodu": "H010101010781",
@@ -3613,7 +3601,7 @@
   },
   {
     "Stok Kodu": "H010101010791",
-    "Stok Tanımı": "ENT SMD  LTC4020EUHF#PBF 55V 38QFN Linear Technol",
+    "Stok Tanımı": "ENT SMD LTC4020EUHF#PBF 55V 38QFN Linear Technol",
     "Depo": "MERKEZ DEPO",
     "Toplam": "183"
   },
@@ -3681,19 +3669,13 @@
     "Stok Kodu": "H010101010824",
     "Stok Tanımı": "ENT SMD LD39200DPUR ADJ 2A 8DFN STMicroelec",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1110"
+    "Toplam": "10"
   },
   {
     "Stok Kodu": "H010101010825",
     "Stok Tanımı": "ENT SMD AP3429KTTR-G1 ADJ 2A TSOT25 Diodes Inco",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7928"
-  },
-  {
-    "Stok Kodu": "H010101010826",
-    "Stok Tanımı": "ENT SMD AP2112K-3.3TRG1 3,3V 600MA SOT25 Diodes In",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "495"
+    "Toplam": "4928"
   },
   {
     "Stok Kodu": "H010101010827",
@@ -3786,14 +3768,8 @@
     "Toplam": "1550"
   },
   {
-    "Stok Kodu": "H010101010876",
-    "Stok Tanımı": "ENT SMD W25Q32JVSSIQ TR 32MB 133MHZ 8SOIC Winbond",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "5"
-  },
-  {
     "Stok Kodu": "H010101010879",
-    "Stok Tanımı": "ENT SMD  SN74LVC1G32DCKR 1CH 2-INP SC70-5 Texas In",
+    "Stok Tanımı": "ENT SMD SN74LVC1G32DCKR 1CH 2-INP SC70-5 Texas In",
     "Depo": "MERKEZ DEPO",
     "Toplam": "8"
   },
@@ -3853,13 +3829,13 @@
   },
   {
     "Stok Kodu": "H010101010949",
-    "Stok Tanımı": "ENT SMD NVP6158C 88eQFN Nextchip",
+    "Stok Tanımı": "ENT SMD NVP6158C 88eQFN Nextchip",
     "Depo": "MERKEZ DEPO",
     "Toplam": "18"
   },
   {
     "Stok Kodu": "H010101010950",
-    "Stok Tanımı": "ENT SMD Hi3520DV400 TFBGA 427 Hisilicon",
+    "Stok Tanımı": "ENT SMD Hi3520DV400 TFBGA 427 Hisilicon",
     "Depo": "MERKEZ DEPO",
     "Toplam": "32"
   },
@@ -3897,7 +3873,7 @@
     "Stok Kodu": "H010101010973",
     "Stok Tanımı": "ENT SMD EMMC04G-M627-X03U 153-Ball BGA Kingston Te",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1501"
+    "Toplam": "1"
   },
   {
     "Stok Kodu": "H010101010974",
@@ -3931,9 +3907,15 @@
   },
   {
     "Stok Kodu": "H010101010996",
-    "Stok Tanımı": "ENT SMD Hi3521D V100  H.265 CODEC BGA437  HiSilico",
+    "Stok Tanımı": "ENT SMD Hi3521D V100 H.265 CODEC BGA437 HiSilico",
     "Depo": "MERKEZ DEPO",
     "Toplam": "684"
+  },
+  {
+    "Stok Kodu": "H010101010998",
+    "Stok Tanımı": "ENT SMD ICN6211 QFN48 Chipone Tech",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "3000"
   },
   {
     "Stok Kodu": "H010101011003",
@@ -3952,6 +3934,18 @@
     "Stok Tanımı": "ENT SMD PCA9507D,118 HDMI/I2C 1CH 8SO NXP USA Inc.",
     "Depo": "MERKEZ DEPO",
     "Toplam": "7"
+  },
+  {
+    "Stok Kodu": "H010101011020",
+    "Stok Tanımı": "ENT SMD TCS4525-WT 5A ADJ WCSP-20 TCTEK",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "3000"
+  },
+  {
+    "Stok Kodu": "H010101011022",
+    "Stok Tanımı": "ENT SMD K4E8E324EB-EGCF 8GB LPDDR3 BGA178 SAMSUNG",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1120"
   },
   {
     "Stok Kodu": "H010101011024",
@@ -3981,13 +3975,13 @@
     "Stok Kodu": "H010101011037",
     "Stok Tanımı": "ENT SMD MCIMX6Y2DVM09AA557 CORTEX A9 NXP USA Inc.",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1270"
+    "Toplam": "1173"
   },
   {
     "Stok Kodu": "H010101011038",
     "Stok Tanımı": "ENT SMD PN5180A0HN/C1Y 40HVQFN NXP USA Inc.",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4000"
+    "Toplam": "8000"
   },
   {
     "Stok Kodu": "H010101011046",
@@ -4017,13 +4011,7 @@
     "Stok Kodu": "H010101011064",
     "Stok Tanımı": "ENT SMD MCIMX6U5EVM10AB 624-LFBGA NXP USA Inc.",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1405"
-  },
-  {
-    "Stok Kodu": "H010101011070",
-    "Stok Tanımı": "ENT SMD KSZ8081RNDIA-TR 24QFN Microchip Technology",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "1000"
+    "Toplam": "1649"
   },
   {
     "Stok Kodu": "H010101011071",
@@ -4041,7 +4029,7 @@
     "Stok Kodu": "H010101011073",
     "Stok Tanımı": "ENT SMD TAS2552YFFR 4W 30DSBGA Texas Instruments",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1300"
+    "Toplam": "300"
   },
   {
     "Stok Kodu": "H010101011074",
@@ -4086,46 +4074,16 @@
     "Toplam": "1212"
   },
   {
-    "Stok Kodu": "H010101011091",
-    "Stok Tanımı": "ENT SMD S25FL032P0XMFB013 32MBIT 8SOIC Cypress Sem",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "5"
-  },
-  {
-    "Stok Kodu": "H010101011092",
-    "Stok Tanımı": "ENT SMD AT25DF081A-SH-T 8MBIT 8SOIC Adesto Technol",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "5"
-  },
-  {
-    "Stok Kodu": "H010101011093",
-    "Stok Tanımı": "ENT SMD SST26VF016B-104V/SN 16MBIT 8SOIC Microchip",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "5"
-  },
-  {
-    "Stok Kodu": "H010101011094",
-    "Stok Tanımı": "ENT SMD LPC4320FET100,551 32BIT 100TFBGA NXP USA I",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "30"
-  },
-  {
-    "Stok Kodu": "H010101011099",
-    "Stok Tanımı": "ENT SMD VN751S 8-SOIC STMicroelectronics",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "25"
-  },
-  {
-    "Stok Kodu": "H010101011100",
-    "Stok Tanımı": "ENT SMD NDL46PFP-8KET 4GBit BGA96 Insignis Technol",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "2"
-  },
-  {
     "Stok Kodu": "H010101011102",
     "Stok Tanımı": "ENT SMD SDINBDG4-8G-XI1 eMMC 8GB SanDisk",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10"
+    "Toplam": "6"
+  },
+  {
+    "Stok Kodu": "H010101011104",
+    "Stok Tanımı": "ENT SMD KLM8G1GETF-B041 8GB eMMC 153Pin FBGA SAMSU",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1116"
   },
   {
     "Stok Kodu": "H010101013012",
@@ -4203,7 +4161,7 @@
     "Stok Kodu": "H010101013056",
     "Stok Tanımı": "MODÜL WİFİ AWUS036NH Alfa Network",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "50"
+    "Toplam": "70"
   },
   {
     "Stok Kodu": "H010101013065",
@@ -4260,6 +4218,12 @@
     "Toplam": "840"
   },
   {
+    "Stok Kodu": "H010101013103",
+    "Stok Tanımı": "MODÜL SMD EC25EUXGA-128-SGNS QUECTEL",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1500"
+  },
+  {
     "Stok Kodu": "H010101013109",
     "Stok Tanımı": "MODÜL DP8403 QR SCANNER DYSCAN",
     "Depo": "MERKEZ DEPO",
@@ -4276,6 +4240,12 @@
     "Stok Tanımı": "MODÜL EM20-80 BARKOD SCANNER NEWLAND",
     "Depo": "MERKEZ DEPO",
     "Toplam": "46"
+  },
+  {
+    "Stok Kodu": "H010101013120",
+    "Stok Tanımı": "MODÜL SIM7600E-H1C SIMCOM",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "2365"
   },
   {
     "Stok Kodu": "H010101013122",
@@ -4443,13 +4413,13 @@
     "Stok Kodu": "H010102001026",
     "Stok Tanımı": "KON SMD CER 0603 4,7NF/50V 10% X7R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4212"
+    "Toplam": "4000"
   },
   {
     "Stok Kodu": "H010102001027",
     "Stok Tanımı": "KON SMD CER 0603 2,2NF/50V %10 X7R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4384"
+    "Toplam": "384"
   },
   {
     "Stok Kodu": "H010102001028",
@@ -4521,7 +4491,7 @@
     "Stok Kodu": "H010102001040",
     "Stok Tanımı": "KON SMD CER 0603 1NF/50V 10% X7G",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8438"
+    "Toplam": "8000"
   },
   {
     "Stok Kodu": "H010102001041",
@@ -4605,7 +4575,7 @@
     "Stok Kodu": "H010102001058",
     "Stok Tanımı": "KON SMD CER 0603 220NF/25V %10 X7R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "402"
+    "Toplam": "4749"
   },
   {
     "Stok Kodu": "H010102001059",
@@ -4629,7 +4599,7 @@
     "Stok Kodu": "H010102001062",
     "Stok Tanımı": "KON SMD CER 0603 270PF/50V 5% C0G",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8182"
+    "Toplam": "11709"
   },
   {
     "Stok Kodu": "H010102001064",
@@ -4701,7 +4671,7 @@
     "Stok Kodu": "H010102001078",
     "Stok Tanımı": "KON SMD CER 0603 15PF/50V 5% C0G",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10395"
+    "Toplam": "10292"
   },
   {
     "Stok Kodu": "H010102001079",
@@ -4789,7 +4759,7 @@
   },
   {
     "Stok Kodu": "H010102001097",
-    "Stok Tanımı": "KON SMD CER 0603 18PF/30V  %20",
+    "Stok Tanımı": "KON SMD CER 0603 18PF/30V %20",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3001"
   },
@@ -4797,7 +4767,7 @@
     "Stok Kodu": "H010102001098",
     "Stok Tanımı": "KON SMD CER 0603 22PF/50V 5% C0G",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4028"
+    "Toplam": "4450"
   },
   {
     "Stok Kodu": "H010102001099",
@@ -4887,7 +4857,7 @@
     "Stok Kodu": "H010102001122",
     "Stok Tanımı": "KON SMD CER 0603 10UF/6.3V 10% X5R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "18515"
+    "Toplam": "15163"
   },
   {
     "Stok Kodu": "H010102001123",
@@ -4911,7 +4881,7 @@
     "Stok Kodu": "H010102001126",
     "Stok Tanımı": "KON SMD CER 0805 10PF/50V 5% C0G",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3397"
+    "Toplam": "3347"
   },
   {
     "Stok Kodu": "H010102001128",
@@ -5073,7 +5043,7 @@
     "Stok Kodu": "H010102001161",
     "Stok Tanımı": "KON SMD CER 0603 100NF/50V %10 X7R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "239954"
+    "Toplam": "238734"
   },
   {
     "Stok Kodu": "H010102001162",
@@ -5089,7 +5059,7 @@
   },
   {
     "Stok Kodu": "H010102001164",
-    "Stok Tanımı": "KON SMD CER 0805 33PF/30V  %20",
+    "Stok Tanımı": "KON SMD CER 0805 33PF/30V %20",
     "Depo": "MERKEZ DEPO",
     "Toplam": "5505"
   },
@@ -5157,7 +5127,7 @@
     "Stok Kodu": "H010102001176",
     "Stok Tanımı": "KON SMD CER 0805 47UF/6,3V %20 X5R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10715"
+    "Toplam": "9275"
   },
   {
     "Stok Kodu": "H010102001180",
@@ -5193,7 +5163,7 @@
     "Stok Kodu": "H010102001187",
     "Stok Tanımı": "KON SMD CER 0402 18PF/50V %5 GRM1555C1H180JZ01D",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "18308"
+    "Toplam": "13121"
   },
   {
     "Stok Kodu": "H010102001188",
@@ -5203,15 +5173,15 @@
   },
   {
     "Stok Kodu": "H010102001190",
-    "Stok Tanımı": "KON SMD CER 0603 560PF/30V  %20",
+    "Stok Tanımı": "KON SMD CER 0603 560PF/30V %20",
     "Depo": "MERKEZ DEPO",
     "Toplam": "7820"
   },
   {
     "Stok Kodu": "H010102001191",
-    "Stok Tanımı": "KON SMD POL 220UF/16V  6,3X7,7 ELEKTROİT",
+    "Stok Tanımı": "KON SMD POL 220UF/16V 6,3X7,7 ELEKTROİT",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5705"
+    "Toplam": "5685"
   },
   {
     "Stok Kodu": "H010102001192",
@@ -5257,7 +5227,7 @@
   },
   {
     "Stok Kodu": "H010102001199",
-    "Stok Tanımı": "KON SMD CER 0402 1NF/30V  %10",
+    "Stok Tanımı": "KON SMD CER 0402 1NF/30V %10",
     "Depo": "MERKEZ DEPO",
     "Toplam": "8320"
   },
@@ -5275,13 +5245,13 @@
   },
   {
     "Stok Kodu": "H010102001201",
-    "Stok Tanımı": "KON SMD CER 0805 180PF/30V  %10",
+    "Stok Tanımı": "KON SMD CER 0805 180PF/30V %10",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3844"
   },
   {
     "Stok Kodu": "H010102001202",
-    "Stok Tanımı": "KON SMD CER 0402 6PF/50V  %1 COG",
+    "Stok Tanımı": "KON SMD CER 0402 6PF/50V %1 COG",
     "Depo": "MERKEZ DEPO",
     "Toplam": "9685"
   },
@@ -5301,7 +5271,7 @@
     "Stok Kodu": "H010102001206",
     "Stok Tanımı": "KON SMD CER 0201 220nF/6,3V %20 X5R TDK Corporatio",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "416805"
+    "Toplam": "416317"
   },
   {
     "Stok Kodu": "H010102001208",
@@ -5311,13 +5281,13 @@
   },
   {
     "Stok Kodu": "H010102001209",
-    "Stok Tanımı": "KON SMD CER 0603 9PF/30V  %20",
+    "Stok Tanımı": "KON SMD CER 0603 9PF/30V %20",
     "Depo": "MERKEZ DEPO",
     "Toplam": "392"
   },
   {
     "Stok Kodu": "H010102001211",
-    "Stok Tanımı": "KON SMD CER 0603 30PF/50V  %5",
+    "Stok Tanımı": "KON SMD CER 0603 30PF/50V %5",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3444"
   },
@@ -5401,7 +5371,7 @@
   },
   {
     "Stok Kodu": "h010102001228",
-    "Stok Tanımı": "KON SMD CER 0805 470PF/50V  5% COG/NPO",
+    "Stok Tanımı": "KON SMD CER 0805 470PF/50V 5% COG/NPO",
     "Depo": "MERKEZ DEPO",
     "Toplam": "5026"
   },
@@ -5508,12 +5478,6 @@
     "Toplam": "9584"
   },
   {
-    "Stok Kodu": "H010102001247",
-    "Stok Tanımı": "KON SMD CER 0402 15PF %5",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "8526"
-  },
-  {
     "Stok Kodu": "H010102001250",
     "Stok Tanımı": "KON SMD CER 0402 56PF/50V %5 NPO",
     "Depo": "MERKEZ DEPO",
@@ -5601,7 +5565,7 @@
     "Stok Kodu": "H010102001275",
     "Stok Tanımı": "KON SMD CER 0402 10NF/25V %10 X7R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10564"
+    "Toplam": "630"
   },
   {
     "Stok Kodu": "H010102001276",
@@ -5751,7 +5715,7 @@
     "Stok Kodu": "H010102001308",
     "Stok Tanımı": "KON SMD CER 0603 100PF/50V %1 COG AVX Corporation",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8271"
+    "Toplam": "4271"
   },
   {
     "Stok Kodu": "H010102001309",
@@ -5770,12 +5734,6 @@
     "Stok Tanımı": "KON SMD CER 0805 2,2UF/25V %20 Y5V",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4920"
-  },
-  {
-    "Stok Kodu": "H010102001314",
-    "Stok Tanımı": "KON SMD CER 0402 470nF/6,3V %10 X5R",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "3308"
   },
   {
     "Stok Kodu": "H010102001319",
@@ -5949,19 +5907,19 @@
     "Stok Kodu": "H010102001374",
     "Stok Tanımı": "KON SMD CER 0603 18PF/50V %1 CL10C180FB8NNNC Samsu",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "28667"
+    "Toplam": "28497"
   },
   {
     "Stok Kodu": "H010102001378",
     "Stok Tanımı": "KON SMD CER 0603 56pF/50V %1 NPO",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4021"
+    "Toplam": "5699"
   },
   {
     "Stok Kodu": "H010102001379",
     "Stok Tanımı": "KON SMD CER 0603 220pF/50V %1 NPO Samsung Electro-",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "13001"
+    "Toplam": "12000"
   },
   {
     "Stok Kodu": "H010102001381",
@@ -6000,12 +5958,6 @@
     "Toplam": "6846"
   },
   {
-    "Stok Kodu": "H010102001391",
-    "Stok Tanımı": "KON SMD CER 0402 220PF/10V %10 X7R",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "8845"
-  },
-  {
     "Stok Kodu": "H010102001392",
     "Stok Tanımı": "KON SMD CER 0402 10NF/50V %10 X7R",
     "Depo": "MERKEZ DEPO",
@@ -6039,13 +5991,13 @@
     "Stok Kodu": "H010102001410",
     "Stok Tanımı": "KON SMD CER 0402 100NF/16V %10 CL05B104KO5NNNC SAM",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "69258"
+    "Toplam": "49258"
   },
   {
     "Stok Kodu": "H010102001412",
     "Stok Tanımı": "KON SMD CER 1206 1NF/2000V %10 X7R Kemet",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6457"
+    "Toplam": "6287"
   },
   {
     "Stok Kodu": "H010102001413",
@@ -6069,13 +6021,13 @@
     "Stok Kodu": "H010102001416",
     "Stok Tanımı": "KON SMD CER 0805 10UF/6,3V 20% X5R TDK Corporation",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "43581"
+    "Toplam": "43561"
   },
   {
     "Stok Kodu": "H010102001417",
     "Stok Tanımı": "KON SMD CER 0603 1UF/16V 10% X7R Samsung Electro",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "15044"
+    "Toplam": "14544"
   },
   {
     "Stok Kodu": "H010102001418",
@@ -6087,7 +6039,7 @@
     "Stok Kodu": "H010102001419",
     "Stok Tanımı": "KON SMD CER 1206 100UF/6,3V %20 X5R Samsung Electr",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "59426"
+    "Toplam": "57426"
   },
   {
     "Stok Kodu": "H010102001420",
@@ -6096,28 +6048,22 @@
     "Toplam": "6957"
   },
   {
-    "Stok Kodu": "H010102001421",
-    "Stok Tanımı": "KON SMD CER 1206 10UF/35V %10 X5R Murata Electroni",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "2000"
-  },
-  {
     "Stok Kodu": "H010102001422",
     "Stok Tanımı": "KON SMD CER 0402 4,7UF/6,3V %20 X5R Samsung Electr",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "59960"
+    "Toplam": "49960"
   },
   {
     "Stok Kodu": "H010102001423",
     "Stok Tanımı": "KON SMD CER 0603 22UF/6,3V %20 X5R Samsung Electr",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "146420"
+    "Toplam": "142000"
   },
   {
     "Stok Kodu": "H010102001427",
     "Stok Tanımı": "KON SMD CER 0402 1UF 6,3V 20% X5R Murata Electroni",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "65718"
+    "Toplam": "55138"
   },
   {
     "Stok Kodu": "H010102001429",
@@ -6171,7 +6117,7 @@
     "Stok Kodu": "H010102001439",
     "Stok Tanımı": "KON SMD CER 0603 82PF/50V %1 NPO",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4991"
+    "Toplam": "12991"
   },
   {
     "Stok Kodu": "H010102001440",
@@ -6183,7 +6129,7 @@
     "Stok Kodu": "H010102001441",
     "Stok Tanımı": "KON SMD TANTAL 100UF/10V %20 3528 (B)",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2660"
+    "Toplam": "2655"
   },
   {
     "Stok Kodu": "H010102001443",
@@ -6195,7 +6141,7 @@
     "Stok Kodu": "H010102001444",
     "Stok Tanımı": "KON SMD CER 0201 2,2PF ±0,1pf 50V NP0 Murata Elect",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "15613"
+    "Toplam": "15000"
   },
   {
     "Stok Kodu": "H010102001445",
@@ -6213,13 +6159,13 @@
     "Stok Kodu": "H010102001456",
     "Stok Tanımı": "KON SMD CER 0402 220NF/16V %10 X7R Murata Elecktro",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10208"
+    "Toplam": "10020"
   },
   {
     "Stok Kodu": "H010102001460",
     "Stok Tanımı": "KON SMD CER 0603 33PF/50V 06035A330FAT2A %1 Kemet",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4083"
+    "Toplam": "4030"
   },
   {
     "Stok Kodu": "H010102001461",
@@ -6243,13 +6189,7 @@
     "Stok Kodu": "H010102001465",
     "Stok Tanımı": "KON SMD CER 0402 470PF/50V 10% X7R Samsung Electr",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10826"
-  },
-  {
-    "Stok Kodu": "H010102001466",
-    "Stok Tanımı": "KON SMD CER 0402 4,7NF/50V 10% X7R Murata Electron",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "842"
+    "Toplam": "10008"
   },
   {
     "Stok Kodu": "H010102001467",
@@ -6270,6 +6210,18 @@
     "Toplam": "9969"
   },
   {
+    "Stok Kodu": "H010102001479",
+    "Stok Tanımı": "KON SMD CER 0603 6,8PF/50V ±0.1pF NPO Samsung Elec",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "2355"
+  },
+  {
+    "Stok Kodu": "H010102001481",
+    "Stok Tanımı": "KON SMD CER 0603 8,2PF/50V ±0.5pF NPO Samsung Elec",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "3952"
+  },
+  {
     "Stok Kodu": "H010102001493",
     "Stok Tanımı": "KON SMD CER 0603 8PF/50V ±0,5pF COG Samsung Electr",
     "Depo": "MERKEZ DEPO",
@@ -6279,13 +6231,13 @@
     "Stok Kodu": "H010102001495",
     "Stok Tanımı": "KON SMD CER 0402 8PF/50V ±0.5pF Samsung Electro-Me",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10022"
+    "Toplam": "9032"
   },
   {
     "Stok Kodu": "H010102001506",
     "Stok Tanımı": "KON SMD CER 0805 6,8uF/16V %10 C2012X5R1C685K085AC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3303"
+    "Toplam": "383"
   },
   {
     "Stok Kodu": "H010102001507",
@@ -6339,7 +6291,7 @@
     "Stok Kodu": "H010102001620",
     "Stok Tanımı": "KON SMD CER 1206 10UF/50V %20 X5R Murata",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "11765"
+    "Toplam": "11740"
   },
   {
     "Stok Kodu": "H010102001621",
@@ -6364,6 +6316,12 @@
     "Stok Tanımı": "KON SMD CER 1206 4,7uF/50V 10% X5R Murata Elec",
     "Depo": "MERKEZ DEPO",
     "Toplam": "6000"
+  },
+  {
+    "Stok Kodu": "H010102001628",
+    "Stok Tanımı": "KON SMD CER 1206 22UF/25V 10% CL31A226KAHNNNE Sams",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "614"
   },
   {
     "Stok Kodu": "H010102001633",
@@ -6399,7 +6357,7 @@
     "Stok Kodu": "H010102001654",
     "Stok Tanımı": "KON SMD CER 0603 820PF/50V 10% C0603C821K5RACTU Ke",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6381"
+    "Toplam": "3824"
   },
   {
     "Stok Kodu": "H010102001676",
@@ -6450,6 +6408,12 @@
     "Toplam": "39"
   },
   {
+    "Stok Kodu": "H010102001701",
+    "Stok Tanımı": "KON SMD CER 0402 27PF/50V %1 C0G/NP0 MURATA",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "50"
+  },
+  {
     "Stok Kodu": "H010102002001",
     "Stok Tanımı": "DİR SMD 0805 680R %5",
     "Depo": "MERKEZ DEPO",
@@ -6489,7 +6453,7 @@
     "Stok Kodu": "H010102002007",
     "Stok Tanımı": "DİR SMD 0805 470R 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10865"
+    "Toplam": "10600"
   },
   {
     "Stok Kodu": "H010102002008",
@@ -6621,7 +6585,7 @@
     "Stok Kodu": "H010102002030",
     "Stok Tanımı": "DİR SMD 1206 0,475R 1%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "12884"
+    "Toplam": "12864"
   },
   {
     "Stok Kodu": "H010102002031",
@@ -6663,13 +6627,13 @@
     "Stok Kodu": "H010102002037",
     "Stok Tanımı": "DİR SMD 1206 120R 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2997"
+    "Toplam": "8048"
   },
   {
     "Stok Kodu": "H010102002038",
     "Stok Tanımı": "DİR SMD 1206 4,7k %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "321"
+    "Toplam": "4365"
   },
   {
     "Stok Kodu": "H010102002040",
@@ -6693,7 +6657,7 @@
     "Stok Kodu": "H010102002044",
     "Stok Tanımı": "DİR SMD 0805 47K 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6745"
+    "Toplam": "5707"
   },
   {
     "Stok Kodu": "H010102002045",
@@ -6711,7 +6675,7 @@
     "Stok Kodu": "H010102002047",
     "Stok Tanımı": "DİR SMD 0603 10K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "50008"
+    "Toplam": "54594"
   },
   {
     "Stok Kodu": "H010102002048",
@@ -6789,13 +6753,13 @@
     "Stok Kodu": "H010102002062",
     "Stok Tanımı": "DİR SMD 0402 1M %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "9753"
+    "Toplam": "5"
   },
   {
     "Stok Kodu": "H010102002063",
     "Stok Tanımı": "DİR SMD 1206 0R 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "41973"
+    "Toplam": "41802"
   },
   {
     "Stok Kodu": "H010102002064",
@@ -6915,7 +6879,7 @@
     "Stok Kodu": "H010102002084",
     "Stok Tanımı": "DİR SMD 1206 27K 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6168"
+    "Toplam": "5000"
   },
   {
     "Stok Kodu": "H010102002085",
@@ -6993,13 +6957,13 @@
     "Stok Kodu": "H010102002098",
     "Stok Tanımı": "DİR SMD 0805 150R 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "33597"
+    "Toplam": "33577"
   },
   {
     "Stok Kodu": "H010102002099",
     "Stok Tanımı": "DİR SMD 0603 100K 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "68103"
+    "Toplam": "66293"
   },
   {
     "Stok Kodu": "H010102002100",
@@ -7011,7 +6975,7 @@
     "Stok Kodu": "H010102002101",
     "Stok Tanımı": "DİR SMD 0603 3,3K 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8787"
+    "Toplam": "9034"
   },
   {
     "Stok Kodu": "H010102002102",
@@ -7047,7 +7011,7 @@
     "Stok Kodu": "H010102002107",
     "Stok Tanımı": "DİR SMD 1206 680R 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2685"
+    "Toplam": "2675"
   },
   {
     "Stok Kodu": "H010102002108",
@@ -7095,7 +7059,7 @@
     "Stok Kodu": "H010102002115",
     "Stok Tanımı": "DİR SMD 0805 75R 1% RC0805FR-0775RL Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "358"
+    "Toplam": "1"
   },
   {
     "Stok Kodu": "H010102002116",
@@ -7107,7 +7071,7 @@
     "Stok Kodu": "H010102002117",
     "Stok Tanımı": "DİR SMD 1206 0,22R %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "14881"
+    "Toplam": "14861"
   },
   {
     "Stok Kodu": "H010102002118",
@@ -7167,7 +7131,7 @@
     "Stok Kodu": "H010102002127",
     "Stok Tanımı": "DİR SMD 0603 220R 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "132624"
+    "Toplam": "132369"
   },
   {
     "Stok Kodu": "H010102002128",
@@ -7179,7 +7143,7 @@
     "Stok Kodu": "H010102002129",
     "Stok Tanımı": "DİR SMD 0402 1K %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "12617"
+    "Toplam": "12287"
   },
   {
     "Stok Kodu": "H010102002130",
@@ -7203,7 +7167,7 @@
     "Stok Kodu": "H010102002134",
     "Stok Tanımı": "DİR SMD 0603 2,7K 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "30611"
+    "Toplam": "32744"
   },
   {
     "Stok Kodu": "H010102002135",
@@ -7317,7 +7281,7 @@
     "Stok Kodu": "H010102002153",
     "Stok Tanımı": "DİR SMD 0805 270R 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "9123"
+    "Toplam": "9035"
   },
   {
     "Stok Kodu": "H010102002154",
@@ -7347,7 +7311,7 @@
     "Stok Kodu": "H010102002158",
     "Stok Tanımı": "DİR SMD 0603 270K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5009"
+    "Toplam": "216"
   },
   {
     "Stok Kodu": "H010102002159",
@@ -7401,7 +7365,7 @@
     "Stok Kodu": "H010102002169",
     "Stok Tanımı": "DİR SMD 0603 33K 5%",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3164"
+    "Toplam": "3144"
   },
   {
     "Stok Kodu": "H010102002171",
@@ -7458,6 +7422,12 @@
     "Toplam": "5003"
   },
   {
+    "Stok Kodu": "H010102002182",
+    "Stok Tanımı": "DİR SMD 0603 15K %5",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1566"
+  },
+  {
     "Stok Kodu": "H010102002183",
     "Stok Tanımı": "DİR SMD 0603 22,6K %1",
     "Depo": "MERKEZ DEPO",
@@ -7471,7 +7441,7 @@
   },
   {
     "Stok Kodu": "H010102002185",
-    "Stok Tanımı": "DİR SMD 0603 8,45K %1  MCR03ERTF8451 Rohm Semi",
+    "Stok Tanımı": "DİR SMD 0603 8,45K %1 MCR03ERTF8451 Rohm Semi",
     "Depo": "MERKEZ DEPO",
     "Toplam": "9485"
   },
@@ -7479,19 +7449,19 @@
     "Stok Kodu": "H010102002186",
     "Stok Tanımı": "DİR SMD 1206 10K %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "15000"
+    "Toplam": "14849"
   },
   {
     "Stok Kodu": "H010102002188",
     "Stok Tanımı": "DİR SMD 0402 470R %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5410"
+    "Toplam": "4670"
   },
   {
     "Stok Kodu": "H010102002189",
     "Stok Tanımı": "DİR SMD 0402 1,5K %1 Panasonic Electronic",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "40000"
+    "Toplam": "30000"
   },
   {
     "Stok Kodu": "H010102002190",
@@ -7533,7 +7503,7 @@
     "Stok Kodu": "H010102002196",
     "Stok Tanımı": "DİR SMD 0402 10K %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "55051"
+    "Toplam": "43103"
   },
   {
     "Stok Kodu": "H010102002197",
@@ -7545,13 +7515,13 @@
     "Stok Kodu": "H010102002198",
     "Stok Tanımı": "DİR SMD 0603 100K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10451"
+    "Toplam": "5451"
   },
   {
     "Stok Kodu": "H010102002199",
     "Stok Tanımı": "DİR SMD 0402 4,7K %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "17138"
+    "Toplam": "16921"
   },
   {
     "Stok Kodu": "H010102002200",
@@ -7575,19 +7545,19 @@
     "Stok Kodu": "H010102002203",
     "Stok Tanımı": "DİR SMD 0402 100R %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "12452"
+    "Toplam": "6920"
   },
   {
     "Stok Kodu": "H010102002204",
     "Stok Tanımı": "DİR SMD 0402 12K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "14413"
+    "Toplam": "14163"
   },
   {
     "Stok Kodu": "H010102002205",
     "Stok Tanımı": "DİR SMD 0603 3,3K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3155"
+    "Toplam": "1839"
   },
   {
     "Stok Kodu": "H010102002206",
@@ -7635,7 +7605,7 @@
     "Stok Kodu": "H010102002216",
     "Stok Tanımı": "DİR SMD 0603 27K %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3477"
+    "Toplam": "4307"
   },
   {
     "Stok Kodu": "H010102002217",
@@ -7695,7 +7665,7 @@
     "Stok Kodu": "H010102002230",
     "Stok Tanımı": "DİR SMD 0603 36K %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1149"
+    "Toplam": "4537"
   },
   {
     "Stok Kodu": "H010102002231",
@@ -7837,19 +7807,19 @@
   },
   {
     "Stok Kodu": "H010102002260",
-    "Stok Tanımı": "DİR SMD 1206 8TRM 4 RES  5,1R %5 YC164-JR-075R1L",
+    "Stok Tanımı": "DİR SMD 1206 8TRM 4 RES 5,1R %5 YC164-JR-075R1L",
     "Depo": "MERKEZ DEPO",
     "Toplam": "440"
   },
   {
     "Stok Kodu": "H010102002261",
-    "Stok Tanımı": "DİR SMD 1206 8TRM 4 RES  10R %5 YC164-JR-0710RL",
+    "Stok Tanımı": "DİR SMD 1206 8TRM 4 RES 10R %5 YC164-JR-0710RL",
     "Depo": "MERKEZ DEPO",
     "Toplam": "447"
   },
   {
     "Stok Kodu": "H010102002262",
-    "Stok Tanımı": "DİR SMD 1206 8TRM 4 RES  15R %5 YC164-JR-0715RL",
+    "Stok Tanımı": "DİR SMD 1206 8TRM 4 RES 15R %5 YC164-JR-0715RL",
     "Depo": "MERKEZ DEPO",
     "Toplam": "500"
   },
@@ -7867,7 +7837,7 @@
   },
   {
     "Stok Kodu": "H010102002265",
-    "Stok Tanımı": "DİR SMD 1206  8TRM 4 RES 33R %5 YC164-JR-0733RL",
+    "Stok Tanımı": "DİR SMD 1206 8TRM 4 RES 33R %5 YC164-JR-0733RL",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3646"
   },
@@ -7941,7 +7911,7 @@
     "Stok Kodu": "H010102002287",
     "Stok Tanımı": "DİR SMD 0402 100K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8667"
+    "Toplam": "12"
   },
   {
     "Stok Kodu": "H010102002288",
@@ -7959,19 +7929,19 @@
     "Stok Kodu": "H010102002290",
     "Stok Tanımı": "DİR SMD 0402 20K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10698"
+    "Toplam": "10000"
   },
   {
     "Stok Kodu": "H010102002291",
     "Stok Tanımı": "DİR SMD 0402 49,9R %1 1/10W Panasonic Electronic C",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10588"
+    "Toplam": "10000"
   },
   {
     "Stok Kodu": "H010102002292",
     "Stok Tanımı": "DİR SMD 0402 10R %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "17616"
+    "Toplam": "10010"
   },
   {
     "Stok Kodu": "H010102002293",
@@ -7983,7 +7953,7 @@
     "Stok Kodu": "H010102002294",
     "Stok Tanımı": "DİR SMD 0603 47R %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8117"
+    "Toplam": "5025"
   },
   {
     "Stok Kodu": "H010102002295",
@@ -8067,7 +8037,7 @@
     "Stok Kodu": "H010102002314",
     "Stok Tanımı": "DİR SMD 0603 17,8K %1 RC0603FR-0717K8L Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7975"
+    "Toplam": "5513"
   },
   {
     "Stok Kodu": "H010102002316",
@@ -8110,12 +8080,6 @@
     "Stok Tanımı": "DİR SMD 0201 200K %5",
     "Depo": "MERKEZ DEPO",
     "Toplam": "14867"
-  },
-  {
-    "Stok Kodu": "H010102002323",
-    "Stok Tanımı": "DİR SMD 0402 200K %5",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "8716"
   },
   {
     "Stok Kodu": "H010102002324",
@@ -8167,7 +8131,7 @@
   },
   {
     "Stok Kodu": "H010102002332",
-    "Stok Tanımı": "DİR SMD 0402 200R %5  Vishay Dale CRCW0402200RJNED",
+    "Stok Tanımı": "DİR SMD 0402 200R %5 Vishay Dale CRCW0402200RJNED",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1774"
   },
@@ -8259,7 +8223,7 @@
     "Stok Kodu": "H010102002358",
     "Stok Tanımı": "DİR SMD 0603 3,9K %0,5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2473"
+    "Toplam": "3316"
   },
   {
     "Stok Kodu": "H010102002359",
@@ -8412,12 +8376,6 @@
     "Toplam": "656"
   },
   {
-    "Stok Kodu": "H010102002384",
-    "Stok Tanımı": "DİR SMD 0402 33R %1",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "4398"
-  },
-  {
     "Stok Kodu": "H010102002385",
     "Stok Tanımı": "DİR SMD 0402 51R %0,5",
     "Depo": "MERKEZ DEPO",
@@ -8433,7 +8391,7 @@
     "Stok Kodu": "H010102002387",
     "Stok Tanımı": "DİR SMD 0402 1,5K %5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7460"
+    "Toplam": "10"
   },
   {
     "Stok Kodu": "H010102002388",
@@ -8514,12 +8472,6 @@
     "Toplam": "371"
   },
   {
-    "Stok Kodu": "H010102002409",
-    "Stok Tanımı": "DİR SMD 0805 1,5R %5",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "80"
-  },
-  {
     "Stok Kodu": "H010102002410",
     "Stok Tanımı": "DİR SMD 0603 90,9K %1",
     "Depo": "MERKEZ DEPO",
@@ -8559,7 +8511,7 @@
     "Stok Kodu": "H010102002416",
     "Stok Tanımı": "DİR SMD 0603 63,4K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5643"
+    "Toplam": "643"
   },
   {
     "Stok Kodu": "H010102002417",
@@ -8607,7 +8559,7 @@
     "Stok Kodu": "H010102002430",
     "Stok Tanımı": "DİR SMD 0603 2,2k %0,5",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "17658"
+    "Toplam": "17386"
   },
   {
     "Stok Kodu": "H010102002431",
@@ -8649,7 +8601,7 @@
     "Stok Kodu": "H010102002437",
     "Stok Tanımı": "DİR SMD 0603 75K %1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5769"
+    "Toplam": "769"
   },
   {
     "Stok Kodu": "H010102002438",
@@ -8668,6 +8620,12 @@
     "Stok Tanımı": "DİR SMD 0603 47K %10",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3456"
+  },
+  {
+    "Stok Kodu": "H010102002441",
+    "Stok Tanımı": "DİR SMD 0603 82,5K %1",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "2540"
   },
   {
     "Stok Kodu": "H010102002442",
@@ -8724,12 +8682,6 @@
     "Toplam": "480"
   },
   {
-    "Stok Kodu": "H010102002451",
-    "Stok Tanımı": "DİR SMD 0402 100R %5",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "9718"
-  },
-  {
     "Stok Kodu": "H010102002457",
     "Stok Tanımı": "DİR SMD 0603 11,5k %1 RC0603FR-0711K5L Yageo",
     "Depo": "MERKEZ DEPO",
@@ -8769,11 +8721,11 @@
     "Stok Kodu": "H010102002466",
     "Stok Tanımı": "DİR SMD 0603 33K %1 1/10W Panasonic Electronic Com",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "14284"
+    "Toplam": "10772"
   },
   {
     "Stok Kodu": "H010102002467",
-    "Stok Tanımı": "DİR SMD 0805 12K %1 1/8W Yageo  RC0805FR-0712KL",
+    "Stok Tanımı": "DİR SMD 0805 12K %1 1/8W Yageo RC0805FR-0712KL",
     "Depo": "MERKEZ DEPO",
     "Toplam": "13154"
   },
@@ -8799,7 +8751,7 @@
     "Stok Kodu": "H010102002473",
     "Stok Tanımı": "DİR SMD 0603 68K %1 Samsung",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2341"
+    "Toplam": "2609"
   },
   {
     "Stok Kodu": "H010102002474",
@@ -8817,7 +8769,7 @@
     "Stok Kodu": "H010102002476",
     "Stok Tanımı": "DİR SMD 0402 0R ERJ-2GE0R00X Panasonic Electron",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "191436"
+    "Toplam": "179889"
   },
   {
     "Stok Kodu": "H010102002477",
@@ -8841,13 +8793,13 @@
     "Stok Kodu": "H010102002481",
     "Stok Tanımı": "DİR SMD 0402 240R %1 1/16W Vishay Dale",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "13279"
+    "Toplam": "12990"
   },
   {
     "Stok Kodu": "H010102002482",
     "Stok Tanımı": "DİR SMD 1206 0,05R 1% 1/2W Stackpole Electronic",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6491"
+    "Toplam": "5000"
   },
   {
     "Stok Kodu": "H010102002483",
@@ -8904,12 +8856,6 @@
     "Toplam": "6910"
   },
   {
-    "Stok Kodu": "H010102002498",
-    "Stok Tanımı": "DİR SMD 0603 22K 1%",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "4536"
-  },
-  {
     "Stok Kodu": "H010102002500",
     "Stok Tanımı": "DİR SMD 0201 10R 1% 1/20W RC0201FR-071K5L Yageo",
     "Depo": "MERKEZ DEPO",
@@ -8923,7 +8869,7 @@
   },
   {
     "Stok Kodu": "H010102002502",
-    "Stok Tanımı": "DİR SMD 0201 160K 1%  RC0201FR-07160KL Yageo",
+    "Stok Tanımı": "DİR SMD 0201 160K 1% RC0201FR-07160KL Yageo",
     "Depo": "MERKEZ DEPO",
     "Toplam": "988"
   },
@@ -8995,13 +8941,13 @@
   },
   {
     "Stok Kodu": "H010102002523",
-    "Stok Tanımı": "DİR SMD 0603 2,2K %1  RC0603FR-072K2L Yageo",
+    "Stok Tanımı": "DİR SMD 0603 2,2K %1 RC0603FR-072K2L Yageo",
     "Depo": "MERKEZ DEPO",
     "Toplam": "9126"
   },
   {
     "Stok Kodu": "H010102002525",
-    "Stok Tanımı": "DİR SMD 0805 0,75R %1 RL0805FR-070R75L  Yageo",
+    "Stok Tanımı": "DİR SMD 0805 0,75R %1 RL0805FR-070R75L Yageo",
     "Depo": "MERKEZ DEPO",
     "Toplam": "5149"
   },
@@ -9027,7 +8973,13 @@
     "Stok Kodu": "H010102002529",
     "Stok Tanımı": "DİR SMD 0603 133K 1% RC0603FR-07133KL Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5"
+    "Toplam": "3470"
+  },
+  {
+    "Stok Kodu": "H010102002531",
+    "Stok Tanımı": "DİR SMD 0603 1,3K 1% RC0603FR-071K3L Yageo",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "2369"
   },
   {
     "Stok Kodu": "H010102002533",
@@ -9043,15 +8995,15 @@
   },
   {
     "Stok Kodu": "H010102002535",
-    "Stok Tanımı": "DİR SMD 0402 1M %1  RC0402FR-071ML Yageo",
+    "Stok Tanımı": "DİR SMD 0402 1M %1 RC0402FR-071ML Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "20036"
+    "Toplam": "10036"
   },
   {
     "Stok Kodu": "H010102002543",
     "Stok Tanımı": "DİR SMD 0402 2,2K %1 1/16W RC0402FR-072K2L Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10000"
+    "Toplam": "9846"
   },
   {
     "Stok Kodu": "H010102002544",
@@ -9087,19 +9039,19 @@
     "Stok Kodu": "H010102002563",
     "Stok Tanımı": "DİR SMD 0402 6,49K ±1% RC0402FR-076K49L Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10812"
+    "Toplam": "10012"
   },
   {
     "Stok Kodu": "H010102002566",
-    "Stok Tanımı": "DİR SMD 0402 2,2M ±5%  RC0402JR-072M2L Yageo",
+    "Stok Tanımı": "DİR SMD 0402 2,2M ±5% RC0402JR-072M2L Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10956"
+    "Toplam": "10000"
   },
   {
     "Stok Kodu": "H010102002567",
-    "Stok Tanımı": "DİR SMD 0402 499R ±1%  RC0402FR-07499RL Yageo",
+    "Stok Tanımı": "DİR SMD 0402 499R ±1% RC0402FR-07499RL Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "20820"
+    "Toplam": "20000"
   },
   {
     "Stok Kodu": "H010102002569",
@@ -9115,7 +9067,7 @@
   },
   {
     "Stok Kodu": "H010102002575",
-    "Stok Tanımı": "DİR SMD 0603 2,2R  ±5%  CRCW06032R20JNEA Vishay Da",
+    "Stok Tanımı": "DİR SMD 0603 2,2R ±5% CRCW06032R20JNEA Vishay Da",
     "Depo": "MERKEZ DEPO",
     "Toplam": "6356"
   },
@@ -9123,13 +9075,13 @@
     "Stok Kodu": "H010102002576",
     "Stok Tanımı": "DİR SMD 0603 47K %1 RC0603FR-0747KL Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4477"
+    "Toplam": "6024"
   },
   {
     "Stok Kodu": "H010102002577",
     "Stok Tanımı": "DİR SMD 0805 10R %1 RC0805FR-0710RL Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5000"
+    "Toplam": "4055"
   },
   {
     "Stok Kodu": "H010102002578",
@@ -9199,7 +9151,7 @@
   },
   {
     "Stok Kodu": "H010102002620",
-    "Stok Tanımı": "DİR SMD 0603 2,2R ±1%  RC0603FR-072R2L Yageo",
+    "Stok Tanımı": "DİR SMD 0603 2,2R ±1% RC0603FR-072R2L Yageo",
     "Depo": "MERKEZ DEPO",
     "Toplam": "17257"
   },
@@ -9228,12 +9180,6 @@
     "Toplam": "234"
   },
   {
-    "Stok Kodu": "H010102002732",
-    "Stok Tanımı": "DİR SMD 0805 1,1R %1 RC0805FR-071R1L Yageo",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "4599"
-  },
-  {
     "Stok Kodu": "H010102002733",
     "Stok Tanımı": "DİR SMD 0603 1,58R %1 RMCF0603FT1R58 Stackpole",
     "Depo": "MERKEZ DEPO",
@@ -9247,15 +9193,15 @@
   },
   {
     "Stok Kodu": "H010102002740",
-    "Stok Tanımı": "DİR SMD 0402 2,49K %1  RC0402FR-072K49L Yageo",
+    "Stok Tanımı": "DİR SMD 0402 2,49K %1 RC0402FR-072K49L Yageo",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4"
   },
   {
     "Stok Kodu": "H010102002741",
-    "Stok Tanımı": "DİR SMD 0402 82K %1  ERJ-2RKF8202X Panasonic",
+    "Stok Tanımı": "DİR SMD 0402 82K %1 ERJ-2RKF8202X Panasonic",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "10085"
+    "Toplam": "85"
   },
   {
     "Stok Kodu": "H010102002742",
@@ -9264,16 +9210,10 @@
     "Toplam": "1389"
   },
   {
-    "Stok Kodu": "H010102002743",
-    "Stok Tanımı": "DİR SMD 0603 51K %1  RC0603FR-0751KL Yageo",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "2"
-  },
-  {
     "Stok Kodu": "H010102002744",
     "Stok Tanımı": "DİR SMD 0603 57,6K %1 ERJ-3EKF5762V Panasonic",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "854"
+    "Toplam": "1503"
   },
   {
     "Stok Kodu": "H010102002751",
@@ -9309,7 +9249,7 @@
     "Stok Kodu": "H010102002769",
     "Stok Tanımı": "DİR SMD 0603 1M %1 RMCF0603FG1M00 Stackpole",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "21715"
+    "Toplam": "20569"
   },
   {
     "Stok Kodu": "H010102002770",
@@ -9363,7 +9303,7 @@
     "Stok Kodu": "H010102002786",
     "Stok Tanımı": "DİR SMD 0603 270K %0,05 RG1608N-274-W-T1 Susumu",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2156"
+    "Toplam": "2151"
   },
   {
     "Stok Kodu": "H010102002787",
@@ -9387,13 +9327,7 @@
     "Stok Kodu": "H010102002793",
     "Stok Tanımı": "DİR SMD 0603 180K %1 RC0603FR-07180KL Yageo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4998"
-  },
-  {
-    "Stok Kodu": "H010102002794",
-    "Stok Tanımı": "DİR SMD 0603 54,9K %1 RC0603FR-0754K9L Yageo",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "3158"
+    "Toplam": "3"
   },
   {
     "Stok Kodu": "H010102002797",
@@ -9430,12 +9364,6 @@
     "Stok Tanımı": "DİR SMD 2512 15K %1 CRCW251215K0FKEG Vishay",
     "Depo": "MERKEZ DEPO",
     "Toplam": "67"
-  },
-  {
-    "Stok Kodu": "H010102002844",
-    "Stok Tanımı": "DİR SMD 0402 33K %1 RMCF0402FT33K0 Stackpole Elec",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "10000"
   },
   {
     "Stok Kodu": "H010102002845",
@@ -9531,7 +9459,7 @@
     "Stok Kodu": "H010102003015",
     "Stok Tanımı": "BOBİN SMD H1102NLT 10/100 BASE-T TEK PORT ETHERNET",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5211"
+    "Toplam": "5195"
   },
   {
     "Stok Kodu": "H010102003017",
@@ -9711,13 +9639,13 @@
     "Stok Kodu": "H010102003055",
     "Stok Tanımı": "BOBİN SMD ACM9070-701-2PL-TL 700 OHM 5A TDK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "426"
+    "Toplam": "406"
   },
   {
     "Stok Kodu": "H010102003056",
     "Stok Tanımı": "BOBİN SMD ELK-EA103FA 4 MHZ -1000 MHZ Panasonic -",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "927"
+    "Toplam": "877"
   },
   {
     "Stok Kodu": "H010102003065",
@@ -9841,7 +9769,7 @@
   },
   {
     "Stok Kodu": "H010102003126",
-    "Stok Tanımı": "BOBİN SMD IHLP2525CZER4R7M01 4,7UH 5,5A  Vishay Da",
+    "Stok Tanımı": "BOBİN SMD IHLP2525CZER4R7M01 4,7UH 5,5A Vishay Da",
     "Depo": "MERKEZ DEPO",
     "Toplam": "36"
   },
@@ -9879,7 +9807,7 @@
     "Stok Kodu": "H010102003134",
     "Stok Tanımı": "BOBİN SMD NLV25T-R47J-PF 470NH 350mA TDK Corporati",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1369"
+    "Toplam": "9301"
   },
   {
     "Stok Kodu": "H010102003135",
@@ -9975,7 +9903,7 @@
     "Stok Kodu": "H010102003189",
     "Stok Tanımı": "BOBİN SMD BRC2518T220K 22UH 490MA 560 MOHM Taiyo Y",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8510"
+    "Toplam": "8340"
   },
   {
     "Stok Kodu": "H010102003190",
@@ -9991,13 +9919,13 @@
   },
   {
     "Stok Kodu": "H010102003198",
-    "Stok Tanımı": "BOBİN SMD IFSC1515AHER2R2M01 2,2UH  3A 45mOhm Vish",
+    "Stok Tanımı": "BOBİN SMD IFSC1515AHER2R2M01 2,2UH 3A 45mOhm Vish",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "11700"
+    "Toplam": "9700"
   },
   {
     "Stok Kodu": "H010102003200",
-    "Stok Tanımı": "BOBİN SMD XAL7070-472MEC 4,7uH  13,6A Coilcraft",
+    "Stok Tanımı": "BOBİN SMD XAL7070-472MEC 4,7uH 13,6A Coilcraft",
     "Depo": "MERKEZ DEPO",
     "Toplam": "13"
   },
@@ -10017,13 +9945,13 @@
     "Stok Kodu": "H010102003212",
     "Stok Tanımı": "BOBİN SMD DR127-4R7-R 4,7UH 8,25A 9,17MOHM Eaton",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "49"
+    "Toplam": "97"
   },
   {
     "Stok Kodu": "H010102003213",
     "Stok Tanımı": "BOBİN SMD LQH32CN2R2M33L 2,2uH 790MA 97MOHM Murata",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "283"
+    "Toplam": "183"
   },
   {
     "Stok Kodu": "H010102003215",
@@ -10035,7 +9963,7 @@
     "Stok Kodu": "H010102003220",
     "Stok Tanımı": "BOBİN SMD 1008 MAKK2520H1R5M 1,5UH 2,4A 78MOHM Mur",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3022"
+    "Toplam": "22"
   },
   {
     "Stok Kodu": "H010102003221",
@@ -10047,13 +9975,13 @@
     "Stok Kodu": "H010102003237",
     "Stok Tanımı": "BOBİN SMD CW201212-22NJ 22NH 600MA Bourns Inc.",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4198"
+    "Toplam": "4000"
   },
   {
     "Stok Kodu": "H010102003239",
     "Stok Tanımı": "BOBİN SMD NRS4018T100MDGJ 10UH 1.2A 180 MOHM Taiyo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2317"
+    "Toplam": "2601"
   },
   {
     "Stok Kodu": "H010102003245",
@@ -10065,7 +9993,7 @@
     "Stok Kodu": "H010102003246",
     "Stok Tanımı": "BOBİN SMD IFSC1515AHER220M01 22uH 1,2A 315 MOHM Vi",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2129"
+    "Toplam": "1435"
   },
   {
     "Stok Kodu": "H010102003250",
@@ -10083,7 +10011,7 @@
     "Stok Kodu": "H010102003253",
     "Stok Tanımı": "BOBİN SMD NRS5040T4R7NMGKV 4,7UH 3,1A Taiyo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1646"
+    "Toplam": "126"
   },
   {
     "Stok Kodu": "H010102003255",
@@ -10119,7 +10047,7 @@
     "Stok Kodu": "H010102003265",
     "Stok Tanımı": "BOBİN SMD CIG22L4R7MNE 4,7UH 1,1A 110MOHM Samsung",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "27"
+    "Toplam": "3010"
   },
   {
     "Stok Kodu": "H010102003268",
@@ -10137,7 +10065,7 @@
     "Stok Kodu": "H010102003274",
     "Stok Tanımı": "BOBİN SMD VLS5045EX-2R2N 2,2UH 4,7A 28,6 MOHM TDK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2018"
+    "Toplam": "1500"
   },
   {
     "Stok Kodu": "H010102003276",
@@ -10179,7 +10107,7 @@
     "Stok Kodu": "H010102003298",
     "Stok Tanımı": "BOBİN SMD ASPI-0630LR-3R3M-T15 3,3UH 6,5A Abracon",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2088"
+    "Toplam": "588"
   },
   {
     "Stok Kodu": "H010102003299",
@@ -10233,7 +10161,7 @@
     "Stok Kodu": "H010102003309",
     "Stok Tanımı": "BOBİN SMD VLS6045EX-100M 10UH 3,4A 61 MOHM TDK Cor",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4362"
+    "Toplam": "2927"
   },
   {
     "Stok Kodu": "H010102003310",
@@ -10269,7 +10197,13 @@
     "Stok Kodu": "H010102003332",
     "Stok Tanımı": "BOBİN SMD NR8040T150M 15UH 2.4A 65 MOHM Taiyo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4076"
+    "Toplam": "2076"
+  },
+  {
+    "Stok Kodu": "H010102003336",
+    "Stok Tanımı": "BOBİN SMD 7447860147 47NH 300MA Wurth",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "4000"
   },
   {
     "Stok Kodu": "H010102004001",
@@ -10293,7 +10227,7 @@
     "Stok Kodu": "H010102004175",
     "Stok Tanımı": "KONN SMD 67600-8002 SD CARD PUSH-PUSH Molex Connec",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "265"
+    "Toplam": "245"
   },
   {
     "Stok Kodu": "H010102004176",
@@ -10335,7 +10269,7 @@
     "Stok Kodu": "H010102008002",
     "Stok Tanımı": "PİL CR1220",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2559"
+    "Toplam": "2549"
   },
   {
     "Stok Kodu": "H010102008003",
@@ -10354,6 +10288,12 @@
     "Stok Tanımı": "PİL 4,8V ŞARJLI ÇİKLET",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4"
+  },
+  {
+    "Stok Kodu": "H010102008012",
+    "Stok Tanımı": "PİL LR44 1,5V KUMPAS PİLİ",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "50"
   },
   {
     "Stok Kodu": "H010102008015",
@@ -10381,7 +10321,7 @@
   },
   {
     "Stok Kodu": "H010102008026",
-    "Stok Tanımı": "PİL AA 1/2  LITHIUM",
+    "Stok Tanımı": "PİL AA 1/2 LITHIUM",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3"
   },
@@ -10431,25 +10371,25 @@
     "Stok Kodu": "H010102008060",
     "Stok Tanımı": "PİL CR2032 BACAKSIZ POWEREXTRA",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3345"
+    "Toplam": "3285"
   },
   {
     "Stok Kodu": "H010102008067",
     "Stok Tanımı": "PİL US18650VTC4 2100 mAH SONY BOSCH BIZBIZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3"
+    "Toplam": "2"
   },
   {
     "Stok Kodu": "H010102008069",
     "Stok Tanımı": "PİL YUVASI SMD BK-916-TR CR1220 MPD (Memory Protec",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4295"
+    "Toplam": "4262"
   },
   {
     "Stok Kodu": "H010102008074",
     "Stok Tanımı": "PİL YUVASI SMD BC501SM 12MM MPD (Memory Protection",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2169"
+    "Toplam": "1189"
   },
   {
     "Stok Kodu": "H010102008077",
@@ -10471,7 +10411,7 @@
   },
   {
     "Stok Kodu": "H010102009003",
-    "Stok Tanımı": "SİGORTA  250V 100 mA",
+    "Stok Tanımı": "SİGORTA 250V 100 mA",
     "Depo": "MERKEZ DEPO",
     "Toplam": "700"
   },
@@ -10525,7 +10465,7 @@
   },
   {
     "Stok Kodu": "H01010201008",
-    "Stok Tanımı": "LED SMD 0805  SARI",
+    "Stok Tanımı": "LED SMD 0805 SARI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "2111"
   },
@@ -10545,7 +10485,7 @@
     "Stok Kodu": "H01010201015",
     "Stok Tanımı": "LED SMD 0603 KIRMIZI LTST-C190KRKT SUPER RED Lite-",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2949"
+    "Toplam": "1186"
   },
   {
     "Stok Kodu": "H01010201016",
@@ -10557,19 +10497,19 @@
     "Stok Kodu": "H01010201017",
     "Stok Tanımı": "LED SMD 0603 YEŞİL",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "16045"
+    "Toplam": "15004"
   },
   {
     "Stok Kodu": "H01010201018",
     "Stok Tanımı": "LED SMD 0603 KIRMIZI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "45688"
+    "Toplam": "44688"
   },
   {
     "Stok Kodu": "H01010201019",
     "Stok Tanımı": "LED SMD 0603 SARI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6046"
+    "Toplam": "4402"
   },
   {
     "Stok Kodu": "H01010201020",
@@ -10579,7 +10519,7 @@
   },
   {
     "Stok Kodu": "H01010201021",
-    "Stok Tanımı": "LED SMD 0805  MAVİ",
+    "Stok Tanımı": "LED SMD 0805 MAVİ",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1798"
   },
@@ -10587,7 +10527,7 @@
     "Stok Kodu": "H01010201022",
     "Stok Tanımı": "LED SMD RGB ASMT-YTB7-0AA02 6SMD Avago Technologie",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "17952"
+    "Toplam": "17826"
   },
   {
     "Stok Kodu": "H010102011001",
@@ -10663,7 +10603,7 @@
   },
   {
     "Stok Kodu": "H010102012009",
-    "Stok Tanımı": "KRİSTAL TH 27MHz  HC49/S",
+    "Stok Tanımı": "KRİSTAL TH 27MHz HC49/S",
     "Depo": "MERKEZ DEPO",
     "Toplam": "490"
   },
@@ -10693,7 +10633,7 @@
   },
   {
     "Stok Kodu": "H010102012024",
-    "Stok Tanımı": "OSİLATÖR SMD UJWIFI026 26MHZ 1.8V  WIFI/BT Pericom",
+    "Stok Tanımı": "OSİLATÖR SMD UJWIFI026 26MHZ 1.8V WIFI/BT Pericom",
     "Depo": "MERKEZ DEPO",
     "Toplam": "110"
   },
@@ -10746,12 +10686,6 @@
     "Toplam": "1"
   },
   {
-    "Stok Kodu": "H010102012042",
-    "Stok Tanımı": "KRİSTAL SMD 27,1200MHZ 18PF 7M-27.120MAAJ-T TXC",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "88"
-  },
-  {
     "Stok Kodu": "H010102012043",
     "Stok Tanımı": "OSİLATÖR SMD ASDMB-24.000MHZ-LC-T 24MHZ Abracon Co",
     "Depo": "MERKEZ DEPO",
@@ -10785,7 +10719,7 @@
     "Stok Kodu": "H010102012054",
     "Stok Tanımı": "KRİSTAL SMD 32,768KHZ 12,5PF CM315D32768DZFT Citiz",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7751"
+    "Toplam": "6000"
   },
   {
     "Stok Kodu": "H010102012056",
@@ -10801,7 +10735,7 @@
   },
   {
     "Stok Kodu": "H010102012063",
-    "Stok Tanımı": "KRİSTAL SMD NX3225SA-12.000MHZ-STD-CSR-1  NDK",
+    "Stok Tanımı": "KRİSTAL SMD NX3225SA-12.000MHZ-STD-CSR-1 NDK",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4645"
   },
@@ -10893,7 +10827,7 @@
     "Stok Kodu": "H0101123-1",
     "Stok Tanımı": "DTSİS L86 GPS MOUSE V1 (232) SMD+DİP DİZİLMİŞ",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
-    "Toplam": "1157"
+    "Toplam": "997"
   },
   {
     "Stok Kodu": "H010201002003",
@@ -10939,7 +10873,7 @@
   },
   {
     "Stok Kodu": "H010201005009",
-    "Stok Tanımı": "DİYOT TH BZW 6.4A  DİP",
+    "Stok Tanımı": "DİYOT TH BZW 6.4A DİP",
     "Depo": "MERKEZ DEPO",
     "Toplam": "85"
   },
@@ -11173,13 +11107,13 @@
   },
   {
     "Stok Kodu": "H010201009017",
-    "Stok Tanımı": "TRANS TH IXTQ182N055T 182A 55V  N-CH  TO-220 IXYS",
+    "Stok Tanımı": "TRANS TH IXTQ182N055T 182A 55V N-CH TO-220 IXYS",
     "Depo": "MERKEZ DEPO",
     "Toplam": "9"
   },
   {
     "Stok Kodu": "H010201009018",
-    "Stok Tanımı": "TRANS TH IRF4905 74A 55V  P-CH  TO-220 Internation",
+    "Stok Tanımı": "TRANS TH IRF4905 74A 55V P-CH TO-220 Internation",
     "Depo": "MERKEZ DEPO",
     "Toplam": "14"
   },
@@ -11275,13 +11209,13 @@
   },
   {
     "Stok Kodu": "H010201010030",
-    "Stok Tanımı": "ENT TH AT24C256-10PU-1.8  8DIP NXP",
+    "Stok Tanımı": "ENT TH AT24C256-10PU-1.8 8DIP NXP",
     "Depo": "MERKEZ DEPO",
     "Toplam": "94"
   },
   {
     "Stok Kodu": "H010201010031",
-    "Stok Tanımı": "ENT SMD LP2951CMM-3.3  8-MSOP National Semiconduct",
+    "Stok Tanımı": "ENT SMD LP2951CMM-3.3 8-MSOP National Semiconduct",
     "Depo": "MERKEZ DEPO",
     "Toplam": "378"
   },
@@ -11329,7 +11263,7 @@
   },
   {
     "Stok Kodu": "H010201010042",
-    "Stok Tanımı": "ENT TH LM2577ADJ  TO-220-5 National Semiconductor",
+    "Stok Tanımı": "ENT TH LM2577ADJ TO-220-5 National Semiconductor",
     "Depo": "MERKEZ DEPO",
     "Toplam": "6"
   },
@@ -11403,7 +11337,7 @@
     "Stok Kodu": "H010201010170",
     "Stok Tanımı": "ENT TH DS24B33+ 4K 1WIRE TO92-3 Maxim Integrated",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "515"
+    "Toplam": "2365"
   },
   {
     "Stok Kodu": "H010201011001",
@@ -11587,7 +11521,7 @@
   },
   {
     "Stok Kodu": "H010201012003",
-    "Stok Tanımı": "LCD DİSPLAY PC2001LRS-LEA-B  2X20 POWERTİP",
+    "Stok Tanımı": "LCD DİSPLAY PC2001LRS-LEA-B 2X20 POWERTİP",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4"
   },
@@ -11637,7 +11571,7 @@
     "Stok Kodu": "H010201012018",
     "Stok Tanımı": "LCD DİSPLAY 16X2 YEŞİL WH1602B-YYH-ETK# WİNSTAR",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "177"
+    "Toplam": "176"
   },
   {
     "Stok Kodu": "H010201012019",
@@ -11781,13 +11715,13 @@
     "Stok Kodu": "H010201012079",
     "Stok Tanımı": "SENSÖR SMD LTR-303ALS-01 AMBIENT LIGHT PHOTO Lite-",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4980"
+    "Toplam": "2486"
   },
   {
     "Stok Kodu": "H010201012082",
     "Stok Tanımı": "SENSÖR SMD LM75BTP,147 I2C 8HWSON NXP Semiconducto",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1781"
+    "Toplam": "1"
   },
   {
     "Stok Kodu": "H010201012090",
@@ -11797,7 +11731,7 @@
   },
   {
     "Stok Kodu": "H010201012091",
-    "Stok Tanımı": "LED TH 3MM YEŞİL KIRMIZI WP934MD/LILGD  Kingbright",
+    "Stok Tanımı": "LED TH 3MM YEŞİL KIRMIZI WP934MD/LILGD Kingbright",
     "Depo": "MERKEZ DEPO",
     "Toplam": "15"
   },
@@ -11922,12 +11856,6 @@
     "Toplam": "3"
   },
   {
-    "Stok Kodu": "H010201012178",
-    "Stok Tanımı": "LED SMD 1414 BWIR-35C2O48 IR 850NM 1A American Bri",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "30"
-  },
-  {
     "Stok Kodu": "H010201013048",
     "Stok Tanımı": "GPS RADIONOVA MODULE M10214-A1-V3-B",
     "Depo": "MERKEZ DEPO",
@@ -11971,15 +11899,15 @@
   },
   {
     "Stok Kodu": "H010201013083",
-    "Stok Tanımı": "LCD CAP. TOUCH SCREEN  7' K8GT 29PIN 163x102mm",
+    "Stok Tanımı": "LCD CAP. TOUCH SCREEN 7' K8GT 29PIN 163x102mm",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4851"
   },
   {
     "Stok Kodu": "H010201013085",
-    "Stok Tanımı": "LCD CAP. TOUCH SCREEN  4,3' C065105A1-PG HOTATOUCH",
+    "Stok Tanımı": "LCD CAP. TOUCH SCREEN 4,3' C065105A1-PG HOTATOUCH",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4241"
+    "Toplam": "4141"
   },
   {
     "Stok Kodu": "H010201013087",
@@ -12013,7 +11941,7 @@
   },
   {
     "Stok Kodu": "H010201013132",
-    "Stok Tanımı": "LCD CAP. TOUCH SCREEN  7' FİLM 163x102mm",
+    "Stok Tanımı": "LCD CAP. TOUCH SCREEN 7' FİLM 163x102mm",
     "Depo": "MERKEZ DEPO",
     "Toplam": "420"
   },
@@ -12069,17 +11997,17 @@
     "Stok Kodu": "H010201013154",
     "Stok Tanımı": "LCD TFT 4,3' TM043NDH02-40 TIANMA",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "227"
+    "Toplam": "150"
   },
   {
     "Stok Kodu": "H010201013158",
-    "Stok Tanımı": "LCD CAP. TOUCH SCREEN  MTP-PG03501-01  Microtech",
+    "Stok Tanımı": "LCD CAP. TOUCH SCREEN MTP-PG03501-01 Microtech",
     "Depo": "MERKEZ DEPO",
     "Toplam": "4"
   },
   {
     "Stok Kodu": "H010201013160",
-    "Stok Tanımı": "LCD CAP. TOUCH SCREEN  MTP-PG04302-02 Microtech",
+    "Stok Tanımı": "LCD CAP. TOUCH SCREEN MTP-PG04302-02 Microtech",
     "Depo": "MERKEZ DEPO",
     "Toplam": "5"
   },
@@ -12151,27 +12079,15 @@
   },
   {
     "Stok Kodu": "H010201013251",
-    "Stok Tanımı": "LCD TFT 7' RB070L40N23A RONBO",
+    "Stok Tanımı": "LCD TFT 7' RB070H40N23A RONBO",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "49"
+    "Toplam": "44"
   },
   {
     "Stok Kodu": "H010201013265",
     "Stok Tanımı": "KAMERA 2MP JSD3420-A4 850nm IRPASS FILTER JSD OPTI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "90"
-  },
-  {
-    "Stok Kodu": "H010201013272",
-    "Stok Tanımı": "KAMERA 5MP JSD3429-A1 650nm+ HY-5042 HOLDER JSD O",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "25"
-  },
-  {
-    "Stok Kodu": "H010201013273",
-    "Stok Tanımı": "KAMERA 5MP JSD3429-A4 850nm+ HY-5042 HOLDER JSD O",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "25"
   },
   {
     "Stok Kodu": "H010201013279",
@@ -12559,7 +12475,7 @@
   },
   {
     "Stok Kodu": "H010202001090",
-    "Stok Tanımı": "KON TH POL 47UF/35V 6x8mm  85*",
+    "Stok Tanımı": "KON TH POL 47UF/35V 6x8mm 85*",
     "Depo": "MERKEZ DEPO",
     "Toplam": "120"
   },
@@ -13227,7 +13143,7 @@
     "Stok Kodu": "H010202003014",
     "Stok Tanımı": "BOBİN ANTEN TELİ 85X105mm VAL5M2",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "143"
+    "Toplam": "141"
   },
   {
     "Stok Kodu": "H010202003015",
@@ -13344,6 +13260,12 @@
     "Toplam": "6225"
   },
   {
+    "Stok Kodu": "H010202004034",
+    "Stok Tanımı": "KONN TH 87520-0010BLF USB TYPE A R/A FCI",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1516"
+  },
+  {
     "Stok Kodu": "H010202004039",
     "Stok Tanımı": "KONN TH ÇAKMAKLIK PROBU ERKEK",
     "Depo": "MERKEZ DEPO",
@@ -13383,13 +13305,13 @@
     "Stok Kodu": "H010202004052",
     "Stok Tanımı": "KONN USB 5787745-2 4OVER4POS AU Tyco",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "968"
+    "Toplam": "1556"
   },
   {
     "Stok Kodu": "H010202004053",
-    "Stok Tanımı": "KONN SMD DM3AT-SF-PEJM5 MICRO SD  PUSH-PUSH Hirose",
+    "Stok Tanımı": "KONN SMD DM3AT-SF-PEJM5 MICRO SD PUSH-PUSH Hirose",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "9460"
+    "Toplam": "9372"
   },
   {
     "Stok Kodu": "H010202004054",
@@ -13488,6 +13410,12 @@
     "Toplam": "77"
   },
   {
+    "Stok Kodu": "H010202004074",
+    "Stok Tanımı": "KONN DB9 DİŞİ LEHİM TİPİ",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "100"
+  },
+  {
     "Stok Kodu": "H010202004076",
     "Stok Tanımı": "KONN DB15 ERKEK 90* PCB TİPİ 3 SIRA",
     "Depo": "MERKEZ DEPO",
@@ -13501,7 +13429,7 @@
   },
   {
     "Stok Kodu": "H010202004083",
-    "Stok Tanımı": "KONN 2,50MM 5Lİ  ERKEK 90*",
+    "Stok Tanımı": "KONN 2,50MM 5Lİ ERKEK 90*",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1454"
   },
@@ -13617,7 +13545,7 @@
     "Stok Kodu": "H010202004108",
     "Stok Tanımı": "KONN DB9 KAPAK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "96"
+    "Toplam": "396"
   },
   {
     "Stok Kodu": "H010202004109",
@@ -13711,7 +13639,7 @@
   },
   {
     "Stok Kodu": "H010202004130",
-    "Stok Tanımı": "KONN TERMİNAL 2,54MM 1X40  ERKEK 180* 19MM",
+    "Stok Tanımı": "KONN TERMİNAL 2,54MM 1X40 ERKEK 180* 19MM",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1047.8"
   },
@@ -13759,7 +13687,7 @@
   },
   {
     "Stok Kodu": "H010202004176",
-    "Stok Tanımı": "KONN 2,50MM 8Lİ  ERKEK 180*",
+    "Stok Tanımı": "KONN 2,50MM 8Lİ ERKEK 180*",
     "Depo": "MERKEZ DEPO",
     "Toplam": "729"
   },
@@ -13803,7 +13731,7 @@
     "Stok Kodu": "H010202004186",
     "Stok Tanımı": "KONN RJ45 8Lİ DİŞİ 90* 15x17,9x11,6",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "687"
+    "Toplam": "677"
   },
   {
     "Stok Kodu": "H010202004187",
@@ -13981,7 +13909,7 @@
   },
   {
     "Stok Kodu": "H010202004227",
-    "Stok Tanımı": "KONN SMD DF12D(4.0)-50DP-0.5V(81)  50POS 4MM 0.5M",
+    "Stok Tanımı": "KONN SMD DF12D(4.0)-50DP-0.5V(81) 50POS 4MM 0.5M",
     "Depo": "MERKEZ DEPO",
     "Toplam": "50"
   },
@@ -14199,13 +14127,13 @@
     "Stok Kodu": "H010202004278",
     "Stok Tanımı": "KONN M&L 4,2MM 4973-04FHLF 2X2 DİŞİ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "359"
+    "Toplam": "349"
   },
   {
     "Stok Kodu": "H010202004279",
     "Stok Tanımı": "KONN POWER JAK GİRİŞİ ERKEK 90*",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "399"
+    "Toplam": "349"
   },
   {
     "Stok Kodu": "H010202004280",
@@ -14269,7 +14197,7 @@
   },
   {
     "Stok Kodu": "H010202004292",
-    "Stok Tanımı": "KONN M&L 1X3 DİŞİ  YANDAN KULAKLI",
+    "Stok Tanımı": "KONN M&L 1X3 DİŞİ YANDAN KULAKLI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "184"
   },
@@ -14289,7 +14217,7 @@
     "Stok Kodu": "H010202004299",
     "Stok Tanımı": "KONN 2,50MM 8Lİ ERKEK 90*",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "451"
+    "Toplam": "431"
   },
   {
     "Stok Kodu": "H010202004300",
@@ -14301,7 +14229,7 @@
     "Stok Kodu": "H010202004302",
     "Stok Tanımı": "KONN SMD 62684-402100ALF 40POS .5MM FCI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "174"
+    "Toplam": "2174"
   },
   {
     "Stok Kodu": "H010202004303",
@@ -14466,12 +14394,6 @@
     "Toplam": "1487"
   },
   {
-    "Stok Kodu": "H010202004348",
-    "Stok Tanımı": "KONN SMD 73412-0110  RF MICROCOAXIAL MOLEX U.FL",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "35"
-  },
-  {
     "Stok Kodu": "H010202004352",
     "Stok Tanımı": "KONN TH 2MM 26LI ERK 180* B26B-PUDSS-1(LF)(SN",
     "Depo": "MERKEZ DEPO",
@@ -14583,7 +14505,7 @@
     "Stok Kodu": "H010202004420",
     "Stok Tanımı": "KONN SMD 115A-BDA0-R01 Push In, Push Out ATTEND",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "903"
+    "Toplam": "853"
   },
   {
     "Stok Kodu": "H010202004424",
@@ -14937,7 +14859,7 @@
     "Stok Kodu": "H010202004581",
     "Stok Tanımı": "KONN MİKE 4LÜ DİŞİ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "462"
+    "Toplam": "452"
   },
   {
     "Stok Kodu": "H010202004582",
@@ -14985,7 +14907,7 @@
     "Stok Kodu": "H010202004601",
     "Stok Tanımı": "KONN 1,25MM SM03B-GHS-TB(LF)(SN) 3POS ERK 90* JST",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2524"
+    "Toplam": "1524"
   },
   {
     "Stok Kodu": "H010202004611",
@@ -14997,7 +14919,7 @@
     "Stok Kodu": "H010202004612",
     "Stok Tanımı": "KONN SMD 0473883001 SIM CARD Molex, LLC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "14977"
+    "Toplam": "14922"
   },
   {
     "Stok Kodu": "H010202004616",
@@ -15030,12 +14952,6 @@
     "Toplam": "226"
   },
   {
-    "Stok Kodu": "H010202004624",
-    "Stok Tanımı": "KONN 2MM PAP-02V-S 2POS WHITE JST Sales America In",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "422"
-  },
-  {
     "Stok Kodu": "H010202004626",
     "Stok Tanımı": "KONN SMD SFV24R-2STE1HLF 24POS 0.50MM R/A FCI",
     "Depo": "MERKEZ DEPO",
@@ -15051,7 +14967,7 @@
     "Stok Kodu": "H010202004628",
     "Stok Tanımı": "KONN 2MM SM02B-PASS-TBT(LF)(SN) 2POS JST Sales Ame",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1449"
+    "Toplam": "1749"
   },
   {
     "Stok Kodu": "H010202004629",
@@ -15129,7 +15045,7 @@
     "Stok Kodu": "H010202004681",
     "Stok Tanımı": "KONN SMD 1,25MM 9821WVS-08-9TSN 8POS ERK 180* SWB",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4953"
+    "Toplam": "4347"
   },
   {
     "Stok Kodu": "H010202004682",
@@ -15141,7 +15057,7 @@
     "Stok Kodu": "H010202004683",
     "Stok Tanımı": "KONN 1,25MM 9821H-04 4POS DİŞİ SWB",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1770"
+    "Toplam": "2270"
   },
   {
     "Stok Kodu": "H010202004684",
@@ -15153,13 +15069,13 @@
     "Stok Kodu": "H010202004685",
     "Stok Tanımı": "KONN 1,25MM 9821H-08 8POS DİŞİ SWB",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1615"
+    "Toplam": "1515"
   },
   {
     "Stok Kodu": "H010202004686",
     "Stok Tanımı": "KONN 1,25MM 9821H-10 10POS DİŞİ SWB",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "558"
+    "Toplam": "458"
   },
   {
     "Stok Kodu": "H010202004689",
@@ -15189,7 +15105,7 @@
     "Stok Kodu": "H010202004695",
     "Stok Tanımı": "KONN SMD 62684-502100ALF 50POS .5MM FCI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "877"
+    "Toplam": "1299"
   },
   {
     "Stok Kodu": "H010202004697",
@@ -15267,7 +15183,7 @@
     "Stok Kodu": "H010202004719",
     "Stok Tanımı": "KONN 1,25MM 5023800800 8POS Molex, LLC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1357"
+    "Toplam": "357"
   },
   {
     "Stok Kodu": "H010202004720",
@@ -15345,7 +15261,7 @@
     "Stok Kodu": "H010202004765",
     "Stok Tanımı": "KONN SMD DF17(4.0)-20DS-0.5V(57) 20POS 0,5MM Hiros",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "291"
+    "Toplam": "150"
   },
   {
     "Stok Kodu": "H010202004766",
@@ -15375,7 +15291,7 @@
     "Stok Kodu": "H010202004771",
     "Stok Tanımı": "KONN SMD SFV6R-2STE1HLF 6POS 0.50MM Amphenol FCI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "186"
+    "Toplam": "1589"
   },
   {
     "Stok Kodu": "H010202004772",
@@ -15411,13 +15327,13 @@
     "Stok Kodu": "H010202004801",
     "Stok Tanımı": "KONN 2,2MM MX34012SF1 12POS HOUSING DİŞİ JAE ELECT",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3660"
+    "Toplam": "3591"
   },
   {
     "Stok Kodu": "H010202004803",
     "Stok Tanımı": "KONN 2,2MM MX34016SF1 16POS HOUSING DİŞİ JAE ELECT",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1281"
+    "Toplam": "1280"
   },
   {
     "Stok Kodu": "H010202004819",
@@ -15493,7 +15409,7 @@
   },
   {
     "Stok Kodu": "H010202004844",
-    "Stok Tanımı": "KONN RJ45 LLT-M16-RJ4501 FEMALE TO  FEMALE IP67 Li",
+    "Stok Tanımı": "KONN RJ45 LLT-M16-RJ4501 FEMALE TO FEMALE IP67 Li",
     "Depo": "MERKEZ DEPO",
     "Toplam": "34"
   },
@@ -15555,7 +15471,7 @@
     "Stok Kodu": "H010202004882",
     "Stok Tanımı": "KONN TH 2MM 5016451020 10POS MALE Molex, LLC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "48"
+    "Toplam": "38"
   },
   {
     "Stok Kodu": "H010202004883",
@@ -15567,7 +15483,7 @@
     "Stok Kodu": "H010202004884",
     "Stok Tanımı": "KONN 2,20MM 1318774-1 12POS TE Connectivity",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "60"
+    "Toplam": "3260"
   },
   {
     "Stok Kodu": "H010202004885",
@@ -15579,7 +15495,7 @@
     "Stok Kodu": "H010202004886",
     "Stok Tanımı": "KONN TH 2,20MM 1-1473898-1 12POS TE Connectivity",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1959"
+    "Toplam": "5415"
   },
   {
     "Stok Kodu": "H010202004887",
@@ -15639,7 +15555,7 @@
     "Stok Kodu": "H010202004915",
     "Stok Tanımı": "KONN SMD 1,25MM 5023860870 8POS R/A Molex, LLC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1275"
+    "Toplam": "75"
   },
   {
     "Stok Kodu": "H010202004920",
@@ -15675,7 +15591,7 @@
     "Stok Kodu": "H010202004931",
     "Stok Tanımı": "KONN TH 6POS 3MM 5558-06R R/A ERKEK TTAF",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "460"
+    "Toplam": "455"
   },
   {
     "Stok Kodu": "H010202004932",
@@ -15687,11 +15603,11 @@
     "Stok Kodu": "H010202004934",
     "Stok Tanımı": "KONN 4POS 3MM 5558-04H DİŞİ TTAF",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1819"
+    "Toplam": "1769"
   },
   {
     "Stok Kodu": "H010202004935",
-    "Stok Tanımı": "KONN  6POS 3MM 5558-06H DİŞİ TTAF",
+    "Stok Tanımı": "KONN 6POS 3MM 5558-06H DİŞİ TTAF",
     "Depo": "MERKEZ DEPO",
     "Toplam": "935"
   },
@@ -15735,7 +15651,7 @@
     "Stok Kodu": "H010202004945",
     "Stok Tanımı": "KONN SMD 1,25MM 5023860370 3POS R/A Tin Molex, LLC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1378"
+    "Toplam": "178"
   },
   {
     "Stok Kodu": "H010202004947",
@@ -15783,7 +15699,7 @@
     "Stok Kodu": "H010202004956",
     "Stok Tanımı": "KONN 1,25MM 5023800300 3POS HOUSING Molex, LLC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1056"
+    "Toplam": "556"
   },
   {
     "Stok Kodu": "H010202004979",
@@ -15795,13 +15711,13 @@
     "Stok Kodu": "H010202004980",
     "Stok Tanımı": "KONN TH 2,2MM MX34016UF1 16POS VERT TIN JAE Elec",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2128"
+    "Toplam": "1628"
   },
   {
     "Stok Kodu": "H010202004981",
     "Stok Tanımı": "KONN TH 2,2MM MX34012UF1 12POS MX34 STR JAE Elect",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1288"
+    "Toplam": "2076"
   },
   {
     "Stok Kodu": "H010202004984",
@@ -15873,7 +15789,7 @@
     "Stok Kodu": "H010202005083",
     "Stok Tanımı": "KONN TH 2MM 5016452020 20POS VERT Molex",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1255"
+    "Toplam": "1245"
   },
   {
     "Stok Kodu": "H010202005085",
@@ -15888,12 +15804,6 @@
     "Toplam": "1"
   },
   {
-    "Stok Kodu": "H010202005092",
-    "Stok Tanımı": "KONN SMD SFV10R-1STE1HLF 10POS 0,5MM Amphenol ICC",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "15"
-  },
-  {
     "Stok Kodu": "H010202005093",
     "Stok Tanımı": "KONN RECEPT 2,2MM MX34020SF1 20POS DUAL GRİ JAE El",
     "Depo": "MERKEZ DEPO",
@@ -15903,7 +15813,7 @@
     "Stok Kodu": "H010202005099",
     "Stok Tanımı": "KONN SMD 0476591102 19POS HDMI SMT W/HEI Molex",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1392"
+    "Toplam": "1412"
   },
   {
     "Stok Kodu": "H010202005116",
@@ -15927,13 +15837,13 @@
     "Stok Kodu": "H010202005125",
     "Stok Tanımı": "KONN 3MM 5558-02H 2POS DİŞİ TTAF",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3400"
+    "Toplam": "2400"
   },
   {
     "Stok Kodu": "H010202005126",
     "Stok Tanımı": "KONN 3MM 5558-02W 2POS ERKEK TTAF",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2000"
+    "Toplam": "1495"
   },
   {
     "Stok Kodu": "H010202005129",
@@ -16113,7 +16023,7 @@
     "Stok Kodu": "H010202009047",
     "Stok Tanımı": "FUSE SMD 1206 0ZCJ0050AF2E 0,50A 24V Bel Fuse Inc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7"
+    "Toplam": "2741"
   },
   {
     "Stok Kodu": "H010202009049",
@@ -16143,7 +16053,7 @@
     "Stok Kodu": "H010202009055",
     "Stok Tanımı": "FUSE SMD 1812 0ZCG0075BF2B 0,75A 33V Bel Fuse Inc",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2687"
+    "Toplam": "1187"
   },
   {
     "Stok Kodu": "H010202009057",
@@ -16156,12 +16066,6 @@
     "Stok Tanımı": "FUSE SMD 2920 0ZCF0300BF2C 3,0A 24V Bel Fuse Inc",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1982"
-  },
-  {
-    "Stok Kodu": "H010202009061",
-    "Stok Tanımı": "FUSE SMD 1812 0ZCG0050AF2C 0,50A 30V Bel Fuse Inc.",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "1249"
   },
   {
     "Stok Kodu": "H010202009066",
@@ -16213,7 +16117,7 @@
   },
   {
     "Stok Kodu": "H010202012006",
-    "Stok Tanımı": "KRİSTAL TH 27MHZ  HC49/U",
+    "Stok Tanımı": "KRİSTAL TH 27MHZ HC49/U",
     "Depo": "MERKEZ DEPO",
     "Toplam": "48"
   },
@@ -16257,7 +16161,7 @@
     "Stok Kodu": "H010202012016",
     "Stok Tanımı": "KRİSTAL SMD 32,768 KHZ 12.5PF CM315-32.768KDZF-UT",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3849"
+    "Toplam": "2841"
   },
   {
     "Stok Kodu": "H010202012020",
@@ -16453,7 +16357,7 @@
   },
   {
     "Stok Kodu": "H010202013083",
-    "Stok Tanımı": "KABLO 0,34MM  BEYAZ",
+    "Stok Tanımı": "KABLO 0,34MM BEYAZ",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1014.08"
   },
@@ -16611,7 +16515,7 @@
     "Stok Kodu": "H010202013116",
     "Stok Tanımı": "KABLO USB USBAM/AF 1,8M",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "500"
+    "Toplam": "70"
   },
   {
     "Stok Kodu": "H010202013117",
@@ -16735,7 +16639,7 @@
   },
   {
     "Stok Kodu": "H010202013168",
-    "Stok Tanımı": "KABLO  MGP-81 GPS  KILIFSIZ 10CM 4LÜ 2,50 KONN.",
+    "Stok Tanımı": "KABLO MGP-81 GPS KILIFSIZ 10CM 4LÜ 2,50 KONN.",
     "Depo": "MERKEZ DEPO",
     "Toplam": "150"
   },
@@ -16837,7 +16741,7 @@
   },
   {
     "Stok Kodu": "H010202013229",
-    "Stok Tanımı": "KABLO  FLAT FLEX 050R40-51B 40POS 0.5MM 2\" Parlex",
+    "Stok Tanımı": "KABLO FLAT FLEX 050R40-51B 40POS 0.5MM 2\" Parlex",
     "Depo": "MERKEZ DEPO",
     "Toplam": "47"
   },
@@ -17005,7 +16909,7 @@
   },
   {
     "Stok Kodu": "H010202013353",
-    "Stok Tanımı": "KABLO  FLAT FLEX 050R40-76B 40POS 0.5MM 3\" Parlex",
+    "Stok Tanımı": "KABLO FLAT FLEX 050R40-76B 40POS 0.5MM 3\" Parlex",
     "Depo": "MERKEZ DEPO",
     "Toplam": "109"
   },
@@ -17017,7 +16921,7 @@
   },
   {
     "Stok Kodu": "H010202013364",
-    "Stok Tanımı": "KABLO  FLAT FLEX 050R50-76B 50POS 0.5MM 3\" Parlex",
+    "Stok Tanımı": "KABLO FLAT FLEX 050R50-76B 50POS 0.5MM 3\" Parlex",
     "Depo": "MERKEZ DEPO",
     "Toplam": "223"
   },
@@ -17131,9 +17035,15 @@
   },
   {
     "Stok Kodu": "H010202013435",
-    "Stok Tanımı": "KABLO VAL7 4,2MM M&L/MİKE 9LU DİŞİ 15CM  KABLO TAK",
+    "Stok Tanımı": "KABLO VAL7 4,2MM M&L/MİKE 9LU DİŞİ 15CM KABLO TAK",
     "Depo": "MERKEZ DEPO",
     "Toplam": "109"
+  },
+  {
+    "Stok Kodu": "H010202013438",
+    "Stok Tanımı": "KABLO VAL5M POWER 200CM 12X0,22MM LIYY KABLO T",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "139"
   },
   {
     "Stok Kodu": "H010202013449",
@@ -17298,12 +17208,6 @@
     "Toplam": "87"
   },
   {
-    "Stok Kodu": "H010202013614",
-    "Stok Tanımı": "KABLO USB USBAM TEK TARAFLI 1,8M",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "27"
-  },
-  {
     "Stok Kodu": "H010202013621",
     "Stok Tanımı": "KABLO SATA3.0 DOUBLE STRAIGHT HEAD 10CM",
     "Depo": "MERKEZ DEPO",
@@ -17316,28 +17220,10 @@
     "Toplam": "5"
   },
   {
-    "Stok Kodu": "H010202013633",
-    "Stok Tanımı": "KABLO VAL8 BELBİM KONTAK/BUTTON KABLOSU 10CM",
+    "Stok Kodu": "H010202013635",
+    "Stok Tanımı": "KABLO VAL8 V1 UC2 V1 BELBİM 9CM BAĞLANTI KABLOSU",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "50"
-  },
-  {
-    "Stok Kodu": "H010202013634",
-    "Stok Tanımı": "KABLO VAL8 BELBİM 1-WIRE 4CM",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "97"
-  },
-  {
-    "Stok Kodu": "H010202013636",
-    "Stok Tanımı": "KABLO 20CM CA-DKCA1-152L0-I0-12 LTE ANTEN BAĞLANTI",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "100"
-  },
-  {
-    "Stok Kodu": "H010202013638",
-    "Stok Tanımı": "KABLO VAL8 BELBİM MAIN 55CM KABLO",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "50"
+    "Toplam": "532"
   },
   {
     "Stok Kodu": "H010202013639",
@@ -17400,12 +17286,6 @@
     "Toplam": "200"
   },
   {
-    "Stok Kodu": "H010202013649",
-    "Stok Tanımı": "KABLO VAL8 BELBİM ETHERNET KABLOSU 1,5METRE",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "101"
-  },
-  {
     "Stok Kodu": "H010202014001",
     "Stok Tanımı": "FERİT İÇ=9,9MM DIŞ=20,1MM KALINLIK=7MM",
     "Depo": "MERKEZ DEPO",
@@ -17427,13 +17307,13 @@
     "Stok Kodu": "H010202014003",
     "Stok Tanımı": "FERİT SMD MPZ1608S601ATA00 1A 600 OHM TDK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "60000"
+    "Toplam": "56000"
   },
   {
     "Stok Kodu": "H010202014004",
     "Stok Tanımı": "FERİT SMD MPZ2012S601A 2A 600 OHM TDK Corporation",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8363"
+    "Toplam": "6535"
   },
   {
     "Stok Kodu": "H010202014005",
@@ -17511,13 +17391,13 @@
     "Stok Kodu": "H010202014035",
     "Stok Tanımı": "FERİT SMD 0402 BKP1005EM221-T 220 OHM 1LN Taiyo",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "50"
+    "Toplam": "10050"
   },
   {
     "Stok Kodu": "H010202014036",
     "Stok Tanımı": "FERİT SMD 1812 74279226101 100 OHM Wurth Electroni",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "9395"
+    "Toplam": "6895"
   },
   {
     "Stok Kodu": "H010202014055",
@@ -17541,13 +17421,13 @@
     "Stok Kodu": "H010202014059",
     "Stok Tanımı": "FERİT SMD 0805 74279220800 80 OHM Wurth Electroni",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6873"
+    "Toplam": "4000"
   },
   {
     "Stok Kodu": "H010202014060",
     "Stok Tanımı": "FERİT CORE 28B0500-300 118 OHM 12.70MM Laird-Signa",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1385"
+    "Toplam": "856"
   },
   {
     "Stok Kodu": "H010202014061",
@@ -17583,7 +17463,7 @@
     "Stok Kodu": "H010202017001",
     "Stok Tanımı": "ANTEN BOBİNİ 23R",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "283"
+    "Toplam": "340"
   },
   {
     "Stok Kodu": "H010202017002",
@@ -17905,7 +17785,7 @@
   },
   {
     "Stok Kodu": "H0103174",
-    "Stok Tanımı": "PCB 485 CONVERTER  V2",
+    "Stok Tanımı": "PCB 485 CONVERTER V2",
     "Depo": "MERKEZ DEPO",
     "Toplam": "38"
   },
@@ -17917,7 +17797,7 @@
   },
   {
     "Stok Kodu": "H0103176",
-    "Stok Tanımı": "PCB AMR84  V1",
+    "Stok Tanımı": "PCB AMR84 V1",
     "Depo": "MERKEZ DEPO",
     "Toplam": "124"
   },
@@ -17977,7 +17857,7 @@
   },
   {
     "Stok Kodu": "H0104065",
-    "Stok Tanımı": "PCB RFID MUX  V1 REV02 D.İÇİ KAP",
+    "Stok Tanımı": "PCB RFID MUX V1 REV02 D.İÇİ KAP",
     "Depo": "MERKEZ DEPO",
     "Toplam": "114"
   },
@@ -18792,6 +18672,12 @@
     "Toplam": "90"
   },
   {
+    "Stok Kodu": "H0104478",
+    "Stok Tanımı": "PCB USB10_V1_3",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "72"
+  },
+  {
     "Stok Kodu": "H0104479",
     "Stok Tanımı": "PCB USB10_V1_ANT_V1_1",
     "Depo": "MERKEZ DEPO",
@@ -18879,7 +18765,7 @@
     "Stok Kodu": "H0104520",
     "Stok Tanımı": "PCB DIMOD6_V1.2",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "250"
+    "Toplam": "810"
   },
   {
     "Stok Kodu": "H0104521",
@@ -18903,7 +18789,7 @@
     "Stok Kodu": "H0104526",
     "Stok Tanımı": "PCB MFRANT_V2_65x65_0.5mm-0.5mm",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "361"
+    "Toplam": "1426"
   },
   {
     "Stok Kodu": "H0104535",
@@ -19008,10 +18894,16 @@
     "Toplam": "169"
   },
   {
+    "Stok Kodu": "H0104591",
+    "Stok Tanımı": "PCB MFRANT_V2_1",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "532"
+  },
+  {
     "Stok Kodu": "H0104592",
     "Stok Tanımı": "PCB VAL8_V2",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "30"
+    "Toplam": "530"
   },
   {
     "Stok Kodu": "H0104594",
@@ -19170,40 +19062,16 @@
     "Toplam": "3"
   },
   {
+    "Stok Kodu": "H0104660",
+    "Stok Tanımı": "PCB DCP4_V2_2_1",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "24"
+  },
+  {
     "Stok Kodu": "H0104676",
     "Stok Tanımı": "PCB TAS255XMOD_V1",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1008"
-  },
-  {
-    "Stok Kodu": "H0104677",
-    "Stok Tanımı": "PCB RKC_CAM_LED_V1",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "10"
-  },
-  {
-    "Stok Kodu": "H0104678",
-    "Stok Tanımı": "PCB BV35_GSM_V2",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "10"
-  },
-  {
-    "Stok Kodu": "H0104679",
-    "Stok Tanımı": "PCB  BV35_PRX_V1",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "15"
-  },
-  {
-    "Stok Kodu": "H0104680",
-    "Stok Tanımı": "PCB  NVR_PWR_V1_1",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "10"
-  },
-  {
-    "Stok Kodu": "H0104681",
-    "Stok Tanımı": "PCB  ARGE_FUSB302M",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "5"
+    "Toplam": "8"
   },
   {
     "Stok Kodu": "H0106",
@@ -19239,7 +19107,7 @@
     "Stok Kodu": "H02004008",
     "Stok Tanımı": "PUL FİBER 4X9MM 1,5MM KALIN",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4280"
+    "Toplam": "3780"
   },
   {
     "Stok Kodu": "H02004010",
@@ -19317,7 +19185,7 @@
     "Stok Kodu": "H02004028",
     "Stok Tanımı": "PUL M8 DÜZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "9181"
+    "Toplam": "8329"
   },
   {
     "Stok Kodu": "H02004029",
@@ -19359,7 +19227,19 @@
     "Stok Kodu": "H02004036",
     "Stok Tanımı": "PUL M5 DÜZ KROM PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "19760"
+    "Toplam": "18560"
+  },
+  {
+    "Stok Kodu": "H02004037",
+    "Stok Tanımı": "PUL İMBUS ALYAN RONDELASI M4 KROM PASLANMAZ",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1000"
+  },
+  {
+    "Stok Kodu": "H02004039",
+    "Stok Tanımı": "PUL M5 YAYLI RONDELA INOX PASLANMAZ",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "10000"
   },
   {
     "Stok Kodu": "H02004040",
@@ -19491,13 +19371,13 @@
     "Stok Kodu": "H02005026",
     "Stok Tanımı": "SOMUN M5 FLANŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2438"
+    "Toplam": "2198"
   },
   {
-    "Stok Kodu": "H02006002",
-    "Stok Tanımı": "VİDA METRİK 2,5x6MM YILDIZ SİLİNDİR BAŞLI",
+    "Stok Kodu": "H02005027",
+    "Stok Tanımı": "SOMUN M4 FİBERLİ PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "6745"
+    "Toplam": "1000"
   },
   {
     "Stok Kodu": "H02006003",
@@ -19600,12 +19480,6 @@
     "Stok Tanımı": "VİDA METRİK 3x15MM YILDIZ HAVŞA BAŞLI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "5941"
-  },
-  {
-    "Stok Kodu": "H02006034",
-    "Stok Tanımı": "VİDA METRİK 2,5x4MM YILDIZ SİLİNDİR BAŞLI",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "546"
   },
   {
     "Stok Kodu": "H02006038",
@@ -19887,7 +19761,7 @@
     "Stok Kodu": "H02006113",
     "Stok Tanımı": "VİDA SAC 2,5X5MM YILDIZ SİLİNDİR BAŞLI KÜT BEYAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8281"
+    "Toplam": "7429"
   },
   {
     "Stok Kodu": "H02006116",
@@ -19918,6 +19792,12 @@
     "Stok Tanımı": "VİDA METRİK 2x10MM YILDIZ HAVŞA BAŞLI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3532"
+  },
+  {
+    "Stok Kodu": "H02006124",
+    "Stok Tanımı": "VİDA SAC 2,9x9,5MM RONDELA YILDIZ SİLİNDİR BAŞLI",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "5000"
   },
   {
     "Stok Kodu": "H02006130",
@@ -20028,16 +19908,10 @@
     "Toplam": "8000"
   },
   {
-    "Stok Kodu": "H02006170",
-    "Stok Tanımı": "KONN PİMİ 1,25mm 9821T-P SWB",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "15000"
-  },
-  {
     "Stok Kodu": "H02006171",
-    "Stok Tanımı": "KONN PİMİ 3MM 5558-FT  DİŞİ",
+    "Stok Tanımı": "KONN PİMİ 3MM 5558-FT DİŞİ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4600"
+    "Toplam": "1600"
   },
   {
     "Stok Kodu": "H02006172",
@@ -20121,19 +19995,19 @@
     "Stok Kodu": "H02006198",
     "Stok Tanımı": "KONN PİMİ 5023810000 26-28 AWG Molex, LLC",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "84181"
+    "Toplam": "252181"
   },
   {
     "Stok Kodu": "H02006200",
     "Stok Tanımı": "VİDA METRİK 5x12MM ALYAN NORMAL BAŞLI KROM PASLANM",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "27500"
+    "Toplam": "26000"
   },
   {
     "Stok Kodu": "H02006201",
     "Stok Tanımı": "VİDA METRİK 5x10MM ALYAN NORMAL BAŞLI KROM PASLANM",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2844"
+    "Toplam": "3844"
   },
   {
     "Stok Kodu": "H02006203",
@@ -20172,12 +20046,6 @@
     "Toplam": "1235"
   },
   {
-    "Stok Kodu": "H02006216",
-    "Stok Tanımı": "KONN PİMİ M34S75C4F1 22-24 AWG TIN JAE Electron",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "15000"
-  },
-  {
     "Stok Kodu": "H02006217",
     "Stok Tanımı": "KONN PİMİ M34S75C4F2 CONN SOCKET TIN JAE Electron",
     "Depo": "MERKEZ DEPO",
@@ -20211,7 +20079,7 @@
     "Stok Kodu": "H02006241",
     "Stok Tanımı": "VİDA METRİK 2x6MM YILDIZ HAVŞA BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4460"
+    "Toplam": "4300"
   },
   {
     "Stok Kodu": "H02006243",
@@ -20259,7 +20127,7 @@
     "Stok Kodu": "H02006267",
     "Stok Tanımı": "VİDA METRİK 3x6MM YILDIZ SİLİNDİR BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7502"
+    "Toplam": "7382"
   },
   {
     "Stok Kodu": "H02006278",
@@ -20295,7 +20163,7 @@
     "Stok Kodu": "H02006300",
     "Stok Tanımı": "VİDA METRİK 5X30MM ALTIGEN BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "8088"
+    "Toplam": "7248"
   },
   {
     "Stok Kodu": "H02006302",
@@ -20334,6 +20202,12 @@
     "Toplam": "18250"
   },
   {
+    "Stok Kodu": "H02006325",
+    "Stok Tanımı": "VİDA METRİK 2X4 YILDIZ SİLİNDİR BAŞLI PASLANMAZ",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "10000"
+  },
+  {
     "Stok Kodu": "H02006326",
     "Stok Tanımı": "VİDA PLASTİK SAC 2,9X9MM YILDIZ SİLİDİR BAŞLI PASL",
     "Depo": "MERKEZ DEPO",
@@ -20349,7 +20223,7 @@
     "Stok Kodu": "H02006334",
     "Stok Tanımı": "VİDA METRİK 3x6MM ALYAN SİLİNDİR BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "18980"
+    "Toplam": "17980"
   },
   {
     "Stok Kodu": "H02006335",
@@ -20368,6 +20242,12 @@
     "Stok Tanımı": "VİDA METRİK 4x20MM ALYAN SİLİNDİR BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
     "Toplam": "11924"
+  },
+  {
+    "Stok Kodu": "H02006346",
+    "Stok Tanımı": "VİDA METRİK 5x20MM ALYAN NORMAL BAŞLI PASLANMAZ",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "5000"
   },
   {
     "Stok Kodu": "H02006348",
@@ -20391,7 +20271,7 @@
     "Stok Kodu": "H02006353",
     "Stok Tanımı": "VİDA METRİK 4x10MM ALYAN NORMAL BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5025"
+    "Toplam": "4025"
   },
   {
     "Stok Kodu": "H02006355",
@@ -20403,7 +20283,7 @@
     "Stok Kodu": "H02006358",
     "Stok Tanımı": "VİDA METRİK 8x45MM ALYAN NORMAL BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3500"
+    "Toplam": "2500"
   },
   {
     "Stok Kodu": "H02006362",
@@ -20427,7 +20307,13 @@
     "Stok Kodu": "H02006391",
     "Stok Tanımı": "VİDA SAC 3X6 YILDIZ SİLİNDİR BAŞLI KÜT",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "112034"
+    "Toplam": "110034"
+  },
+  {
+    "Stok Kodu": "H02006393",
+    "Stok Tanımı": "VİDA SAC 3X5 YILDIZ SİLİNDİR BAŞLI KÜT",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "4760"
   },
   {
     "Stok Kodu": "H02006394",
@@ -20455,7 +20341,7 @@
   },
   {
     "Stok Kodu": "H02006401",
-    "Stok Tanımı": "VİDA SAC 2,5X6,5  YILDIZ SİLİNDİR BAŞLI KÜT",
+    "Stok Tanımı": "VİDA SAC 2,5X6,5 YILDIZ SİLİNDİR BAŞLI KÜT",
     "Depo": "MERKEZ DEPO",
     "Toplam": "25009"
   },
@@ -20538,6 +20424,12 @@
     "Toplam": "1394"
   },
   {
+    "Stok Kodu": "H02006440",
+    "Stok Tanımı": "VİDA SAC 2,9X13MM YILDIZ SİLİNDİR BAŞLI KÜT",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "10000"
+  },
+  {
     "Stok Kodu": "H02006441",
     "Stok Tanımı": "KONN PİMİ 2,5MM DS1068-02-MT SM TYPE ERKEK CONNFLY",
     "Depo": "MERKEZ DEPO",
@@ -20550,10 +20442,10 @@
     "Toplam": "20"
   },
   {
-    "Stok Kodu": "H02006443",
-    "Stok Tanımı": "KONN PİMİ 3MM 5558-MT ERKEK TTAF",
+    "Stok Kodu": "H02006444",
+    "Stok Tanımı": "VİDA METRİK 5X10MM ALYAN HAVŞA BAŞLI PASLANMAZ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "2800"
+    "Toplam": "5000"
   },
   {
     "Stok Kodu": "H02006446",
@@ -20613,7 +20505,7 @@
     "Stok Kodu": "H02011007",
     "Stok Tanımı": "KUTU ABS 11/12 ÖN KAPAK GRİ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "479"
+    "Toplam": "27"
   },
   {
     "Stok Kodu": "H02011008",
@@ -20907,7 +20799,7 @@
     "Stok Kodu": "H02011109",
     "Stok Tanımı": "KUTU ABS 11/12 ARKA KAPAK GRİ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "479"
+    "Toplam": "7"
   },
   {
     "Stok Kodu": "H02011113",
@@ -21361,7 +21253,7 @@
   },
   {
     "Stok Kodu": "H02011229",
-    "Stok Tanımı": "KUTU SAC KONNEKTÖR LEVHASI  (MX870)",
+    "Stok Tanımı": "KUTU SAC KONNEKTÖR LEVHASI (MX870)",
     "Depo": "MERKEZ DEPO",
     "Toplam": "178"
   },
@@ -21417,19 +21309,19 @@
     "Stok Kodu": "H02011244",
     "Stok Tanımı": "KUTU ABS MMVALV3 ÜST KAPAK KIRMIZI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "75"
+    "Toplam": "74"
   },
   {
     "Stok Kodu": "H02011245",
     "Stok Tanımı": "KUTU ABS MMVALV3 ARKA KAPAK KIRMIZI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "104"
+    "Toplam": "103"
   },
   {
     "Stok Kodu": "H02011246",
     "Stok Tanımı": "KUTU ABS MMVALV3 SİM KAPAK KIRMIZI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "107"
+    "Toplam": "106"
   },
   {
     "Stok Kodu": "H02011247",
@@ -21517,13 +21409,13 @@
   },
   {
     "Stok Kodu": "H02011288",
-    "Stok Tanımı": "KUTU ABS IRT95_V1  ÜST KAPAK KIRMIZI",
+    "Stok Tanımı": "KUTU ABS IRT95_V1 ÜST KAPAK KIRMIZI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "150"
   },
   {
     "Stok Kodu": "H02011289",
-    "Stok Tanımı": "KUTU ABS IRT95_V1  ALT KAPAK KIRMIZI",
+    "Stok Tanımı": "KUTU ABS IRT95_V1 ALT KAPAK KIRMIZI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "100"
   },
@@ -21535,13 +21427,13 @@
   },
   {
     "Stok Kodu": "H02011293",
-    "Stok Tanımı": "KUTU ABS IRT95_V1  ÜST KAPAK TURUNCU",
+    "Stok Tanımı": "KUTU ABS IRT95_V1 ÜST KAPAK TURUNCU",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1503"
   },
   {
     "Stok Kodu": "H02011294",
-    "Stok Tanımı": "KUTU ABS IRT95_V1  -IRT83ŞKP ALT KAPAK TURUNCU",
+    "Stok Tanımı": "KUTU ABS IRT95_V1 -IRT83ŞKP ALT KAPAK TURUNCU",
     "Depo": "MERKEZ DEPO",
     "Toplam": "2115"
   },
@@ -21619,7 +21511,7 @@
   },
   {
     "Stok Kodu": "H02011321",
-    "Stok Tanımı": "KUTU ABS IRT95_V1  -IRT83ŞKP ALT KAPAK MAVİ",
+    "Stok Tanımı": "KUTU ABS IRT95_V1 -IRT83ŞKP ALT KAPAK MAVİ",
     "Depo": "MERKEZ DEPO",
     "Toplam": "488"
   },
@@ -21819,7 +21711,7 @@
     "Stok Kodu": "H02011387",
     "Stok Tanımı": "KUTU ABS MMVAL SİM KAPAK SİYAH",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "943"
+    "Toplam": "938"
   },
   {
     "Stok Kodu": "H02011392",
@@ -21954,12 +21846,6 @@
     "Toplam": "2"
   },
   {
-    "Stok Kodu": "H02011726",
-    "Stok Tanımı": "KUTU OSCVM ÖN KAPAK DIŞ ÇERÇEVE",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "90"
-  },
-  {
     "Stok Kodu": "H02011729",
     "Stok Tanımı": "KUTU OVMC ARKA KAPAK",
     "Depo": "MERKEZ DEPO",
@@ -21993,7 +21879,7 @@
     "Stok Kodu": "H02011737",
     "Stok Tanımı": "KUTU OSCVM ÖN KAPAK BUTONLU ÇERÇEVE+BASKI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "63"
+    "Toplam": "321"
   },
   {
     "Stok Kodu": "H02011738",
@@ -22029,19 +21915,19 @@
     "Stok Kodu": "H02011744",
     "Stok Tanımı": "KUTU OVMC SAĞ TUTUCU NAYLO66 PLASTİK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1381"
+    "Toplam": "1168"
   },
   {
     "Stok Kodu": "H02011745",
     "Stok Tanımı": "KUTU OVMC SOL TUTUCU NAYLO66 PLASTİK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1432"
+    "Toplam": "1219"
   },
   {
     "Stok Kodu": "H02011746",
     "Stok Tanımı": "KUTU OVMC TUTUCU TABAN NAYLO66 PLASTİK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1239"
+    "Toplam": "1026"
   },
   {
     "Stok Kodu": "H02011747",
@@ -22458,12 +22344,6 @@
     "Toplam": "8"
   },
   {
-    "Stok Kodu": "H02011882",
-    "Stok Tanımı": "KUTU ABS DCP4 V2 ARKA KAPAK SİYAH ECU PLUG KON",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "111"
-  },
-  {
     "Stok Kodu": "H02011885",
     "Stok Tanımı": "KUTU ABS OBSW5V1 HH-035 SİYAH",
     "Depo": "MERKEZ DEPO",
@@ -22681,7 +22561,7 @@
   },
   {
     "Stok Kodu": "H02011975",
-    "Stok Tanımı": "KUTU SAC VAL7_QR KELEPÇE  2MM SİYAH FIRIN BOYALI",
+    "Stok Tanımı": "KUTU SAC VAL7_QR KELEPÇE 2MM SİYAH FIRIN BOYALI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "380"
   },
@@ -22707,13 +22587,7 @@
     "Stok Kodu": "H02012021",
     "Stok Tanımı": "KUTU ABS MMVAL ALT KAPAK ÇİFT DELİK SİYAH",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1016"
-  },
-  {
-    "Stok Kodu": "H02012029",
-    "Stok Tanımı": "KUTU ALUMİNYUM 300X300X30MM PLAKA LEVHA",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "1"
+    "Toplam": "1011"
   },
   {
     "Stok Kodu": "H02013035",
@@ -22723,7 +22597,7 @@
   },
   {
     "Stok Kodu": "H02013071",
-    "Stok Tanımı": "HAVYA  852D+ REZİSTANSI SUNLİNE",
+    "Stok Tanımı": "HAVYA 852D+ REZİSTANSI SUNLİNE",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1"
   },
@@ -22815,7 +22689,7 @@
     "Stok Kodu": "H02014028",
     "Stok Tanımı": "MAKARON 16MM",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "114.99"
+    "Toplam": "114.09"
   },
   {
     "Stok Kodu": "H02014030",
@@ -22869,7 +22743,7 @@
     "Stok Kodu": "H02018002",
     "Stok Tanımı": "LEHİM TELİ 0,7MM SN63PB37 ALPHA",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "25"
+    "Toplam": "21"
   },
   {
     "Stok Kodu": "H02018012",
@@ -22945,7 +22819,7 @@
   },
   {
     "Stok Kodu": "H02019019",
-    "Stok Tanımı": "KONN MMCX 5Lİ  DİŞİ 180\"",
+    "Stok Tanımı": "KONN MMCX 5Lİ DİŞİ 180\"",
     "Depo": "MERKEZ DEPO",
     "Toplam": "284"
   },
@@ -23091,7 +22965,7 @@
     "Stok Kodu": "H02019068",
     "Stok Tanımı": "ANTEN GSM GPS WİFİ 2J6A50BGF 3 METRE 180*SMA(m) 2J",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "5"
+    "Toplam": "3"
   },
   {
     "Stok Kodu": "H02019069",
@@ -23161,13 +23035,13 @@
   },
   {
     "Stok Kodu": "H02021027",
-    "Stok Tanımı": "ETİKET IRT11D  ÖN",
+    "Stok Tanımı": "ETİKET IRT11D ÖN",
     "Depo": "MERKEZ DEPO",
     "Toplam": "55"
   },
   {
     "Stok Kodu": "H02021028",
-    "Stok Tanımı": "ETİKET IRT11D  ARKA",
+    "Stok Tanımı": "ETİKET IRT11D ARKA",
     "Depo": "MERKEZ DEPO",
     "Toplam": "62"
   },
@@ -23227,7 +23101,7 @@
   },
   {
     "Stok Kodu": "H02021044",
-    "Stok Tanımı": "ETİKET IRT23D  ARKA",
+    "Stok Tanımı": "ETİKET IRT23D ARKA",
     "Depo": "MERKEZ DEPO",
     "Toplam": "145"
   },
@@ -23391,7 +23265,7 @@
     "Stok Kodu": "H02021111",
     "Stok Tanımı": "PLEKSİ MMVAL_V1 3MM KALINLIK",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1534"
+    "Toplam": "1434"
   },
   {
     "Stok Kodu": "H02021112",
@@ -23437,7 +23311,7 @@
   },
   {
     "Stok Kodu": "H02021122",
-    "Stok Tanımı": "ETİKET VALV4  KLAVYESİ RENKLİ EKRAN GRİ",
+    "Stok Tanımı": "ETİKET VALV4 KLAVYESİ RENKLİ EKRAN GRİ",
     "Depo": "MERKEZ DEPO",
     "Toplam": "18"
   },
@@ -23445,7 +23319,7 @@
     "Stok Kodu": "H02021123",
     "Stok Tanımı": "PLEKSİ MMVALV3 ESVALİD",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "49"
+    "Toplam": "48"
   },
   {
     "Stok Kodu": "H02021125",
@@ -23589,7 +23463,7 @@
     "Stok Kodu": "H02021161",
     "Stok Tanımı": "PLEKSİ SİM KART SABİTLEYİCİ 24X58MM IRT95",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1500"
+    "Toplam": "1000"
   },
   {
     "Stok Kodu": "H02021166",
@@ -23647,13 +23521,13 @@
   },
   {
     "Stok Kodu": "H02021191",
-    "Stok Tanımı": "PLEKSİ OSCVM_V1_3  18mmX27.5mm YÜKSELTME PARÇASI",
+    "Stok Tanımı": "PLEKSİ OSCVM_V1_3 18mmX27.5mm YÜKSELTME PARÇASI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "2548"
   },
   {
     "Stok Kodu": "H02021192",
-    "Stok Tanımı": "PLEKSİ GMAİN  31mmX25mm YÜKSELTME PARÇASI",
+    "Stok Tanımı": "PLEKSİ GMAİN 31mmX25mm YÜKSELTME PARÇASI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "200"
   },
@@ -23685,7 +23559,7 @@
     "Stok Kodu": "H02021198",
     "Stok Tanımı": "PLEKSİ VAL5M2 3MM KALINLIK 10 CM SİYAH SERAGRAFİ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "147"
+    "Toplam": "117"
   },
   {
     "Stok Kodu": "H02021199",
@@ -23703,7 +23577,7 @@
     "Stok Kodu": "H02021201",
     "Stok Tanımı": "ETİKET USB10",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "671"
+    "Toplam": "366"
   },
   {
     "Stok Kodu": "H02021202",
@@ -23715,11 +23589,11 @@
     "Stok Kodu": "H02021203",
     "Stok Tanımı": "ETİKET VAL5M2 ÖN MEMBRANI SİYAH",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1080"
+    "Toplam": "80"
   },
   {
     "Stok Kodu": "H02021208",
-    "Stok Tanımı": "PLEKSİ DCP4 V2  SERİGRAFİLİ",
+    "Stok Tanımı": "PLEKSİ DCP4 V2 SERİGRAFİLİ",
     "Depo": "MERKEZ DEPO",
     "Toplam": "51"
   },
@@ -23728,6 +23602,12 @@
     "Stok Tanımı": "PLEKSİ DCP4 16X8X0,5MM uSD YÜKSELTME PARÇASI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3996"
+  },
+  {
+    "Stok Kodu": "H02021211",
+    "Stok Tanımı": "PLEKSİ VAL5M6 V2 18X15X0,5MM SD KART SABİTLEME PAR",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1000"
   },
   {
     "Stok Kodu": "H02021212",
@@ -23743,15 +23623,21 @@
   },
   {
     "Stok Kodu": "H02021218",
-    "Stok Tanımı": "PLEKSİ ÇİZİLMEZ VAL8 MFR  3M 468MP BANTLI",
+    "Stok Tanımı": "PLEKSİ ÇİZİLMEZ VAL8 MFR 3M 468MP BANTLI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "121"
+    "Toplam": "621"
   },
   {
     "Stok Kodu": "H02021219",
     "Stok Tanımı": "PLEKSİ ÇİZİLMEZ VAL8 QR OKUYUCU 3M VHB5925 BANTLI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "69"
+    "Toplam": "569"
+  },
+  {
+    "Stok Kodu": "H02021220",
+    "Stok Tanımı": "PLEKSİ VAL8 LCD TUTUCU",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "514"
   },
   {
     "Stok Kodu": "H02021222",
@@ -24168,12 +24054,6 @@
     "Toplam": "765"
   },
   {
-    "Stok Kodu": "H02023082",
-    "Stok Tanımı": "DİSTANS METAL 3MM METRİK2 3,25mm AYAKLI SİLİNDİR",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "6140"
-  },
-  {
     "Stok Kodu": "H02023085",
     "Stok Tanımı": "DİSTANS METAL 33MM METRİK4 7MM ALTIGEN",
     "Depo": "MERKEZ DEPO",
@@ -24441,7 +24321,13 @@
     "Stok Kodu": "H02023143",
     "Stok Tanımı": "DİSTANS METAL 8MM METRİK2 AYAKLI SİLİNDİR",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "890"
+    "Toplam": "650"
+  },
+  {
+    "Stok Kodu": "H02023144",
+    "Stok Tanımı": "DİSTANS METAL 5,75MM METRİK3 SİLİNDİR",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "2000"
   },
   {
     "Stok Kodu": "H02023151",
@@ -24477,7 +24363,7 @@
     "Stok Kodu": "H02023188",
     "Stok Tanımı": "DİSTANS METAL 7MM METRİK2 3,5MM AYAKLI SİLİNDİR",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "7522"
+    "Toplam": "7096"
   },
   {
     "Stok Kodu": "H02023189",
@@ -24595,7 +24481,7 @@
   },
   {
     "Stok Kodu": "H02026001",
-    "Stok Tanımı": "CONTA GEÇİŞ LASTİĞİ 6 NUMARA  RFTAG ANTEN",
+    "Stok Tanımı": "CONTA GEÇİŞ LASTİĞİ 6 NUMARA RFTAG ANTEN",
     "Depo": "MERKEZ DEPO",
     "Toplam": "940"
   },
@@ -24661,7 +24547,7 @@
   },
   {
     "Stok Kodu": "H02026017",
-    "Stok Tanımı": "CONTA LASTİK MMVALV3  SİM KAPAĞI KAYIŞI",
+    "Stok Tanımı": "CONTA LASTİK MMVALV3 SİM KAPAĞI KAYIŞI",
     "Depo": "MERKEZ DEPO",
     "Toplam": "30"
   },
@@ -24681,7 +24567,7 @@
     "Stok Kodu": "H02026024",
     "Stok Tanımı": "CONTA MMVAL SİM KAPAĞI TUTUCU",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1412"
+    "Toplam": "1407"
   },
   {
     "Stok Kodu": "H02026026",
@@ -24756,12 +24642,6 @@
     "Toplam": "3795"
   },
   {
-    "Stok Kodu": "H02026049",
-    "Stok Tanımı": "CONTA OVMC ANA CONTA",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "2028"
-  },
-  {
     "Stok Kodu": "H02026050",
     "Stok Tanımı": "CONTA GMAIN SİM KAPAK 16MM YANMAZ EPDM 70*",
     "Depo": "MERKEZ DEPO",
@@ -24783,7 +24663,7 @@
     "Stok Kodu": "H02026055",
     "Stok Tanımı": "CONTA USB TIPASI EPDM",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4834"
+    "Toplam": "1834"
   },
   {
     "Stok Kodu": "H02026056",
@@ -24849,7 +24729,7 @@
     "Stok Kodu": "H02026068",
     "Stok Tanımı": "CONTA OVMC SİM KAPAĞI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3435"
+    "Toplam": "222"
   },
   {
     "Stok Kodu": "H02026069",
@@ -24885,7 +24765,7 @@
     "Stok Kodu": "H02026075",
     "Stok Tanımı": "CONTA VAL7 V2.2 ANA CONTA",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "49"
+    "Toplam": "1169"
   },
   {
     "Stok Kodu": "H02026076",
@@ -24909,7 +24789,7 @@
     "Stok Kodu": "H02026080",
     "Stok Tanımı": "CONTA SÜNGER DCP4 V2.1 SAM KAPAĞI EPDM 26x16x15mm",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "1210"
+    "Toplam": "2710"
   },
   {
     "Stok Kodu": "H02026081",
@@ -24927,7 +24807,13 @@
     "Stok Kodu": "H02026083",
     "Stok Tanımı": "CONTA OVMC SWITCH TIPASI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "4001"
+    "Toplam": "788"
+  },
+  {
+    "Stok Kodu": "H02026084",
+    "Stok Tanımı": "CONTA GEÇİŞ LASTİĞİ 4MM A-904 ALTINKAYA",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1000"
   },
   {
     "Stok Kodu": "H02026087",
@@ -24939,7 +24825,7 @@
     "Stok Kodu": "H02026089",
     "Stok Tanımı": "CONTA FİBER 1MM VAL8-DCP10 HOPARLÖR DELİĞİ CONTASI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3618"
+    "Toplam": "3558"
   },
   {
     "Stok Kodu": "H02026090",
@@ -25012,12 +24898,6 @@
     "Stok Tanımı": "CONTA VAL8 BELBİM STAND (TIPA)",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3300"
-  },
-  {
-    "Stok Kodu": "H02027002",
-    "Stok Tanımı": "ÇİFT TARAFLI BANT 1MM 6X33 4910F VHB 3M",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "7"
   },
   {
     "Stok Kodu": "H02027004",
@@ -25116,6 +24996,12 @@
     "Toplam": "3"
   },
   {
+    "Stok Kodu": "H02027033",
+    "Stok Tanımı": "ÇİFT TARAFLI BANT 0,5MM 10MMX33MT 5925F 3M",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "10"
+  },
+  {
     "Stok Kodu": "H02027034",
     "Stok Tanımı": "TERMAL ISI BANT 19X33",
     "Depo": "MERKEZ DEPO",
@@ -25131,7 +25017,7 @@
     "Stok Kodu": "H02027037",
     "Stok Tanımı": "ÇİFT TARAFLI VAL7 TFT CEVRE BANTI",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "500"
+    "Toplam": "300"
   },
   {
     "Stok Kodu": "H02027038",
@@ -25212,12 +25098,6 @@
     "Toplam": "6"
   },
   {
-    "Stok Kodu": "H02028003",
-    "Stok Tanımı": "KİLİT ANAHTARLI MMVALV3 KUTUSUNUN (103-20)",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "423"
-  },
-  {
     "Stok Kodu": "H02028006",
     "Stok Tanımı": "KİLİT MIKNATIZLI LZ APARATI",
     "Depo": "MERKEZ DEPO",
@@ -25234,12 +25114,6 @@
     "Stok Tanımı": "KROKODİL KABLOSUZ KÜÇÜK BOY",
     "Depo": "MERKEZ DEPO",
     "Toplam": "330"
-  },
-  {
-    "Stok Kodu": "H02030002",
-    "Stok Tanımı": "KROKODİL AKÜ KUTUP BAŞI",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "56"
   },
   {
     "Stok Kodu": "H02031001",
@@ -25717,13 +25591,13 @@
   },
   {
     "Stok Kodu": "H02032062",
-    "Stok Tanımı": "ELEK  RF MODEM V2 REV01 (RFM3K_V2_REV01)",
+    "Stok Tanımı": "ELEK RF MODEM V2 REV01 (RFM3K_V2_REV01)",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3"
   },
   {
     "Stok Kodu": "H02032063",
-    "Stok Tanımı": "ELEK  MMVAL_V1",
+    "Stok Tanımı": "ELEK MMVAL_V1",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1"
   },
@@ -26317,7 +26191,7 @@
   },
   {
     "Stok Kodu": "H02032169",
-    "Stok Tanımı": "ELEK  DIMOD6_V1_1_TESTER_V1",
+    "Stok Tanımı": "ELEK DIMOD6_V1_1_TESTER_V1",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1"
   },
@@ -26964,8 +26838,26 @@
     "Toplam": "1"
   },
   {
-    "Stok Kodu": "H02032288",
-    "Stok Tanımı": "ELEK ELEK_BGA_624_V2",
+    "Stok Kodu": "H02032289",
+    "Stok Tanımı": "ELEK BV35_CPU_V1_1",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1"
+  },
+  {
+    "Stok Kodu": "H02032290",
+    "Stok Tanımı": "ELEK BV35_MBD_V1_1",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1"
+  },
+  {
+    "Stok Kodu": "H02032291",
+    "Stok Tanımı": "ELEK TAS2552XMOD_V1",
+    "Depo": "MERKEZ DEPO",
+    "Toplam": "1"
+  },
+  {
+    "Stok Kodu": "H02032292",
+    "Stok Tanımı": "ELEK VAL8_V2_UC2_V2",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1"
   },
@@ -26985,7 +26877,7 @@
     "Stok Kodu": "H02036026",
     "Stok Tanımı": "Materials TH819S-20-10-00-BT 3MM THERMAL E-SONG",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "57.64"
+    "Toplam": "49.12"
   },
   {
     "Stok Kodu": "H02036037",
@@ -27009,7 +26901,7 @@
     "Stok Kodu": "H02036049",
     "Stok Tanımı": "Materials 2118728-2 RF SHIELD FRAME TE Connect",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "24"
+    "Toplam": "584"
   },
   {
     "Stok Kodu": "H02036054",
@@ -27073,13 +26965,13 @@
   },
   {
     "Stok Kodu": "H02037016",
-    "Stok Tanımı": "KOLİ  Sofya OBC SEPERATÖR",
+    "Stok Tanımı": "KOLİ Sofya OBC SEPERATÖR",
     "Depo": "MERKEZ DEPO",
     "Toplam": "1627"
   },
   {
     "Stok Kodu": "H02037017",
-    "Stok Tanımı": "KOLİ  VAL8 BELBİM KUTUSU",
+    "Stok Tanımı": "KOLİ VAL8 BELBİM KUTUSU",
     "Depo": "MERKEZ DEPO",
     "Toplam": "3597"
   },
@@ -27115,7 +27007,7 @@
   },
   {
     "Stok Kodu": "H02040002",
-    "Stok Tanımı": "KROŞE ÇELİK ÇİVİLİ NO.2  NETSAN",
+    "Stok Tanımı": "KROŞE ÇELİK ÇİVİLİ NO.2 NETSAN",
     "Depo": "MERKEZ DEPO",
     "Toplam": "800"
   },
@@ -27153,7 +27045,7 @@
     "Stok Kodu": "H02045001",
     "Stok Tanımı": "POŞET 45X45 BALONLU",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "297"
+    "Toplam": "237"
   },
   {
     "Stok Kodu": "H02047008",
@@ -27193,7 +27085,7 @@
   },
   {
     "Stok Kodu": "H02051005",
-    "Stok Tanımı": "Tutkal Akrilik Bi Komponent  DP8405NS 45 ml 3M",
+    "Stok Tanımı": "Tutkal Akrilik Bi Komponent DP8405NS 45 ml 3M",
     "Depo": "MERKEZ DEPO",
     "Toplam": "120"
   },
@@ -27315,7 +27207,7 @@
     "Stok Kodu": "H0302001022",
     "Stok Tanımı": "SWITCH TH 3 BACAK KW-1-2 LEMACHAYQ",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "163"
+    "Toplam": "143"
   },
   {
     "Stok Kodu": "H0302001023",
@@ -27393,7 +27285,7 @@
     "Stok Kodu": "H0302001049",
     "Stok Tanımı": "SWITCH TH 4 BACAK 6X6x6,5mm 180* KARE",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "165"
+    "Toplam": "160"
   },
   {
     "Stok Kodu": "H0302001050",
@@ -27489,7 +27381,7 @@
     "Stok Kodu": "H0302001091",
     "Stok Tanımı": "SWITCH KCD1 2 AYAKLI ON OFF SWITCH SİYAH",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "133"
+    "Toplam": "633"
   },
   {
     "Stok Kodu": "H0302001092",
@@ -27639,7 +27531,7 @@
     "Stok Kodu": "H030201005051",
     "Stok Tanımı": "HOPARLÖR CDS-40288 8OHM 6W 84DB 40X28MM CUI Inc.",
     "Depo": "MERKEZ DEPO",
-    "Toplam": "3017"
+    "Toplam": "2513"
   },
   {
     "Stok Kodu": "H030201006002",
@@ -27943,7 +27835,7 @@
   },
   {
     "Stok Kodu": "U0101040-5",
-    "Stok Tanımı": "CPD21 TPOS V1  LCD V2 SMD DİZİLMİŞ",
+    "Stok Tanımı": "CPD21 TPOS V1 LCD V2 SMD DİZİLMİŞ",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
     "Toplam": "192"
   },
@@ -28063,7 +27955,7 @@
   },
   {
     "Stok Kodu": "U0101066",
-    "Stok Tanımı": "USB15M  RDR V1",
+    "Stok Tanımı": "USB15M RDR V1",
     "Depo": "MAMUL DEPO (Ürün Çıkış Depo)",
     "Toplam": "19"
   },
@@ -28209,7 +28101,7 @@
     "Stok Kodu": "U0101098-2",
     "Stok Tanımı": "MUX4 232 SMD+TH DİZİLMİŞ",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
-    "Toplam": "22"
+    "Toplam": "21"
   },
   {
     "Stok Kodu": "U0101100-26",
@@ -28222,6 +28114,12 @@
     "Stok Tanımı": "DCP4 V1.1 CAM V2",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
     "Toplam": "2"
+  },
+  {
+    "Stok Kodu": "U0101100-64",
+    "Stok Tanımı": "DIMOD6 V1.2 SOLO1024",
+    "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
+    "Toplam": "499"
   },
   {
     "Stok Kodu": "U0101100-67",
@@ -28464,16 +28362,10 @@
     "Toplam": "22"
   },
   {
-    "Stok Kodu": "U0101153",
-    "Stok Tanımı": "USB10 V1.3 USB",
-    "Depo": "MAMUL DEPO (Ürün Çıkış Depo)",
-    "Toplam": "1"
-  },
-  {
     "Stok Kodu": "U0101153-2",
     "Stok Tanımı": "USB10 V1.3 SMD+TH",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
-    "Toplam": "454"
+    "Toplam": "344"
   },
   {
     "Stok Kodu": "U0101160-10",
@@ -28537,7 +28429,7 @@
   },
   {
     "Stok Kodu": "U0101178-3",
-    "Stok Tanımı": "VAL7V DISP V1.1  SMD",
+    "Stok Tanımı": "VAL7V DISP V1.1 SMD",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
     "Toplam": "3"
   },
@@ -28557,7 +28449,7 @@
     "Stok Kodu": "U0101190-7",
     "Stok Tanımı": "VAL5M6 DISP V3 SMD",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
-    "Toplam": "19"
+    "Toplam": "18"
   },
   {
     "Stok Kodu": "U0101191-2",
@@ -28716,6 +28608,12 @@
     "Toplam": "2"
   },
   {
+    "Stok Kodu": "U0101308-2",
+    "Stok Tanımı": "BOOST HUB V2.1 SMD+TH",
+    "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
+    "Toplam": "452"
+  },
+  {
     "Stok Kodu": "U0101309-2",
     "Stok Tanımı": "VAL5M6 V2.1 SMD+TH",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
@@ -28786,6 +28684,18 @@
     "Stok Tanımı": "VAL5M 4G EK V1 SMD+TH",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
     "Toplam": "47"
+  },
+  {
+    "Stok Kodu": "U0101324-9",
+    "Stok Tanımı": "VAL8 V2 UC2 V2 SMD+TH EC25",
+    "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
+    "Toplam": "494"
+  },
+  {
+    "Stok Kodu": "U0101326-2",
+    "Stok Tanımı": "DCP4 V2.2.1 SMD+TH",
+    "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
+    "Toplam": "300"
   },
   {
     "Stok Kodu": "Ü01010152",
@@ -29443,7 +29353,7 @@
   },
   {
     "Stok Kodu": "Ü0101183-5",
-    "Stok Tanımı": "MMVAL V1 READER  SCI6K MB V-1.3",
+    "Stok Tanımı": "MMVAL V1 READER SCI6K MB V-1.3",
     "Depo": "YARI MAMÜL (HAZIR OLMAYAN)",
     "Toplam": "36"
   },
@@ -29824,17 +29734,5 @@
     "Stok Tanımı": "WIRELESS 11N USB 2.0 ADAPTÖR 300Mbps 802.11N",
     "Depo": "MERKEZ DEPO",
     "Toplam": "-3"
-  },
-  {
-    "Stok Kodu": "Z0354",
-    "Stok Tanımı": "EVAL BOARD CAM-C1126S2U",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "2"
-  },
-  {
-    "Stok Kodu": "Z0355",
-    "Stok Tanımı": "EVAL KIT 8MPLUSLPD4-EVK I.MX 8M PLUS NXP",
-    "Depo": "MERKEZ DEPO",
-    "Toplam": "1"
   }
 ]
