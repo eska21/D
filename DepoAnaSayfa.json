@@ -1,137 +1,17 @@
 [
-  {
-    "No": "1",
-    "Konu": "Depo Adresleme Sistemi",
-    "Link": "https://eska21.github.io/D/Depo.html",
-    "Konu Sayısı": "12018",
-    "Güncelleme Tarihi": "2020-10-22T07:00:00.000Z",
-    "Resim": "https://eska21.github.io/D/Depoicon/DepoAdres.png",
-    "Durumu": "Hazır"
-  },
-  {
-    "No": "2",
-    "Konu": "Depo Stok Bakma (1. 2. 3. Depolar)",
-    "Link": "https://eska21.github.io/D/DepoStoktaOlanlar.html",
-    "Konu Sayısı": "5408",
-    "Güncelleme Tarihi": "2023-09-07T07:00:00.000Z",
-    "Resim": "https://eska21.github.io/D/Depoicon/DepoStokBakma.png",
-    "Durumu": "Hazır"
-  },
-  {
-    "No": "3",
-    "Konu": "Nem Alıcı Dolap İçeriği ve Stoğu",
-    "Link": "https://eska21.github.io/D/DepoNem.html",
-    "Konu Sayısı": "111",
-    "Güncelleme Tarihi": "2022-08-29T07:00:00.000Z",
-    "Resim": "https://eska21.github.io/D/Depoicon/NemDolap.png",
-    "Durumu": "Hazır"
-  },
-  {
-    "No": "4",
-    "Konu": "Stok Olan Depolar 2",
-    "Link": "https://eska21.github.io/D/DepoStoktaOlanlar2.html",
-    "Konu Sayısı": "15743",
-    "Güncelleme Tarihi": "2023-09-07T07:00:00.000Z",
-    "Resim": "https://eska21.github.io/D/Depoicon/DepoStokBakma2.png",
-    "Durumu": "Hazır"
-  },
-  {
-    "No": "5",
-    "Konu": "Yakuplu Depo Adresleme Sistemi",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": "https://eska21.github.io/D/Depoicon/YakupAdres.png",
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "6",
-    "Konu": "Yakuplu Depo Stok Bakma",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": "https://eska21.github.io/D/Depoicon/YakupStokBakma.png",
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "7",
-    "Konu": "Dökme Malzeme Stoğu",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": "https://eska21.github.io/D/Depoicon/DokmeStok.png",
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "8",
-    "Konu": "Haftalık Fire Rapor",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": "https://eska21.github.io/D/Depoicon/HaftaFire.png",
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "9",
-    "Konu": "Depo Sayım Raporları",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": "https://eska21.github.io/D/Depoicon/DepoSayim.png",
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "10",
-    "Konu": "Aylık Asis'in Aldıkları",
-    "Link": "https://eska21.github.io/D/AsisVerilen.html",
-    "Konu Sayısı": "1",
-    "Güncelleme Tarihi": "2020-10-23T07:00:00.000Z",
-    "Resim": "https://eska21.github.io/D/Depoicon/AsisAylik.png",
-    "Durumu": "Hazır"
-  },
-  {
-    "No": "11",
-    "Konu": "Dizgi Listeleri",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": "https://eska21.github.io/D/Depoicon/DizgiListe.png",
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "12",
-    "Konu": "Aylık Envanter Listeleri",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": "https://eska21.github.io/D/Depoicon/AylikEnvanter.png",
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "13",
-    "Konu": "Tozsuz Oda Üretimleri",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": null,
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "14",
-    "Konu": "Depo Mesai Çizelgeleri",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": null,
-    "Durumu": "Yapım Aşamasında"
-  },
-  {
-    "No": "15",
-    "Konu": "Sofya'ya Giden Malzeme Listesi",
-    "Link": null,
-    "Konu Sayısı": "0",
-    "Güncelleme Tarihi": null,
-    "Resim": null,
-    "Durumu": "Yapım Aşamasında"
-  }
+{"No": "1","Konu": "Depo Adresleme Sistemi","Link": "https://eska21.github.io/D/Depo.html","Konu Sayısı": "12018","Güncelleme Tarihi": "22.10.2020","Resim": "https://eska21.github.io/D/Depoicon/DepoAdres.png","Durumu": "Hazır"},
+{"No": "2","Konu": "Depo Stok Bakma (1. 2. 3. Depolar)","Link": "https://eska21.github.io/D/DepoStoktaOlanlar.html","Konu Sayısı": "5676","Güncelleme Tarihi": "29.04.2024","Resim": "https://eska21.github.io/D/Depoicon/DepoStokBakma.png","Durumu": "Hazır"},
+{"No": "3","Konu": "Nem Alıcı Dolap İçeriği ve Stoğu","Link": "https://eska21.github.io/D/DepoNem.html","Konu Sayısı": "111","Güncelleme Tarihi": "29.8.2022","Resim": "https://eska21.github.io/D/Depoicon/NemDolap.png","Durumu": "Hazır"},
+{"No": "4","Konu": "Stok Olan Depolar 2","Link": "https://eska21.github.io/D/DepoStoktaOlanlar2.html","Konu Sayısı": "15743","Güncelleme Tarihi": "07.09.2023","Resim": "https://eska21.github.io/D/Depoicon/DepoStokBakma2.png","Durumu": "Hazır"},
+{"No": "5","Konu": "Yakuplu Depo Adresleme Sistemi","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "https://eska21.github.io/D/Depoicon/YakupAdres.png","Durumu": "Yapım Aşamasında"},
+{"No": "6","Konu": "Yakuplu Depo Stok Bakma","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "https://eska21.github.io/D/Depoicon/YakupStokBakma.png","Durumu": "Yapım Aşamasında"},
+{"No": "7","Konu": "Dökme Malzeme Stoğu","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "https://eska21.github.io/D/Depoicon/DokmeStok.png","Durumu": "Yapım Aşamasında"},
+{"No": "8","Konu": "Haftalık Fire Rapor","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "https://eska21.github.io/D/Depoicon/HaftaFire.png","Durumu": "Yapım Aşamasında"},
+{"No": "9","Konu": "Depo Sayım Raporları","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "https://eska21.github.io/D/Depoicon/DepoSayim.png","Durumu": "Yapım Aşamasında"},
+{"No": "10","Konu": "Aylık Asis'in Aldıkları","Link": "https://eska21.github.io/D/AsisVerilen.html","Konu Sayısı": "1","Güncelleme Tarihi": "23.10.2020","Resim": "https://eska21.github.io/D/Depoicon/AsisAylik.png","Durumu": "Hazır"},
+{"No": "11","Konu": "Dizgi Listeleri","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "https://eska21.github.io/D/Depoicon/DizgiListe.png","Durumu": "Yapım Aşamasında"},
+{"No": "12","Konu": "Aylık Envanter Listeleri","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "https://eska21.github.io/D/Depoicon/AylikEnvanter.png","Durumu": "Yapım Aşamasında"},
+{"No": "13","Konu": "Tozsuz Oda Üretimleri","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "","Durumu": "Yapım Aşamasında"},
+{"No": "14","Konu": "Depo Mesai Çizelgeleri","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "","Durumu": "Yapım Aşamasında"},
+{"No": "15","Konu": "Sofya'ya Giden Malzeme Listesi","Link": "","Konu Sayısı": "0","Güncelleme Tarihi": "","Resim": "","Durumu": "Yapım Aşamasında"}
 ]
